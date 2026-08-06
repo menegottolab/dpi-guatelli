@@ -6,221 +6,235 @@
 <title>Scheda DPI</title>
 
 <style>
-
 *{
     box-sizing:border-box;
 }
 
 body{
-    font-family:Arial,sans-serif;
-    background:#eef3f8;
     margin:0;
-    padding:20px;
+    padding:18px;
+    font-family:Arial, Helvetica, sans-serif;
+    background:linear-gradient(180deg,#eef3f8 0%,#e5edf5 100%);
+    color:#1f2937;
 }
 
-.box{
-    max-width:500px;
-    margin:auto;
-    background:#fff;
-    border-radius:18px;
+.scheda{
+    max-width:520px;
+    margin:0 auto;
+    background:#ffffff;
+    border-radius:22px;
     overflow:hidden;
-    box-shadow:0 8px 28px rgba(0,0,0,.18);
+    box-shadow:0 12px 35px rgba(15,23,42,.18);
 }
 
 .header{
     background:#0b74c9;
-    padding:22px;
+    padding:26px 22px;
     text-align:center;
 }
 
 .logo{
-    width:240px;
+    width:255px;
     max-width:100%;
     height:auto;
     display:block;
-    margin:auto;
+    margin:0 auto;
 }
 
-.content{
+.contenuto{
     padding:20px;
 }
 
 .riga{
-    display:flex;
-    justify-content:space-between;
+    display:grid;
+    grid-template-columns:44px 1fr auto;
+    gap:12px;
     align-items:center;
-    gap:20px;
-    padding:14px 0;
-    border-bottom:1px solid #ddd;
+    padding:15px 0;
+    border-bottom:1px solid #e5e7eb;
+}
+
+.icona{
+    width:36px;
+    height:36px;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#eaf4fb;
+    font-size:19px;
 }
 
 .label{
-    font-weight:bold;
-    color:#4b5563;
+    font-size:14px;
+    font-weight:700;
+    color:#64748b;
+    text-transform:uppercase;
+    letter-spacing:.4px;
 }
 
 .valore{
+    max-width:230px;
     text-align:right;
-    font-weight:600;
+    font-size:16px;
+    font-weight:700;
+    color:#0f172a;
+    word-break:break-word;
 }
 
 .stato{
-    margin-top:20px;
-    padding:16px;
+    margin-top:22px;
+    padding:17px 16px;
+    border-radius:14px;
     text-align:center;
-    font-weight:bold;
     font-size:20px;
-    border-radius:10px;
+    font-weight:800;
+    letter-spacing:.5px;
+    border:1px solid transparent;
 }
 
 .valido{
-    background:#d4edda;
-    color:#155724;
+    background:#dcfce7;
+    color:#166534;
+    border-color:#86efac;
 }
 
 .in-scadenza{
-    background:#fff3cd;
-    color:#856404;
+    background:#fef3c7;
+    color:#92400e;
+    border-color:#fcd34d;
 }
 
 .scaduto{
-    background:#f8d7da;
-    color:#721c24;
+    background:#fee2e2;
+    color:#991b1b;
+    border-color:#fca5a5;
 }
 
 .errore{
-    color:#721c24;
-    background:#f8d7da;
+    padding:34px 20px;
     text-align:center;
-    font-weight:bold;
-    padding:30px;
-    border-radius:8px;
+    font-weight:800;
+    color:#991b1b;
+    background:#fee2e2;
+    border-radius:14px;
+}
+
+.footer{
+    max-width:520px;
+    margin:12px auto 0;
+    text-align:center;
+    font-size:12px;
+    color:#64748b;
 }
 
 @media(max-width:480px){
-
     body{
         padding:10px;
     }
 
+    .header{
+        padding:22px 16px;
+    }
+
     .logo{
-        width:180px;
+        width:210px;
+    }
+
+    .contenuto{
+        padding:16px;
     }
 
     .riga{
-        flex-direction:column;
-        align-items:flex-start;
-        gap:5px;
+        grid-template-columns:40px 1fr;
     }
 
     .valore{
+        grid-column:2;
+        max-width:none;
         text-align:left;
+        margin-top:-5px;
     }
-
 }
-
 </style>
 </head>
 
 <body>
 
-<div class="box">
+<div class="scheda">
 
     <div class="header">
         <img src="logo.png" class="logo" alt="Logo Guatelli">
     </div>
 
-    <div class="content" id="contenuto">
+    <div class="contenuto" id="contenuto">
         Caricamento...
     </div>
 
 </div>
 
-<script>
+<div class="footer">
+    Scheda DPI consultabile tramite QR Code
+</div>
 
+<script>
 const codice = new URLSearchParams(window.location.search).get("codice");
 const contenuto = document.getElementById("contenuto");
 
-fetch("./dpi.json",{cache:"no-store"})
+function creaRiga(icona, etichetta, valore){
+    return `
+        <div class="riga">
+            <div class="icona">${icona}</div>
+            <div class="label">${etichetta}</div>
+            <div class="valore">${valore || "-"}</div>
+        </div>
+    `;
+}
 
-.then(response=>{
-
+fetch("./dpi.json", { cache: "no-store" })
+.then(response => {
     if(!response.ok){
-        throw new Error("Errore");
+        throw new Error("File dpi.json non disponibile");
     }
 
     return response.json();
-
 })
-
-.then(dati=>{
-
-    const x=dati[codice];
+.then(dati => {
+    const x = dati[codice];
 
     if(!codice || !x){
-
-        contenuto.innerHTML='<div class="errore">DPI NON TROVATO</div>';
+        contenuto.innerHTML =
+            '<div class="errore">DPI NON TROVATO</div>';
         return;
-
     }
 
-    const stato=(x.stato || "").toUpperCase();
-
-    let classe="valido";
+    const stato = (x.stato || "").toUpperCase();
+    let classeStato = "valido";
 
     if(stato.includes("SCADUTO")){
-        classe="scaduto";
+        classeStato = "scaduto";
     }
     else if(stato.includes("SCADENZA")){
-        classe="in-scadenza";
+        classeStato = "in-scadenza";
     }
 
-    contenuto.innerHTML=`
+    contenuto.innerHTML = `
+        ${creaRiga("🏷️", "Codice", x.codice)}
+        ${creaRiga("🦺", "DPI", x.dpi)}
+        ${creaRiga("👷", "Lavoratore", x.lavoratore)}
+        ${creaRiga("🏭", "Marca", x.marca)}
+        ${creaRiga("📅", "Data consegna", x.dataConsegna)}
+        ${creaRiga("⏳", "Scadenza", x.scadenza)}
 
-    <div class="riga">
-        <span class="label">Codice</span>
-        <span class="valore">${x.codice ?? "-"}</span>
-    </div>
-
-    <div class="riga">
-        <span class="label">DPI</span>
-        <span class="valore">${x.dpi ?? "-"}</span>
-    </div>
-
-    <div class="riga">
-        <span class="label">Lavoratore</span>
-        <span class="valore">${x.lavoratore ?? "-"}</span>
-    </div>
-
-    <div class="riga">
-        <span class="label">Marca</span>
-        <span class="valore">${x.marca ?? "-"}</span>
-    </div>
-
-    <div class="riga">
-        <span class="label">Data consegna</span>
-        <span class="valore">${x.dataConsegna ?? "-"}</span>
-    </div>
-
-    <div class="riga">
-        <span class="label">Scadenza</span>
-        <span class="valore">${x.scadenza ?? "-"}</span>
-    </div>
-
-    <div class="stato ${classe}">
-        ${x.stato ?? "-"}
-    </div>
-
+        <div class="stato ${classeStato}">
+            ${x.stato || "STATO NON DISPONIBILE"}
+        </div>
     `;
-
 })
-
-.catch(()=>{
-
-    contenuto.innerHTML='<div class="errore">Errore nel caricamento del file dpi.json</div>';
-
+.catch(() => {
+    contenuto.innerHTML =
+        '<div class="errore">Errore nel caricamento del file dpi.json</div>';
 });
-
 </script>
 
 </body>
