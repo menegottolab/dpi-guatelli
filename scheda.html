@@ -29,33 +29,16 @@ body{
 
 .header{
     background:#0b74c9;
-    color:white;
-    padding:24px 20px;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    gap:18px;
+    padding:22px;
+    text-align:center;
 }
 
 .logo{
-    width:95px;
+    width:240px;
+    max-width:100%;
     height:auto;
-    flex-shrink:0;
-}
-
-.header-testo{
-    text-align:left;
-}
-
-.header h1{
-    margin:0;
-    font-size:30px;
-    line-height:1.1;
-}
-
-.header p{
-    margin:8px 0 0;
-    font-size:18px;
+    display:block;
+    margin:auto;
 }
 
 .content{
@@ -65,6 +48,7 @@ body{
 .riga{
     display:flex;
     justify-content:space-between;
+    align-items:center;
     gap:20px;
     padding:14px 0;
     border-bottom:1px solid #ddd;
@@ -119,143 +103,121 @@ body{
         padding:10px;
     }
 
-    .header{
-        flex-direction:column;
-        text-align:center;
-        gap:12px;
-    }
-
-    .header-testo{
-        text-align:center;
-    }
-
     .logo{
-        width:160px;
-    }
-
-    .header h1{
-        font-size:28px;
-    }
-
-    .header p{
-        font-size:18px;
+        width:180px;
     }
 
     .riga{
         flex-direction:column;
+        align-items:flex-start;
         gap:5px;
     }
 
     .valore{
         text-align:left;
     }
+
 }
 
 </style>
-
 </head>
 
 <body>
 
 <div class="box">
 
-<div class="header">
+    <div class="header">
+        <img src="logo.png" class="logo" alt="Logo Guatelli">
+    </div>
 
-<img src="logo.png" class="logo" alt="Logo Guatelli">
-
-<div class="header-testo">
-<h1>C.I.I. Guatelli S.p.A.</h1>
-<p>Scheda DPI</p>
-</div>
-
-</div>
-
-<div class="content" id="contenuto">
-Caricamento...
-</div>
+    <div class="content" id="contenuto">
+        Caricamento...
+    </div>
 
 </div>
 
 <script>
 
 const codice = new URLSearchParams(window.location.search).get("codice");
+const contenuto = document.getElementById("contenuto");
 
-fetch("./dpi.json", { cache: "no-store" })
-.then(response => {
+fetch("./dpi.json",{cache:"no-store"})
+
+.then(response=>{
 
     if(!response.ok){
-        throw new Error("File dpi.json non disponibile");
+        throw new Error("Errore");
     }
 
     return response.json();
 
 })
-.then(dati => {
 
-    const x = dati[codice];
+.then(dati=>{
+
+    const x=dati[codice];
 
     if(!codice || !x){
 
-        document.getElementById("contenuto").innerHTML =
-        '<div class="errore">DPI NON TROVATO</div>';
-
+        contenuto.innerHTML='<div class="errore">DPI NON TROVATO</div>';
         return;
+
     }
 
-    const stato = (x.stato || "").toUpperCase();
+    const stato=(x.stato || "").toUpperCase();
 
-    let classeStato = "valido";
+    let classe="valido";
 
     if(stato.includes("SCADUTO")){
-        classeStato = "scaduto";
+        classe="scaduto";
     }
     else if(stato.includes("SCADENZA")){
-        classeStato = "in-scadenza";
+        classe="in-scadenza";
     }
 
-    document.getElementById("contenuto").innerHTML = `
+    contenuto.innerHTML=`
 
     <div class="riga">
         <span class="label">Codice</span>
-        <span class="valore">${x.codice || "-"}</span>
+        <span class="valore">${x.codice ?? "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">DPI</span>
-        <span class="valore">${x.dpi || "-"}</span>
+        <span class="valore">${x.dpi ?? "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Lavoratore</span>
-        <span class="valore">${x.lavoratore || "-"}</span>
+        <span class="valore">${x.lavoratore ?? "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Marca</span>
-        <span class="valore">${x.marca || "-"}</span>
+        <span class="valore">${x.marca ?? "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Data consegna</span>
-        <span class="valore">${x.dataConsegna || "-"}</span>
+        <span class="valore">${x.dataConsegna ?? "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Scadenza</span>
-        <span class="valore">${x.scadenza || "-"}</span>
+        <span class="valore">${x.scadenza ?? "-"}</span>
     </div>
 
-    <div class="stato ${classeStato}">
-        ${x.stato || "STATO NON DISPONIBILE"}
+    <div class="stato ${classe}">
+        ${x.stato ?? "-"}
     </div>
 
     `;
 
 })
-.catch(() => {
 
-    document.getElementById("contenuto").innerHTML =
-    '<div class="errore">Errore nel caricamento del file dpi.json</div>';
+.catch(()=>{
+
+    contenuto.innerHTML='<div class="errore">Errore nel caricamento del file dpi.json</div>';
 
 });
 
