@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scheda DPI</title>
+
+<style>
+
+body{
+    font-family:Arial,sans-serif;
+    background:#eef3f8;
+    margin:0;
+    padding:20px;
+}
+
+.box{
+    max-width:500px;
+    margin:auto;
+    background:#fff;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 0 20px rgba(0,0,0,.2);
+}
+
+.header{
+    background:#0b74c9;
+    color:white;
+    padding:25px;
+    text-align:center;
+}
+
+.header h1{
+    margin:0;
+}
+
+.content{
+    padding:20px;
+}
+
+.riga{
+    display:flex;
+    justify-content:space-between;
+    padding:12px 0;
+    border-bottom:1px solid #ddd;
+}
+
+.label{
+    font-weight:bold;
+}
+
+.ok{
+    margin-top:20px;
+    background:#d4edda;
+    color:#155724;
+    padding:15px;
+    text-align:center;
+    font-weight:bold;
+    border-radius:8px;
+}
+
+.errore{
+    color:red;
+    text-align:center;
+    font-weight:bold;
+    padding:30px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<div class="header">
+<h1>C.I.I. Guatelli S.p.A.</h1>
+<p>Scheda DPI</p>
+</div>
+
+<div class="content" id="contenuto">
+Caricamento...
+</div>
+
+</div>
+
+<script>
+
+const codice = new URLSearchParams(window.location.search).get("codice");
+
+fetch("./dpi.json")
+.then(response => response.json())
+.then(dati => {
+
+    const x = dati[codice];
+
+    if(!x){
+        document.getElementById("contenuto").innerHTML =
+        '<div class="errore">DPI NON TROVATO</div>';
+        return;
+    }
+
+    document.getElementById("contenuto").innerHTML = `
+
+    <div class="riga">
+        <span class="label">Codice</span>
+        <span>${x.codice}</span>
+    </div>
+
+    <div class="riga">
+        <span class="label">DPI</span>
+        <span>${x.dpi}</span>
+    </div>
+
+    <div class="riga">
+        <span class="label">Lavoratore</span>
+        <span>${x.lavoratore}</span>
+    </div>
+
+    <div class="riga">
+        <span class="label">Marca</span>
+        <span>${x.marca}</span>
+    </div>
+
+    <div class="riga">
+        <span class="label">Data consegna</span>
+        <span>${x.dataConsegna}</span>
+    </div>
+
+    <div class="riga">
+        <span class="label">Scadenza</span>
+        <span>${x.scadenza}</span>
+    </div>
+
+    <div class="ok">${x.stato}</div>
+
+    `;
+
+})
+.catch(() => {
+
+    document.getElementById("contenuto").innerHTML =
+    '<div class="errore">Errore nel caricamento del file dpi.json</div>';
+
+});
+
+</script>
+
+</body>
+</html>
