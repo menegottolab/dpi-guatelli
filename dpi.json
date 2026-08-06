@@ -1,0 +1,11 @@
+{
+  "DPI-00001": {
+    "codice": "DPI-00001",
+    "dpi": "ELMETTO",
+    "lavoratore": "AFRICANO AGOSTINO",
+    "marca": "SIR - EVEREST - EN397/EN50365",
+    "dataConsegna": "12/05/2025",
+    "scadenza": "12/05/2028",
+    "stato": "VALIDO"
+  }
+}
