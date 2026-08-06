@@ -7,6 +7,10 @@
 
 <style>
 
+*{
+    box-sizing:border-box;
+}
+
 body{
     font-family:Arial,sans-serif;
     background:#eef3f8;
@@ -18,24 +22,40 @@ body{
     max-width:500px;
     margin:auto;
     background:#fff;
-    border-radius:15px;
+    border-radius:18px;
     overflow:hidden;
-    box-shadow:0 0 20px rgba(0,0,0,.2);
+    box-shadow:0 8px 28px rgba(0,0,0,.18);
 }
 
 .header{
     background:#0b74c9;
     color:white;
-    padding:25px;
-    text-align:center;
+    padding:24px 20px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:18px;
+}
+
+.logo{
+    width:95px;
+    height:auto;
+    flex-shrink:0;
+}
+
+.header-testo{
+    text-align:left;
 }
 
 .header h1{
     margin:0;
+    font-size:30px;
+    line-height:1.1;
 }
 
 .header p{
     margin:8px 0 0;
+    font-size:18px;
 }
 
 .content{
@@ -46,7 +66,7 @@ body{
     display:flex;
     justify-content:space-between;
     gap:20px;
-    padding:12px 0;
+    padding:14px 0;
     border-bottom:1px solid #ddd;
 }
 
@@ -62,11 +82,11 @@ body{
 
 .stato{
     margin-top:20px;
-    padding:15px;
+    padding:16px;
     text-align:center;
     font-weight:bold;
-    font-size:18px;
-    border-radius:8px;
+    font-size:20px;
+    border-radius:10px;
 }
 
 .valido{
@@ -99,6 +119,28 @@ body{
         padding:10px;
     }
 
+    .header{
+        flex-direction:column;
+        text-align:center;
+        gap:12px;
+    }
+
+    .header-testo{
+        text-align:center;
+    }
+
+    .logo{
+        width:160px;
+    }
+
+    .header h1{
+        font-size:28px;
+    }
+
+    .header p{
+        font-size:18px;
+    }
+
     .riga{
         flex-direction:column;
         gap:5px;
@@ -118,8 +160,14 @@ body{
 <div class="box">
 
 <div class="header">
+
+<img src="logo.png" class="logo" alt="Logo Guatelli">
+
+<div class="header-testo">
 <h1>C.I.I. Guatelli S.p.A.</h1>
 <p>Scheda DPI</p>
+</div>
+
 </div>
 
 <div class="content" id="contenuto">
