@@ -34,6 +34,10 @@ body{
     margin:0;
 }
 
+.header p{
+    margin:8px 0 0;
+}
+
 .content{
     padding:20px;
 }
@@ -41,29 +45,68 @@ body{
 .riga{
     display:flex;
     justify-content:space-between;
+    gap:20px;
     padding:12px 0;
     border-bottom:1px solid #ddd;
 }
 
 .label{
     font-weight:bold;
+    color:#4b5563;
 }
 
-.ok{
+.valore{
+    text-align:right;
+    font-weight:600;
+}
+
+.stato{
     margin-top:20px;
-    background:#d4edda;
-    color:#155724;
     padding:15px;
     text-align:center;
     font-weight:bold;
+    font-size:18px;
     border-radius:8px;
 }
 
+.valido{
+    background:#d4edda;
+    color:#155724;
+}
+
+.in-scadenza{
+    background:#fff3cd;
+    color:#856404;
+}
+
+.scaduto{
+    background:#f8d7da;
+    color:#721c24;
+}
+
 .errore{
-    color:red;
+    color:#721c24;
+    background:#f8d7da;
     text-align:center;
     font-weight:bold;
     padding:30px;
+    border-radius:8px;
+}
+
+@media(max-width:480px){
+
+    body{
+        padding:10px;
+    }
+
+    .riga{
+        flex-direction:column;
+        gap:5px;
+    }
+
+    .valore{
+        text-align:left;
+    }
 }
 
 </style>
@@ -89,51 +132,74 @@ Caricamento...
 
 const codice = new URLSearchParams(window.location.search).get("codice");
 
-fetch("./dpi.json")
-.then(response => response.json())
+fetch("./dpi.json", { cache: "no-store" })
+.then(response => {
+
+    if(!response.ok){
+        throw new Error("File dpi.json non disponibile");
+    }
+
+    return response.json();
+
+})
 .then(dati => {
 
     const x = dati[codice];
 
-    if(!x){
+    if(!codice || !x){
+
         document.getElementById("contenuto").innerHTML =
         '<div class="errore">DPI NON TROVATO</div>';
+
         return;
+    }
+
+    const stato = (x.stato || "").toUpperCase();
+
+    let classeStato = "valido";
+
+    if(stato.includes("SCADUTO")){
+        classeStato = "scaduto";
+    }
+    else if(stato.includes("SCADENZA")){
+        classeStato = "in-scadenza";
     }
 
     document.getElementById("contenuto").innerHTML = `
 
     <div class="riga">
         <span class="label">Codice</span>
-        <span>${x.codice}</span>
+        <span class="valore">${x.codice || "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">DPI</span>
-        <span>${x.dpi}</span>
+        <span class="valore">${x.dpi || "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Lavoratore</span>
-        <span>${x.lavoratore}</span>
+        <span class="valore">${x.lavoratore || "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Marca</span>
-        <span>${x.marca}</span>
+        <span class="valore">${x.marca || "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Data consegna</span>
-        <span>${x.dataConsegna}</span>
+        <span class="valore">${x.dataConsegna || "-"}</span>
     </div>
 
     <div class="riga">
         <span class="label">Scadenza</span>
-        <span>${x.scadenza}</span>
+        <span class="valore">${x.scadenza || "-"}</span>
     </div>
 
-    <div class="ok">${x.stato}</div>
+    <div class="stato ${classeStato}">
+        ${x.stato || "STATO NON DISPONIBILE"}
+    </div>
 
     `;
 
