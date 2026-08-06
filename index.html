@@ -2,84 +2,74 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Scheda DPI - CII Guatelli</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Scheda DPI</title>
 
   <style>
     body {
       margin: 0;
+      padding: 20px;
       font-family: Arial, sans-serif;
       background: #eef3f8;
       color: #1f2937;
     }
 
-    .pagina {
-      max-width: 520px;
-      margin: 24px auto;
-      padding: 16px;
-    }
-
     .scheda {
+      max-width: 500px;
+      margin: auto;
       background: white;
       border-radius: 18px;
       overflow: hidden;
-      box-shadow: 0 8px 28px rgba(0,0,0,0.14);
+      box-shadow: 0 8px 25px rgba(0,0,0,.15);
     }
 
     .testata {
-      background: #0877c9;
-      color: white;
+      padding: 24px;
       text-align: center;
-      padding: 26px 18px;
+      color: white;
+      background: #0877c9;
     }
 
-    .testata h1 {
-      margin: 0;
-      font-size: 26px;
-    }
-
+    .testata h1,
     .testata p {
-      margin: 8px 0 0;
-      font-size: 15px;
+      margin: 5px;
     }
 
     .codice {
+      padding: 20px;
       text-align: center;
-      font-size: 24px;
+      font-size: 25px;
       font-weight: bold;
-      padding: 22px 16px 10px;
       color: #0877c9;
     }
 
-    .contenuto {
-      padding: 10px 20px 24px;
+    .dati {
+      padding: 0 20px 22px;
     }
 
     .riga {
       display: flex;
       justify-content: space-between;
-      gap: 18px;
+      gap: 15px;
       padding: 14px 0;
-      border-bottom: 1px solid #e5e7eb;
+      border-bottom: 1px solid #ddd;
     }
 
-    .etichetta {
+    .titolo {
       font-weight: bold;
-      color: #4b5563;
     }
 
     .valore {
       text-align: right;
-      font-weight: 600;
     }
 
     .stato {
       margin-top: 20px;
       padding: 14px;
-      text-align: center;
       border-radius: 10px;
-      font-weight: bold;
+      text-align: center;
       font-size: 18px;
+      font-weight: bold;
     }
 
     .valido {
@@ -92,114 +82,79 @@
       color: #b42318;
     }
 
-    .inscadenza {
-      background: #fff3cd;
-      color: #8a5a00;
-    }
-
     .errore {
       padding: 30px;
       text-align: center;
       color: #b42318;
       font-weight: bold;
     }
-
-    .footer {
-      text-align: center;
-      padding: 18px;
-      font-size: 12px;
-      color: #6b7280;
-    }
   </style>
 </head>
 
 <body>
 
-  <div class="pagina">
-    <div class="scheda">
-
-      <div class="testata">
-        <h1>C.I.I. Guatelli S.p.A.</h1>
-        <p>Scheda identificativa DPI</p>
-      </div>
-
-      <div id="contenuto">
-        <div class="errore">Caricamento dati...</div>
-      </div>
-
-    </div>
-
-    <div class="footer">
-      Scheda consultabile tramite QR Code
-    </div>
+<div class="scheda">
+  <div class="testata">
+    <h1>C.I.I. Guatelli S.p.A.</h1>
+    <p>Scheda identificativa DPI</p>
   </div>
 
-  <script>
-    const parametri = new URLSearchParams(window.location.search);
-    const codice = parametri.get("codice");
-    const contenuto = document.getElementById("contenuto");
+  <div id="contenuto">
+    <div class="errore">Caricamento...</div>
+  </div>
+</div>
 
-    function creaRiga(etichetta, valore) {
-      return `
-        <div class="riga">
-          <div class="etichetta">${etichetta}</div>
-          <div class="valore">${valore || "-"}</div>
+<script>
+  const codice = new URLSearchParams(location.search).get("codice");
+  const contenuto = document.getElementById("contenuto");
+
+  function riga(titolo, valore) {
+    return `
+      <div class="riga">
+        <span class="titolo">${titolo}</span>
+        <span class="valore">${valore || "-"}</span>
+      </div>
+    `;
+  }
+
+  fetch("./dpi.json")
+    .then(r => r.json())
+    .then(dati => {
+      const dpi = dati[codice];
+
+      if (!codice || !dpi) {
+        contenuto.innerHTML =
+          '<div class="errore">DPI non trovato.</div>';
+        return;
+      }
+
+      let classe = "valido";
+
+      if ((dpi.stato || "").toUpperCase().includes("SCADUTO")) {
+        classe = "scaduto";
+      }
+
+      contenuto.innerHTML = `
+        <div class="codice">${dpi.codice}</div>
+
+        <div class="dati">
+          ${riga("DPI", dpi.dpi)}
+          ${riga("Lavoratore", dpi.lavoratore)}
+          ${riga("Marca / Modello", dpi.marca)}
+          ${riga("Data consegna", dpi.dataConsegna)}
+          ${riga("Scadenza", dpi.scadenza)}
+
+          <div class="stato ${classe}">
+            ${dpi.stato}
+          </div>
         </div>
       `;
-    }
-
-    fetch("dpi.json")
-      .then(risposta => risposta.json())
-      .then(dati => {
-
-        if (!codice) {
-          contenuto.innerHTML =
-            '<div class="errore">Codice DPI non specificato.</div>';
-          return;
-        }
-
-        const dpi = dati[codice];
-
-        if (!dpi) {
-          contenuto.innerHTML =
-            '<div class="errore">DPI non trovato: ' + codice + '</div>';
-          return;
-        }
-
-        let classeStato = "valido";
-
-        if (dpi.stato.toUpperCase().includes("SCADUTO")) {
-          classeStato = "scaduto";
-        } else if (dpi.stato.toUpperCase().includes("SCADENZA")) {
-          classeStato = "inscadenza";
-        }
-
-        contenuto.innerHTML = `
-          <div class="codice">${dpi.codice}</div>
-
-          <div class="contenuto">
-            ${creaRiga("DPI", dpi.dpi)}
-            ${creaRiga("Lavoratore", dpi.lavoratore)}
-            ${creaRiga("Marca / Modello", dpi.marca)}
-            ${creaRiga("Data consegna", dpi.dataConsegna)}
-            ${creaRiga("Scadenza", dpi.scadenza)}
-
-            <div class="stato ${classeStato}">
-              ${dpi.stato}
-            </div>
-          </div>
-        `;
-      })
-      .catch(() => {
-        contenuto.innerHTML =
-          '<div class="errore">Errore nel caricamento dei dati.</div>';
-      });
-  </script>
+    })
+    .catch(() => {
+      contenuto.innerHTML =
+        '<div class="errore">Errore nel caricamento dei dati.</div>';
+    });
+</script>
 
 </body>
 </html>
-Premi Commit changes.
-Lascia selezionato Commit directly to the main branch.
-Premi ancora Commit changes.
-Aspetta circa 30 secondi.
-Apri questo indirizzo:
