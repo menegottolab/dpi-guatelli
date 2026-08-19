@@ -22,8 +22,8 @@
     "dpi": "GIUBBOTTO TERMICO",
     "lavoratore": "AFRICANO AGOSTINO",
     "marca": "",
-    "dataConsegna": "21/04/2021",
-    "scadenza": "21/04/2031",
+    "dataConsegna": "22/04/2021",
+    "scadenza": "22/04/2031",
     "stato": "VALIDO"
   },
   "DPI-00007": {
@@ -57,7 +57,7 @@
     "codice": "DPI-00010",
     "dpi": "CALZAMAGLIA",
     "lavoratore": "AFRICANO AGOSTINO",
-    "marca": "",
+    "marca": "SAFE - 03820.02",
     "dataConsegna": "08/02/2024",
     "scadenza": "08/02/2034",
     "stato": "VALIDO"
@@ -253,15 +253,6 @@
   },
   "DPI-00032": {
     "codice": "DPI-00032",
-    "dpi": "CAMICIA",
-    "lavoratore": "AGOSTINO PASQUALE",
-    "marca": "SIR - POLYTECH TRIVALENTE",
-    "dataConsegna": "04/09/2025",
-    "scadenza": "04/09/2035",
-    "stato": "VALIDO"
-  },
-  "DPI-00033": {
-    "codice": "DPI-00033",
     "dpi": "PILE",
     "lavoratore": "AGOSTINO PASQUALE",
     "marca": "",
@@ -269,8 +260,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00034": {
-    "codice": "DPI-00034",
+  "DPI-00033": {
+    "codice": "DPI-00033",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "AVANZO MORENO",
     "marca": "ROSSINI - TPS",
@@ -278,8 +269,8 @@
     "scadenza": "18/02/2035",
     "stato": "VALIDO"
   },
-  "DPI-00035": {
-    "codice": "DPI-00035",
+  "DPI-00034": {
+    "codice": "DPI-00034",
     "dpi": "SCARPE S3",
     "lavoratore": "AVANZO MORENO",
     "marca": "SAFE - S3 SRC",
@@ -287,8 +278,8 @@
     "scadenza": "21/03/2030",
     "stato": "VALIDO"
   },
-  "DPI-00036": {
-    "codice": "DPI-00036",
+  "DPI-00035": {
+    "codice": "DPI-00035",
     "dpi": "STIVALE S3",
     "lavoratore": "AVANZO MORENO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -296,8 +287,8 @@
     "scadenza": "25/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00037": {
-    "codice": "DPI-00037",
+  "DPI-00036": {
+    "codice": "DPI-00036",
     "dpi": "TUTA TYVEK",
     "lavoratore": "AVANZO MORENO",
     "marca": "USA E GETTA",
@@ -305,8 +296,8 @@
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00038": {
-    "codice": "DPI-00038",
+  "DPI-00037": {
+    "codice": "DPI-00037",
     "dpi": "MAGLIETTA",
     "lavoratore": "AVANZO MORENO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -314,8 +305,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00039": {
-    "codice": "DPI-00039",
+  "DPI-00038": {
+    "codice": "DPI-00038",
     "dpi": "OCCHIALI",
     "lavoratore": "AVANZO MORENO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -323,8 +314,8 @@
     "scadenza": "25/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00040": {
-    "codice": "DPI-00040",
+  "DPI-00039": {
+    "codice": "DPI-00039",
     "dpi": "ELMETTO",
     "lavoratore": "AVANZO MORENO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -332,8 +323,8 @@
     "scadenza": "25/10/2026",
     "stato": "VALIDO"
   },
-  "DPI-00041": {
-    "codice": "DPI-00041",
+  "DPI-00040": {
+    "codice": "DPI-00040",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "AVANZO MORENO",
     "marca": "3M - OPTIME PELTRON I",
@@ -359,8 +350,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00044": {
-    "codice": "DPI-00044",
+  "DPI-00043": {
+    "codice": "DPI-00043",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "ARESU ANDREA",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -368,8 +359,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00045": {
-    "codice": "DPI-00045",
+  "DPI-00044": {
+    "codice": "DPI-00044",
     "dpi": "PILE",
     "lavoratore": "ARESU ANDREA",
     "marca": "",
@@ -377,8 +368,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00046": {
-    "codice": "DPI-00046",
+  "DPI-00045": {
+    "codice": "DPI-00045",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "ARESU ANDREA",
     "marca": "",
@@ -386,8 +377,8 @@
     "scadenza": "18/12/2028",
     "stato": "VALIDO"
   },
-  "DPI-00047": {
-    "codice": "DPI-00047",
+  "DPI-00046": {
+    "codice": "DPI-00046",
     "dpi": "STIVALE S3",
     "lavoratore": "ARESU ANDREA",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -395,8 +386,8 @@
     "scadenza": "11/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00048": {
-    "codice": "DPI-00048",
+  "DPI-00047": {
+    "codice": "DPI-00047",
     "dpi": "SCARPE S3",
     "lavoratore": "ARESU ANDREA",
     "marca": "SAFE - S3 SRC",
@@ -404,8 +395,8 @@
     "scadenza": "24/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00049": {
-    "codice": "DPI-00049",
+  "DPI-00048": {
+    "codice": "DPI-00048",
     "dpi": "MAGLIETTA",
     "lavoratore": "ARESU ANDREA",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -413,8 +404,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00050": {
-    "codice": "DPI-00050",
+  "DPI-00049": {
+    "codice": "DPI-00049",
     "dpi": "PANTALONE",
     "lavoratore": "ARESU ANDREA",
     "marca": "ALTA VISIBILITA'",
@@ -422,8 +413,8 @@
     "scadenza": "03/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00051": {
-    "codice": "DPI-00051",
+  "DPI-00050": {
+    "codice": "DPI-00050",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "ARESU ANDREA",
     "marca": "ROSSINI - TPS",
@@ -431,8 +422,8 @@
     "scadenza": "18/05/2035",
     "stato": "VALIDO"
   },
-  "DPI-00052": {
-    "codice": "DPI-00052",
+  "DPI-00051": {
+    "codice": "DPI-00051",
     "dpi": "ALTRO DPI",
     "lavoratore": "ARESU ANDREA",
     "marca": "IMPERMEABILE",
@@ -440,8 +431,8 @@
     "scadenza": "20/08/2035",
     "stato": "VALIDO"
   },
-  "DPI-00053": {
-    "codice": "DPI-00053",
+  "DPI-00052": {
+    "codice": "DPI-00052",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "ARESU ANDREA",
     "marca": "",
@@ -449,8 +440,8 @@
     "scadenza": "29/09/2030",
     "stato": "VALIDO"
   },
-  "DPI-00054": {
-    "codice": "DPI-00054",
+  "DPI-00053": {
+    "codice": "DPI-00053",
     "dpi": "ELMETTO",
     "lavoratore": "ARESU ANDREA",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -458,8 +449,8 @@
     "scadenza": "10/09/2028",
     "stato": "VALIDO"
   },
-  "DPI-00055": {
-    "codice": "DPI-00055",
+  "DPI-00054": {
+    "codice": "DPI-00054",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "ROSSINI - TPS",
@@ -467,13 +458,22 @@
     "scadenza": "09/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00056": {
-    "codice": "DPI-00056",
+  "DPI-00055": {
+    "codice": "DPI-00055",
     "dpi": "MAGLIETTA",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
     "dataConsegna": "10/08/2026",
     "scadenza": "10/08/2036",
+    "stato": "VALIDO"
+  },
+  "DPI-00056": {
+    "codice": "DPI-00056",
+    "dpi": "GUANTI IN CROSTA",
+    "lavoratore": "BABAJ ASTRIT",
+    "marca": "WURTH - FIORE/CROSTA EN388",
+    "dataConsegna": "01/10/2025",
+    "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
   "DPI-00057": {
@@ -481,30 +481,12 @@
     "dpi": "SCARPE S3",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "SAFE - S3 SRC",
-    "dataConsegna": "09/01/2025",
-    "scadenza": "09/01/2030",
-    "stato": "VALIDO"
-  },
-  "DPI-00058": {
-    "codice": "DPI-00058",
-    "dpi": "GUANTI IN CROSTA",
-    "lavoratore": "BABAJ ASTRIT",
-    "marca": "WURTH - FIORE/CROSTA EN388",
-    "dataConsegna": "01/10/2025",
-    "scadenza": "01/10/2030",
-    "stato": "VALIDO"
-  },
-  "DPI-00059": {
-    "codice": "DPI-00059",
-    "dpi": "SCARPE S3",
-    "lavoratore": "BABAJ ASTRIT",
-    "marca": "SAFE - S3 SRC",
     "dataConsegna": "25/01/2023",
     "scadenza": "25/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00060": {
-    "codice": "DPI-00060",
+  "DPI-00058": {
+    "codice": "DPI-00058",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -512,8 +494,8 @@
     "scadenza": "27/03/2028",
     "stato": "VALIDO"
   },
-  "DPI-00061": {
-    "codice": "DPI-00061",
+  "DPI-00059": {
+    "codice": "DPI-00059",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "3M - OPTIME PELTRON I",
@@ -521,8 +503,8 @@
     "scadenza": "14/03/2029",
     "stato": "VALIDO"
   },
-  "DPI-00062": {
-    "codice": "DPI-00062",
+  "DPI-00060": {
+    "codice": "DPI-00060",
     "dpi": "ELMETTO",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -530,8 +512,8 @@
     "scadenza": "22/10/2029",
     "stato": "VALIDO"
   },
-  "DPI-00063": {
-    "codice": "DPI-00063",
+  "DPI-00061": {
+    "codice": "DPI-00061",
     "dpi": "GILET",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "ALTA VISIBILITA'",
@@ -539,8 +521,8 @@
     "scadenza": "08/05/2035",
     "stato": "VALIDO"
   },
-  "DPI-00064": {
-    "codice": "DPI-00064",
+  "DPI-00062": {
+    "codice": "DPI-00062",
     "dpi": "GUANTI DIELETTRICI",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "",
@@ -548,8 +530,8 @@
     "scadenza": "09/09/2030",
     "stato": "VALIDO"
   },
-  "DPI-00065": {
-    "codice": "DPI-00065",
+  "DPI-00063": {
+    "codice": "DPI-00063",
     "dpi": "PILE",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "",
@@ -557,8 +539,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00066": {
-    "codice": "DPI-00066",
+  "DPI-00064": {
+    "codice": "DPI-00064",
     "dpi": "ALTRO DPI",
     "lavoratore": "BABAJ ASTRIT",
     "marca": "IMPERMEABILE",
@@ -566,8 +548,8 @@
     "scadenza": "04/12/2035",
     "stato": "VALIDO"
   },
-  "DPI-00067": {
-    "codice": "DPI-00067",
+  "DPI-00065": {
+    "codice": "DPI-00065",
     "dpi": "PANTALONE",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "TRIVALENTE",
@@ -575,8 +557,8 @@
     "scadenza": "08/04/2036",
     "stato": "VALIDO"
   },
-  "DPI-00068": {
-    "codice": "DPI-00068",
+  "DPI-00066": {
+    "codice": "DPI-00066",
     "dpi": "MAGLIETTA",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -584,8 +566,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00069": {
-    "codice": "DPI-00069",
+  "DPI-00067": {
+    "codice": "DPI-00067",
     "dpi": "ELMETTO",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -593,8 +575,8 @@
     "scadenza": "22/06/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00070": {
-    "codice": "DPI-00070",
+  "DPI-00068": {
+    "codice": "DPI-00068",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -602,8 +584,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00071": {
-    "codice": "DPI-00071",
+  "DPI-00069": {
+    "codice": "DPI-00069",
     "dpi": "STIVALE S3",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -611,8 +593,8 @@
     "scadenza": "29/01/2031",
     "stato": "VALIDO"
   },
-  "DPI-00072": {
-    "codice": "DPI-00072",
+  "DPI-00070": {
+    "codice": "DPI-00070",
     "dpi": "TUTA INTERA",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "",
@@ -620,8 +602,8 @@
     "scadenza": "15/10/2034",
     "stato": "VALIDO"
   },
-  "DPI-00073": {
-    "codice": "DPI-00073",
+  "DPI-00071": {
+    "codice": "DPI-00071",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "3M - OPTIME PELTRON I",
@@ -629,8 +611,8 @@
     "scadenza": "27/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00074": {
-    "codice": "DPI-00074",
+  "DPI-00072": {
+    "codice": "DPI-00072",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "",
@@ -638,8 +620,8 @@
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00075": {
-    "codice": "DPI-00075",
+  "DPI-00073": {
+    "codice": "DPI-00073",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BERNARDI GIANFRANCO",
     "marca": "ROSSINI - TPS",
@@ -656,8 +638,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00077": {
-    "codice": "DPI-00077",
+  "DPI-00075": {
+    "codice": "DPI-00075",
     "dpi": "ELMETTO",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -665,8 +647,8 @@
     "scadenza": "17/01/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00078": {
-    "codice": "DPI-00078",
+  "DPI-00076": {
+    "codice": "DPI-00076",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -674,8 +656,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00079": {
-    "codice": "DPI-00079",
+  "DPI-00077": {
+    "codice": "DPI-00077",
     "dpi": "GILET",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "ALTA VISIBILITA'",
@@ -683,8 +665,8 @@
     "scadenza": "22/10/2034",
     "stato": "VALIDO"
   },
-  "DPI-00080": {
-    "codice": "DPI-00080",
+  "DPI-00078": {
+    "codice": "DPI-00078",
     "dpi": "MAGLIETTA",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -692,17 +674,17 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00081": {
-    "codice": "DPI-00081",
+  "DPI-00079": {
+    "codice": "DPI-00079",
     "dpi": "TUTA TYVEK",
     "lavoratore": "BERNASCONE FABRIZIO",
-    "marca": "",
+    "marca": "DUPONT - CAT.III",
     "dataConsegna": "USA E GETTA",
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00082": {
-    "codice": "DPI-00082",
+  "DPI-00080": {
+    "codice": "DPI-00080",
     "dpi": "PILE",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "",
@@ -710,8 +692,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00083": {
-    "codice": "DPI-00083",
+  "DPI-00081": {
+    "codice": "DPI-00081",
     "dpi": "GUANTI CALORE",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "",
@@ -719,8 +701,8 @@
     "scadenza": "15/11/2028",
     "stato": "VALIDO"
   },
-  "DPI-00084": {
-    "codice": "DPI-00084",
+  "DPI-00082": {
+    "codice": "DPI-00082",
     "dpi": "STIVALE S3",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -728,8 +710,8 @@
     "scadenza": "29/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00085": {
-    "codice": "DPI-00085",
+  "DPI-00083": {
+    "codice": "DPI-00083",
     "dpi": "SCARPE S3",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "SAFE - S3 SRC",
@@ -737,8 +719,8 @@
     "scadenza": "11/07/2030",
     "stato": "VALIDO"
   },
-  "DPI-00086": {
-    "codice": "DPI-00086",
+  "DPI-00084": {
+    "codice": "DPI-00084",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BERNASCONE FABRIZIO",
     "marca": "ROSSINI - TPS",
@@ -746,8 +728,8 @@
     "scadenza": "30/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00087": {
-    "codice": "DPI-00087",
+  "DPI-00085": {
+    "codice": "DPI-00085",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BETTI MARCO",
     "marca": "ROSSINI - TPS",
@@ -755,8 +737,8 @@
     "scadenza": "27/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00088": {
-    "codice": "DPI-00088",
+  "DPI-00086": {
+    "codice": "DPI-00086",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BETTI MARCO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -764,8 +746,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00089": {
-    "codice": "DPI-00089",
+  "DPI-00087": {
+    "codice": "DPI-00087",
     "dpi": "MAGLIETTA",
     "lavoratore": "BETTI MARCO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -773,8 +755,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00090": {
-    "codice": "DPI-00090",
+  "DPI-00088": {
+    "codice": "DPI-00088",
     "dpi": "ALTRO DPI",
     "lavoratore": "BETTI MARCO",
     "marca": "IMPERMEABILE",
@@ -782,8 +764,8 @@
     "scadenza": "10/09/2035",
     "stato": "VALIDO"
   },
-  "DPI-00091": {
-    "codice": "DPI-00091",
+  "DPI-00089": {
+    "codice": "DPI-00089",
     "dpi": "GILET",
     "lavoratore": "BETTI MARCO",
     "marca": "ALTA VISIBILITA'",
@@ -791,8 +773,8 @@
     "scadenza": "21/03/2036",
     "stato": "VALIDO"
   },
-  "DPI-00092": {
-    "codice": "DPI-00092",
+  "DPI-00090": {
+    "codice": "DPI-00090",
     "dpi": "STIVALE S3",
     "lavoratore": "BETTI MARCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -800,8 +782,8 @@
     "scadenza": "07/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00093": {
-    "codice": "DPI-00093",
+  "DPI-00091": {
+    "codice": "DPI-00091",
     "dpi": "ELMETTO",
     "lavoratore": "BETTI MARCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -809,8 +791,8 @@
     "scadenza": "07/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00094": {
-    "codice": "DPI-00094",
+  "DPI-00092": {
+    "codice": "DPI-00092",
     "dpi": "SCARPE S3",
     "lavoratore": "BETTI MARCO",
     "marca": "SAFE - S3 SRC",
@@ -818,8 +800,8 @@
     "scadenza": "07/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00095": {
-    "codice": "DPI-00095",
+  "DPI-00093": {
+    "codice": "DPI-00093",
     "dpi": "TUTA INTERA",
     "lavoratore": "BETTI MARCO",
     "marca": "MECCANICI",
@@ -827,8 +809,8 @@
     "scadenza": "04/11/2035",
     "stato": "VALIDO"
   },
-  "DPI-00096": {
-    "codice": "DPI-00096",
+  "DPI-00094": {
+    "codice": "DPI-00094",
     "dpi": "PILE",
     "lavoratore": "BETTI MARCO",
     "marca": "",
@@ -836,8 +818,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00097": {
-    "codice": "DPI-00097",
+  "DPI-00095": {
+    "codice": "DPI-00095",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "ROSSINI - TPS",
@@ -845,17 +827,8 @@
     "scadenza": "19/02/2035",
     "stato": "VALIDO"
   },
-  "DPI-00098": {
-    "codice": "DPI-00098",
-    "dpi": "SCARPE S3",
-    "lavoratore": "BELLINI FAUSTO",
-    "marca": "SAFE - S3 SRC",
-    "dataConsegna": "19/02/2025",
-    "scadenza": "19/02/2030",
-    "stato": "VALIDO"
-  },
-  "DPI-00099": {
-    "codice": "DPI-00099",
+  "DPI-00096": {
+    "codice": "DPI-00096",
     "dpi": "STIVALE S3",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -863,8 +836,8 @@
     "scadenza": "19/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00100": {
-    "codice": "DPI-00100",
+  "DPI-00097": {
+    "codice": "DPI-00097",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -872,8 +845,8 @@
     "scadenza": "19/02/2035",
     "stato": "VALIDO"
   },
-  "DPI-00101": {
-    "codice": "DPI-00101",
+  "DPI-00098": {
+    "codice": "DPI-00098",
     "dpi": "ELMETTO",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -881,8 +854,8 @@
     "scadenza": "19/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00102": {
-    "codice": "DPI-00102",
+  "DPI-00099": {
+    "codice": "DPI-00099",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "3M - OPTIME PELTRON I",
@@ -890,8 +863,8 @@
     "scadenza": "19/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00103": {
-    "codice": "DPI-00103",
+  "DPI-00100": {
+    "codice": "DPI-00100",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -899,8 +872,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00104": {
-    "codice": "DPI-00104",
+  "DPI-00101": {
+    "codice": "DPI-00101",
     "dpi": "SCARPE S3",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "SAFE - S3 SRC",
@@ -908,8 +881,8 @@
     "scadenza": "19/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00105": {
-    "codice": "DPI-00105",
+  "DPI-00102": {
+    "codice": "DPI-00102",
     "dpi": "TUTA INTERA",
     "lavoratore": "BELLINI FAUSTO",
     "marca": "ANTISTATICA",
@@ -935,8 +908,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00108": {
-    "codice": "DPI-00108",
+  "DPI-00105": {
+    "codice": "DPI-00105",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -944,8 +917,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00109": {
-    "codice": "DPI-00109",
+  "DPI-00106": {
+    "codice": "DPI-00106",
     "dpi": "PANTALONE",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "TRIVALENTE",
@@ -953,8 +926,8 @@
     "scadenza": "18/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00110": {
-    "codice": "DPI-00110",
+  "DPI-00107": {
+    "codice": "DPI-00107",
     "dpi": "PILE",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "",
@@ -962,8 +935,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00111": {
-    "codice": "DPI-00111",
+  "DPI-00108": {
+    "codice": "DPI-00108",
     "dpi": "SCARPE S3",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "SAFE - S3 SRC",
@@ -971,8 +944,8 @@
     "scadenza": "21/03/2029",
     "stato": "VALIDO"
   },
-  "DPI-00112": {
-    "codice": "DPI-00112",
+  "DPI-00109": {
+    "codice": "DPI-00109",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "ROSSINI - TPS",
@@ -980,8 +953,8 @@
     "scadenza": "20/05/2034",
     "stato": "VALIDO"
   },
-  "DPI-00113": {
-    "codice": "DPI-00113",
+  "DPI-00110": {
+    "codice": "DPI-00110",
     "dpi": "MAGLIETTA",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -989,8 +962,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00114": {
-    "codice": "DPI-00114",
+  "DPI-00111": {
+    "codice": "DPI-00111",
     "dpi": "ELMETTO",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -998,8 +971,8 @@
     "scadenza": "17/03/2028",
     "stato": "VALIDO"
   },
-  "DPI-00115": {
-    "codice": "DPI-00115",
+  "DPI-00112": {
+    "codice": "DPI-00112",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1007,8 +980,8 @@
     "scadenza": "27/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00116": {
-    "codice": "DPI-00116",
+  "DPI-00113": {
+    "codice": "DPI-00113",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "",
@@ -1016,8 +989,8 @@
     "scadenza": "14/10/2027",
     "stato": "VALIDO"
   },
-  "DPI-00117": {
-    "codice": "DPI-00117",
+  "DPI-00114": {
+    "codice": "DPI-00114",
     "dpi": "STIVALE S3",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1025,8 +998,8 @@
     "scadenza": "14/11/2029",
     "stato": "VALIDO"
   },
-  "DPI-00118": {
-    "codice": "DPI-00118",
+  "DPI-00115": {
+    "codice": "DPI-00115",
     "dpi": "TUTA TYVEK",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "USA E GETTA",
@@ -1034,8 +1007,8 @@
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00119": {
-    "codice": "DPI-00119",
+  "DPI-00116": {
+    "codice": "DPI-00116",
     "dpi": "ALTRO DPI",
     "lavoratore": "BIFARELLA FILIPPO",
     "marca": "IMPERMEABILE",
@@ -1043,8 +1016,8 @@
     "scadenza": "19/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00120": {
-    "codice": "DPI-00120",
+  "DPI-00117": {
+    "codice": "DPI-00117",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1052,8 +1025,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00121": {
-    "codice": "DPI-00121",
+  "DPI-00118": {
+    "codice": "DPI-00118",
     "dpi": "ELMETTO",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1061,8 +1034,8 @@
     "scadenza": "03/02/2024",
     "stato": "SCADUTO"
   },
-  "DPI-00122": {
-    "codice": "DPI-00122",
+  "DPI-00119": {
+    "codice": "DPI-00119",
     "dpi": "STIVALE S3",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1070,8 +1043,8 @@
     "scadenza": "13/05/2031",
     "stato": "VALIDO"
   },
-  "DPI-00123": {
-    "codice": "DPI-00123",
+  "DPI-00120": {
+    "codice": "DPI-00120",
     "dpi": "CAMICIA",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -1079,8 +1052,8 @@
     "scadenza": "12/08/2033",
     "stato": "VALIDO"
   },
-  "DPI-00124": {
-    "codice": "DPI-00124",
+  "DPI-00121": {
+    "codice": "DPI-00121",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1088,8 +1061,8 @@
     "scadenza": "03/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00125": {
-    "codice": "DPI-00125",
+  "DPI-00122": {
+    "codice": "DPI-00122",
     "dpi": "MASCHERA SABBIATURA",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "SPASCIANI - TR82 - EN148",
@@ -1097,8 +1070,8 @@
     "scadenza": "16/11/2032",
     "stato": "VALIDO"
   },
-  "DPI-00126": {
-    "codice": "DPI-00126",
+  "DPI-00123": {
+    "codice": "DPI-00123",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "",
@@ -1106,8 +1079,8 @@
     "scadenza": "14/10/2026",
     "stato": "VALIDO"
   },
-  "DPI-00127": {
-    "codice": "DPI-00127",
+  "DPI-00124": {
+    "codice": "DPI-00124",
     "dpi": "GILET",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "ALTA VISIBILITA'",
@@ -1115,8 +1088,8 @@
     "scadenza": "08/05/2035",
     "stato": "VALIDO"
   },
-  "DPI-00128": {
-    "codice": "DPI-00128",
+  "DPI-00125": {
+    "codice": "DPI-00125",
     "dpi": "SCARPE S3",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "SAFE - S3 SRC",
@@ -1124,8 +1097,8 @@
     "scadenza": "16/11/2030",
     "stato": "VALIDO"
   },
-  "DPI-00129": {
-    "codice": "DPI-00129",
+  "DPI-00126": {
+    "codice": "DPI-00126",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "ROSSINI - TPS",
@@ -1133,8 +1106,8 @@
     "scadenza": "19/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00130": {
-    "codice": "DPI-00130",
+  "DPI-00127": {
+    "codice": "DPI-00127",
     "dpi": "ALTRO DPI",
     "lavoratore": "BOFFINO DIEGO",
     "marca": "GIACCA IN CORSTA",
@@ -1160,8 +1133,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00133": {
-    "codice": "DPI-00133",
+  "DPI-00130": {
+    "codice": "DPI-00130",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BOTEZATU ALESU IONUT",
     "marca": "ROSSINI - TPS",
@@ -1169,8 +1142,8 @@
     "scadenza": "10/06/2036",
     "stato": "VALIDO"
   },
-  "DPI-00134": {
-    "codice": "DPI-00134",
+  "DPI-00131": {
+    "codice": "DPI-00131",
     "dpi": "SCARPE S3",
     "lavoratore": "BOTEZATU ALESU IONUT",
     "marca": "SAFE - S3 SRC",
@@ -1178,8 +1151,8 @@
     "scadenza": "10/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00135": {
-    "codice": "DPI-00135",
+  "DPI-00132": {
+    "codice": "DPI-00132",
     "dpi": "ELMETTO",
     "lavoratore": "BOTEZATU ALESU IONUT",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1187,8 +1160,8 @@
     "scadenza": "10/06/2029",
     "stato": "VALIDO"
   },
-  "DPI-00136": {
-    "codice": "DPI-00136",
+  "DPI-00133": {
+    "codice": "DPI-00133",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BOTEZATU ALESU IONUT",
     "marca": "3M - OPTIME PELTRON I",
@@ -1196,8 +1169,8 @@
     "scadenza": "10/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00137": {
-    "codice": "DPI-00137",
+  "DPI-00134": {
+    "codice": "DPI-00134",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BOTEZATU ALESU IONUT",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1223,8 +1196,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00140": {
-    "codice": "DPI-00140",
+  "DPI-00137": {
+    "codice": "DPI-00137",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "ROSSINI - TPS",
@@ -1232,8 +1205,8 @@
     "scadenza": "20/01/2033",
     "stato": "VALIDO"
   },
-  "DPI-00141": {
-    "codice": "DPI-00141",
+  "DPI-00138": {
+    "codice": "DPI-00138",
     "dpi": "SCARPE",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "SAFE - S3 SRC",
@@ -1241,17 +1214,8 @@
     "scadenza": "20/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00142": {
-    "codice": "DPI-00142",
-    "dpi": "VISIERA FRONTALE",
-    "lavoratore": "BRICCO OSVALDO PACIFICO",
-    "marca": "",
-    "dataConsegna": "20/10/2023",
-    "scadenza": "20/10/2028",
-    "stato": "VALIDO"
-  },
-  "DPI-00143": {
-    "codice": "DPI-00143",
+  "DPI-00139": {
+    "codice": "DPI-00139",
     "dpi": "MAGLIETTA",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -1259,8 +1223,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00144": {
-    "codice": "DPI-00144",
+  "DPI-00140": {
+    "codice": "DPI-00140",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1268,8 +1232,8 @@
     "scadenza": "20/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00145": {
-    "codice": "DPI-00145",
+  "DPI-00141": {
+    "codice": "DPI-00141",
     "dpi": "PILE",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "",
@@ -1277,8 +1241,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00146": {
-    "codice": "DPI-00146",
+  "DPI-00142": {
+    "codice": "DPI-00142",
     "dpi": "STIVALE S3",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1286,8 +1250,8 @@
     "scadenza": "16/01/2031",
     "stato": "VALIDO"
   },
-  "DPI-00147": {
-    "codice": "DPI-00147",
+  "DPI-00143": {
+    "codice": "DPI-00143",
     "dpi": "ELMETTO",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1295,17 +1259,8 @@
     "scadenza": "20/10/2026",
     "stato": "VALIDO"
   },
-  "DPI-00148": {
-    "codice": "DPI-00148",
-    "dpi": "CUFFIE ANTIRUMORE",
-    "lavoratore": "BRICCO OSVALDO PACIFICO",
-    "marca": "3M - OPTIME PELTRON I",
-    "dataConsegna": "20/09/2023",
-    "scadenza": "20/09/2028",
-    "stato": "VALIDO"
-  },
-  "DPI-00149": {
-    "codice": "DPI-00149",
+  "DPI-00144": {
+    "codice": "DPI-00144",
     "dpi": "VISIERA FRONTALE",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
     "marca": "MSA - V GARD 10115863 - EN166",
@@ -1322,8 +1277,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00151": {
-    "codice": "DPI-00151",
+  "DPI-00146": {
+    "codice": "DPI-00146",
     "dpi": "STIVALE S3",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1331,8 +1286,8 @@
     "scadenza": "24/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00152": {
-    "codice": "DPI-00152",
+  "DPI-00147": {
+    "codice": "DPI-00147",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1340,8 +1295,8 @@
     "scadenza": "24/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00153": {
-    "codice": "DPI-00153",
+  "DPI-00148": {
+    "codice": "DPI-00148",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1349,8 +1304,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00154": {
-    "codice": "DPI-00154",
+  "DPI-00149": {
+    "codice": "DPI-00149",
     "dpi": "ELMETTO",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1358,8 +1313,8 @@
     "scadenza": "24/02/2027",
     "stato": "VALIDO"
   },
-  "DPI-00155": {
-    "codice": "DPI-00155",
+  "DPI-00150": {
+    "codice": "DPI-00150",
     "dpi": "SCARPE S3",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "SAFE - S3 SRC",
@@ -1367,8 +1322,8 @@
     "scadenza": "16/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00156": {
-    "codice": "DPI-00156",
+  "DPI-00151": {
+    "codice": "DPI-00151",
     "dpi": "ALTRO DPI",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "IMPERMEABILE",
@@ -1376,8 +1331,8 @@
     "scadenza": "24/02/2034",
     "stato": "VALIDO"
   },
-  "DPI-00157": {
-    "codice": "DPI-00157",
+  "DPI-00152": {
+    "codice": "DPI-00152",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BUCHICCHIO STEFANO",
     "marca": "ROSSINI - TPS",
@@ -1403,8 +1358,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00160": {
-    "codice": "DPI-00160",
+  "DPI-00155": {
+    "codice": "DPI-00155",
     "dpi": "SCARPE S3",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "SAFE - S3 SRC",
@@ -1412,8 +1367,8 @@
     "scadenza": "24/04/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00161": {
-    "codice": "DPI-00161",
+  "DPI-00156": {
+    "codice": "DPI-00156",
     "dpi": "STIVALE S3",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1421,8 +1376,8 @@
     "scadenza": "24/04/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00162": {
-    "codice": "DPI-00162",
+  "DPI-00157": {
+    "codice": "DPI-00157",
     "dpi": "FFP2/FFP3",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "3M",
@@ -1430,8 +1385,8 @@
     "scadenza": "20/08/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00163": {
-    "codice": "DPI-00163",
+  "DPI-00158": {
+    "codice": "DPI-00158",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1439,8 +1394,8 @@
     "scadenza": "20/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00164": {
-    "codice": "DPI-00164",
+  "DPI-00159": {
+    "codice": "DPI-00159",
     "dpi": "ELMETTO",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1448,8 +1403,8 @@
     "scadenza": "24/07/2020",
     "stato": "SCADUTO"
   },
-  "DPI-00165": {
-    "codice": "DPI-00165",
+  "DPI-00160": {
+    "codice": "DPI-00160",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "ROSSINI - TPS",
@@ -1457,8 +1412,8 @@
     "scadenza": "24/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00166": {
-    "codice": "DPI-00166",
+  "DPI-00161": {
+    "codice": "DPI-00161",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "BULBARELLO CLAUDIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1484,8 +1439,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00169": {
-    "codice": "DPI-00169",
+  "DPI-00164": {
+    "codice": "DPI-00164",
     "dpi": "ELMETTO",
     "lavoratore": "CACCIA DIEGO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1493,8 +1448,8 @@
     "scadenza": "08/09/2026",
     "stato": "IN SCADENZA"
   },
-  "DPI-00170": {
-    "codice": "DPI-00170",
+  "DPI-00165": {
+    "codice": "DPI-00165",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CACCIA DIEGO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1502,8 +1457,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00171": {
-    "codice": "DPI-00171",
+  "DPI-00166": {
+    "codice": "DPI-00166",
     "dpi": "PILE",
     "lavoratore": "CACCIA DIEGO",
     "marca": "",
@@ -1511,8 +1466,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00172": {
-    "codice": "DPI-00172",
+  "DPI-00167": {
+    "codice": "DPI-00167",
     "dpi": "SCARPE S3",
     "lavoratore": "CACCIA DIEGO",
     "marca": "SAFE - S3 SRC",
@@ -1520,8 +1475,8 @@
     "scadenza": "15/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00173": {
-    "codice": "DPI-00173",
+  "DPI-00168": {
+    "codice": "DPI-00168",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CACCIA DIEGO",
     "marca": "ROSSINI - TPS",
@@ -1538,8 +1493,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00175": {
-    "codice": "DPI-00175",
+  "DPI-00170": {
+    "codice": "DPI-00170",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CACCIA FABIO",
     "marca": "ROSSINI - TPS",
@@ -1547,8 +1502,8 @@
     "scadenza": "14/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00176": {
-    "codice": "DPI-00176",
+  "DPI-00171": {
+    "codice": "DPI-00171",
     "dpi": "SCARPE S3",
     "lavoratore": "CACCIA FABIO",
     "marca": "SAFE - S3 SRC",
@@ -1556,8 +1511,8 @@
     "scadenza": "14/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00177": {
-    "codice": "DPI-00177",
+  "DPI-00172": {
+    "codice": "DPI-00172",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "CACCIA FABIO",
     "marca": "",
@@ -1565,17 +1520,17 @@
     "scadenza": "08/03/2029",
     "stato": "VALIDO"
   },
-  "DPI-00178": {
-    "codice": "DPI-00178",
+  "DPI-00173": {
+    "codice": "DPI-00173",
     "dpi": "TUTA TYVEK",
     "lavoratore": "CACCIA FABIO",
-    "marca": "",
+    "marca": "DUPONT - CAT.III",
     "dataConsegna": "USA E GETTA",
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00179": {
-    "codice": "DPI-00179",
+  "DPI-00174": {
+    "codice": "DPI-00174",
     "dpi": "PILE",
     "lavoratore": "CACCIA FABIO",
     "marca": "",
@@ -1583,8 +1538,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00180": {
-    "codice": "DPI-00180",
+  "DPI-00175": {
+    "codice": "DPI-00175",
     "dpi": "ELMETTO",
     "lavoratore": "CACCIA FABIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1592,8 +1547,8 @@
     "scadenza": "14/06/2028",
     "stato": "VALIDO"
   },
-  "DPI-00181": {
-    "codice": "DPI-00181",
+  "DPI-00176": {
+    "codice": "DPI-00176",
     "dpi": "APVR DRAGER 6300",
     "lavoratore": "CACCIA FABIO",
     "marca": "DRAGER 6300 PIENOFACCIALE",
@@ -1601,8 +1556,8 @@
     "scadenza": "28/03/2035",
     "stato": "VALIDO"
   },
-  "DPI-00182": {
-    "codice": "DPI-00182",
+  "DPI-00177": {
+    "codice": "DPI-00177",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "CACCIA FABIO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -1610,8 +1565,8 @@
     "scadenza": "14/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00183": {
-    "codice": "DPI-00183",
+  "DPI-00178": {
+    "codice": "DPI-00178",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CACCIA FABIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1628,8 +1583,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00185": {
-    "codice": "DPI-00185",
+  "DPI-00180": {
+    "codice": "DPI-00180",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "ROSSINI - TPS",
@@ -1637,8 +1592,8 @@
     "scadenza": "12/05/2033",
     "stato": "VALIDO"
   },
-  "DPI-00186": {
-    "codice": "DPI-00186",
+  "DPI-00181": {
+    "codice": "DPI-00181",
     "dpi": "SCARPE S3",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "SAFE - S3 SRC",
@@ -1646,8 +1601,8 @@
     "scadenza": "12/05/2028",
     "stato": "VALIDO"
   },
-  "DPI-00187": {
-    "codice": "DPI-00187",
+  "DPI-00182": {
+    "codice": "DPI-00182",
     "dpi": "PILE",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "",
@@ -1655,8 +1610,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00188": {
-    "codice": "DPI-00188",
+  "DPI-00183": {
+    "codice": "DPI-00183",
     "dpi": "MAGLIETTA",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -1664,8 +1619,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00189": {
-    "codice": "DPI-00189",
+  "DPI-00184": {
+    "codice": "DPI-00184",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1673,8 +1628,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00190": {
-    "codice": "DPI-00190",
+  "DPI-00185": {
+    "codice": "DPI-00185",
     "dpi": "STIVALE S3",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1682,8 +1637,8 @@
     "scadenza": "12/05/2028",
     "stato": "VALIDO"
   },
-  "DPI-00191": {
-    "codice": "DPI-00191",
+  "DPI-00186": {
+    "codice": "DPI-00186",
     "dpi": "OCCHIALI",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -1691,8 +1646,8 @@
     "scadenza": "28/05/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00192": {
-    "codice": "DPI-00192",
+  "DPI-00187": {
+    "codice": "DPI-00187",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1700,8 +1655,8 @@
     "scadenza": "28/05/2018",
     "stato": "SCADUTO"
   },
-  "DPI-00193": {
-    "codice": "DPI-00193",
+  "DPI-00188": {
+    "codice": "DPI-00188",
     "dpi": "ELMETTO",
     "lavoratore": "CADEDDU ALESSIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1709,8 +1664,8 @@
     "scadenza": "23/02/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00194": {
-    "codice": "DPI-00194",
+  "DPI-00189": {
+    "codice": "DPI-00189",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "ROSSINI - TPS",
@@ -1718,8 +1673,8 @@
     "scadenza": "05/07/2035",
     "stato": "VALIDO"
   },
-  "DPI-00195": {
-    "codice": "DPI-00195",
+  "DPI-00190": {
+    "codice": "DPI-00190",
     "dpi": "SCARPE S3",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "SAFE - S3 SRC",
@@ -1727,8 +1682,8 @@
     "scadenza": "31/03/2031",
     "stato": "VALIDO"
   },
-  "DPI-00196": {
-    "codice": "DPI-00196",
+  "DPI-00191": {
+    "codice": "DPI-00191",
     "dpi": "PILE",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "",
@@ -1736,8 +1691,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00197": {
-    "codice": "DPI-00197",
+  "DPI-00192": {
+    "codice": "DPI-00192",
     "dpi": "MAGLIETTA",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -1745,17 +1700,17 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00198": {
-    "codice": "DPI-00198",
+  "DPI-00193": {
+    "codice": "DPI-00193",
     "dpi": "TUTA TYVEK",
     "lavoratore": "CAPRARO ROSARIO",
-    "marca": "",
+    "marca": "DUPONT - CAT.III",
     "dataConsegna": "USA E GETTA",
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00199": {
-    "codice": "DPI-00199",
+  "DPI-00194": {
+    "codice": "DPI-00194",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "",
@@ -1763,8 +1718,8 @@
     "scadenza": "25/09/2029",
     "stato": "VALIDO"
   },
-  "DPI-00200": {
-    "codice": "DPI-00200",
+  "DPI-00195": {
+    "codice": "DPI-00195",
     "dpi": "STIVALE S3",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1772,8 +1727,8 @@
     "scadenza": "05/07/2030",
     "stato": "VALIDO"
   },
-  "DPI-00201": {
-    "codice": "DPI-00201",
+  "DPI-00196": {
+    "codice": "DPI-00196",
     "dpi": "ELMETTO",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1781,8 +1736,8 @@
     "scadenza": "05/07/2028",
     "stato": "VALIDO"
   },
-  "DPI-00202": {
-    "codice": "DPI-00202",
+  "DPI-00197": {
+    "codice": "DPI-00197",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1790,8 +1745,8 @@
     "scadenza": "05/07/2030",
     "stato": "VALIDO"
   },
-  "DPI-00203": {
-    "codice": "DPI-00203",
+  "DPI-00198": {
+    "codice": "DPI-00198",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CAPRARO ROSARIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1799,8 +1754,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00204": {
-    "codice": "DPI-00204",
+  "DPI-00199": {
+    "codice": "DPI-00199",
     "dpi": "GILET",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "ALTA VISIBILITA'",
@@ -1808,8 +1763,8 @@
     "scadenza": "20/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00205": {
-    "codice": "DPI-00205",
+  "DPI-00200": {
+    "codice": "DPI-00200",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1817,8 +1772,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00206": {
-    "codice": "DPI-00206",
+  "DPI-00201": {
+    "codice": "DPI-00201",
     "dpi": "MAGLIETTA",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -1826,8 +1781,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00207": {
-    "codice": "DPI-00207",
+  "DPI-00202": {
+    "codice": "DPI-00202",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "3M - OPTIME PELTRON I",
@@ -1835,8 +1790,8 @@
     "scadenza": "20/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00208": {
-    "codice": "DPI-00208",
+  "DPI-00203": {
+    "codice": "DPI-00203",
     "dpi": "ELMETTO",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1844,8 +1799,8 @@
     "scadenza": "20/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00209": {
-    "codice": "DPI-00209",
+  "DPI-00204": {
+    "codice": "DPI-00204",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -1853,8 +1808,8 @@
     "scadenza": "20/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00210": {
-    "codice": "DPI-00210",
+  "DPI-00205": {
+    "codice": "DPI-00205",
     "dpi": "STIVALE S3",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1862,8 +1817,8 @@
     "scadenza": "20/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00211": {
-    "codice": "DPI-00211",
+  "DPI-00206": {
+    "codice": "DPI-00206",
     "dpi": "SCARPE S3",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "SAFE - S3 SRC",
@@ -1871,8 +1826,8 @@
     "scadenza": "04/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00212": {
-    "codice": "DPI-00212",
+  "DPI-00207": {
+    "codice": "DPI-00207",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
     "marca": "ROSSINI - TPS",
@@ -1889,8 +1844,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00214": {
-    "codice": "DPI-00214",
+  "DPI-00209": {
+    "codice": "DPI-00209",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CASTANGIA IVAN ALESSIO",
     "marca": "ROSSINI - TPS",
@@ -1898,8 +1853,8 @@
     "scadenza": "21/04/2031",
     "stato": "VALIDO"
   },
-  "DPI-00215": {
-    "codice": "DPI-00215",
+  "DPI-00210": {
+    "codice": "DPI-00210",
     "dpi": "SCARPE S3",
     "lavoratore": "CASTANGIA IVAN ALESSIO",
     "marca": "SAFE - S3 SRC",
@@ -1934,8 +1889,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00219": {
-    "codice": "DPI-00219",
+  "DPI-00214": {
+    "codice": "DPI-00214",
     "dpi": "ELMETTO",
     "lavoratore": "CHIAFFARATA GIACOMO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -1943,8 +1898,8 @@
     "scadenza": "14/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00220": {
-    "codice": "DPI-00220",
+  "DPI-00215": {
+    "codice": "DPI-00215",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CHIAFFARATA GIACOMO",
     "marca": "ROSSINI - TPS",
@@ -1952,8 +1907,8 @@
     "scadenza": "25/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00221": {
-    "codice": "DPI-00221",
+  "DPI-00216": {
+    "codice": "DPI-00216",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CHIAFFARATA GIACOMO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -1961,8 +1916,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00222": {
-    "codice": "DPI-00222",
+  "DPI-00217": {
+    "codice": "DPI-00217",
     "dpi": "MAGLIETTA",
     "lavoratore": "CHIAFFARATA GIACOMO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -1970,8 +1925,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00223": {
-    "codice": "DPI-00223",
+  "DPI-00218": {
+    "codice": "DPI-00218",
     "dpi": "STIVALE S3",
     "lavoratore": "CHIAFFARATA GIACOMO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -1979,8 +1934,8 @@
     "scadenza": "11/12/2031",
     "stato": "VALIDO"
   },
-  "DPI-00224": {
-    "codice": "DPI-00224",
+  "DPI-00219": {
+    "codice": "DPI-00219",
     "dpi": "GILET",
     "lavoratore": "CHIAFFARATA GIACOMO",
     "marca": "ALTA VISIBILITA'",
@@ -1997,8 +1952,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00226": {
-    "codice": "DPI-00226",
+  "DPI-00221": {
+    "codice": "DPI-00221",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "ROSSINI - TPS",
@@ -2006,8 +1961,8 @@
     "scadenza": "21/06/2034",
     "stato": "VALIDO"
   },
-  "DPI-00227": {
-    "codice": "DPI-00227",
+  "DPI-00222": {
+    "codice": "DPI-00222",
     "dpi": "SCARPE S3",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "SAFE - S3 SRC",
@@ -2015,8 +1970,8 @@
     "scadenza": "24/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00228": {
-    "codice": "DPI-00228",
+  "DPI-00223": {
+    "codice": "DPI-00223",
     "dpi": "STIVALE S3",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2024,17 +1979,17 @@
     "scadenza": "23/06/2029",
     "stato": "VALIDO"
   },
-  "DPI-00229": {
-    "codice": "DPI-00229",
+  "DPI-00224": {
+    "codice": "DPI-00224",
     "dpi": "TUTA TYVEK",
     "lavoratore": "COCCHIARA MARCO",
-    "marca": "",
+    "marca": "DUPONT - CAT.III",
     "dataConsegna": "USA E GETTA",
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00230": {
-    "codice": "DPI-00230",
+  "DPI-00225": {
+    "codice": "DPI-00225",
     "dpi": "PILE",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "",
@@ -2042,8 +1997,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00231": {
-    "codice": "DPI-00231",
+  "DPI-00226": {
+    "codice": "DPI-00226",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "",
@@ -2051,8 +2006,8 @@
     "scadenza": "13/12/2027",
     "stato": "VALIDO"
   },
-  "DPI-00232": {
-    "codice": "DPI-00232",
+  "DPI-00227": {
+    "codice": "DPI-00227",
     "dpi": "OCCHIALI",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -2060,8 +2015,8 @@
     "scadenza": "23/06/2018",
     "stato": "SCADUTO"
   },
-  "DPI-00233": {
-    "codice": "DPI-00233",
+  "DPI-00228": {
+    "codice": "DPI-00228",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2069,8 +2024,8 @@
     "scadenza": "23/06/2013",
     "stato": "SCADUTO"
   },
-  "DPI-00234": {
-    "codice": "DPI-00234",
+  "DPI-00229": {
+    "codice": "DPI-00229",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2078,8 +2033,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00235": {
-    "codice": "DPI-00235",
+  "DPI-00230": {
+    "codice": "DPI-00230",
     "dpi": "ELMETTO",
     "lavoratore": "COCCHIARA MARCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2096,8 +2051,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00237": {
-    "codice": "DPI-00237",
+  "DPI-00232": {
+    "codice": "DPI-00232",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "COLLURA DINO",
     "marca": "ROSSINI - TPS",
@@ -2105,8 +2060,8 @@
     "scadenza": "28/07/2033",
     "stato": "VALIDO"
   },
-  "DPI-00238": {
-    "codice": "DPI-00238",
+  "DPI-00233": {
+    "codice": "DPI-00233",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "COLLURA DINO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2114,8 +2069,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00239": {
-    "codice": "DPI-00239",
+  "DPI-00234": {
+    "codice": "DPI-00234",
     "dpi": "GUANTI CALORE",
     "lavoratore": "COLLURA DINO",
     "marca": "",
@@ -2123,8 +2078,8 @@
     "scadenza": "24/10/2029",
     "stato": "VALIDO"
   },
-  "DPI-00240": {
-    "codice": "DPI-00240",
+  "DPI-00235": {
+    "codice": "DPI-00235",
     "dpi": "MAGLIETTA",
     "lavoratore": "COLLURA DINO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2132,8 +2087,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00241": {
-    "codice": "DPI-00241",
+  "DPI-00236": {
+    "codice": "DPI-00236",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "COLLURA DINO",
     "marca": "",
@@ -2141,8 +2096,8 @@
     "scadenza": "27/04/2027",
     "stato": "VALIDO"
   },
-  "DPI-00242": {
-    "codice": "DPI-00242",
+  "DPI-00237": {
+    "codice": "DPI-00237",
     "dpi": "STIVALE S3",
     "lavoratore": "COLLURA DINO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2150,8 +2105,8 @@
     "scadenza": "17/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00243": {
-    "codice": "DPI-00243",
+  "DPI-00238": {
+    "codice": "DPI-00238",
     "dpi": "ELMETTO",
     "lavoratore": "COLLURA DINO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2159,8 +2114,8 @@
     "scadenza": "01/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00244": {
-    "codice": "DPI-00244",
+  "DPI-00239": {
+    "codice": "DPI-00239",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "COLLURA DINO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2177,8 +2132,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00246": {
-    "codice": "DPI-00246",
+  "DPI-00241": {
+    "codice": "DPI-00241",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "COLLURA FRANCESCO",
     "marca": "ROSSINI - TPS",
@@ -2186,8 +2141,8 @@
     "scadenza": "22/02/2033",
     "stato": "VALIDO"
   },
-  "DPI-00247": {
-    "codice": "DPI-00247",
+  "DPI-00242": {
+    "codice": "DPI-00242",
     "dpi": "SCARPE S3",
     "lavoratore": "COLLURA FRANCESCO",
     "marca": "SAFE - S3 SRC",
@@ -2195,8 +2150,8 @@
     "scadenza": "22/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00248": {
-    "codice": "DPI-00248",
+  "DPI-00243": {
+    "codice": "DPI-00243",
     "dpi": "STIVALE S3",
     "lavoratore": "COLLURA FRANCESCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2204,8 +2159,8 @@
     "scadenza": "22/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00249": {
-    "codice": "DPI-00249",
+  "DPI-00244": {
+    "codice": "DPI-00244",
     "dpi": "ELMETTO",
     "lavoratore": "COLLURA FRANCESCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2213,8 +2168,8 @@
     "scadenza": "22/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00250": {
-    "codice": "DPI-00250",
+  "DPI-00245": {
+    "codice": "DPI-00245",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "COLLURA FRANCESCO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2249,8 +2204,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00254": {
-    "codice": "DPI-00254",
+  "DPI-00249": {
+    "codice": "DPI-00249",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CORBELLANI MARCO",
     "marca": "ROSSINI - TPS",
@@ -2258,8 +2213,8 @@
     "scadenza": "17/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00255": {
-    "codice": "DPI-00255",
+  "DPI-00250": {
+    "codice": "DPI-00250",
     "dpi": "SCARPE S3",
     "lavoratore": "CORBELLANI MARCO",
     "marca": "SAFE - S3 SRC",
@@ -2267,8 +2222,8 @@
     "scadenza": "17/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00256": {
-    "codice": "DPI-00256",
+  "DPI-00251": {
+    "codice": "DPI-00251",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "CORBELLANI MARCO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -2276,8 +2231,8 @@
     "scadenza": "17/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00257": {
-    "codice": "DPI-00257",
+  "DPI-00252": {
+    "codice": "DPI-00252",
     "dpi": "ELMETTO",
     "lavoratore": "CORBELLANI MARCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2312,8 +2267,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00261": {
-    "codice": "DPI-00261",
+  "DPI-00256": {
+    "codice": "DPI-00256",
     "dpi": "MASCHERA SABBIATURA",
     "lavoratore": "CORRADI  DANILO",
     "marca": "SPASCIANI - TR82 - EN148",
@@ -2321,8 +2276,8 @@
     "scadenza": "08/02/2032",
     "stato": "VALIDO"
   },
-  "DPI-00262": {
-    "codice": "DPI-00262",
+  "DPI-00257": {
+    "codice": "DPI-00257",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "CORRADI  DANILO",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -2330,8 +2285,8 @@
     "scadenza": "21/04/2031",
     "stato": "VALIDO"
   },
-  "DPI-00263": {
-    "codice": "DPI-00263",
+  "DPI-00258": {
+    "codice": "DPI-00258",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "CORRADI  DANILO",
     "marca": "ROSSINI - TPS",
@@ -2339,8 +2294,8 @@
     "scadenza": "21/04/2031",
     "stato": "VALIDO"
   },
-  "DPI-00264": {
-    "codice": "DPI-00264",
+  "DPI-00259": {
+    "codice": "DPI-00259",
     "dpi": "GILET",
     "lavoratore": "CORRADI  DANILO",
     "marca": "ALTA VISIBILITA'",
@@ -2348,8 +2303,8 @@
     "scadenza": "18/07/2035",
     "stato": "VALIDO"
   },
-  "DPI-00265": {
-    "codice": "DPI-00265",
+  "DPI-00260": {
+    "codice": "DPI-00260",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CORRADI  DANILO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2357,17 +2312,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00266": {
-    "codice": "DPI-00266",
-    "dpi": "MASCHERA SABBIATURA",
-    "lavoratore": "CORRADI  DANILO",
-    "marca": "SPASCIANI - TR82 - EN148",
-    "dataConsegna": "08/02/2022",
-    "scadenza": "08/02/2032",
-    "stato": "VALIDO"
-  },
-  "DPI-00267": {
-    "codice": "DPI-00267",
+  "DPI-00261": {
+    "codice": "DPI-00261",
     "dpi": "MAGLIETTA",
     "lavoratore": "CORRADI  DANILO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2375,8 +2321,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00268": {
-    "codice": "DPI-00268",
+  "DPI-00262": {
+    "codice": "DPI-00262",
     "dpi": "OCCHIALI A MASCHERINA",
     "lavoratore": "CORRADI  DANILO",
     "marca": "MSA",
@@ -2384,8 +2330,8 @@
     "scadenza": "29/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00269": {
-    "codice": "DPI-00269",
+  "DPI-00263": {
+    "codice": "DPI-00263",
     "dpi": "SCARPE S3",
     "lavoratore": "CORRADI  DANILO",
     "marca": "SAFE - S3 SRC",
@@ -2393,8 +2339,8 @@
     "scadenza": "21/04/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00270": {
-    "codice": "DPI-00270",
+  "DPI-00264": {
+    "codice": "DPI-00264",
     "dpi": "STIVALE S3",
     "lavoratore": "CORRADI  DANILO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2402,8 +2348,8 @@
     "scadenza": "06/10/2029",
     "stato": "VALIDO"
   },
-  "DPI-00271": {
-    "codice": "DPI-00271",
+  "DPI-00265": {
+    "codice": "DPI-00265",
     "dpi": "ELMETTO",
     "lavoratore": "CORRADI  DANILO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2411,8 +2357,8 @@
     "scadenza": "28/11/2015",
     "stato": "SCADUTO"
   },
-  "DPI-00272": {
-    "codice": "DPI-00272",
+  "DPI-00266": {
+    "codice": "DPI-00266",
     "dpi": "GIACCA IN CROSTA",
     "lavoratore": "CORRADI  DANILO",
     "marca": "SALDATURA",
@@ -2420,8 +2366,8 @@
     "scadenza": "23/04/2031",
     "stato": "VALIDO"
   },
-  "DPI-00273": {
-    "codice": "DPI-00273",
+  "DPI-00267": {
+    "codice": "DPI-00267",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "CORRADI  DANILO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2438,8 +2384,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00275": {
-    "codice": "DPI-00275",
+  "DPI-00269": {
+    "codice": "DPI-00269",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "CORSO GREGORIO",
     "marca": "",
@@ -2447,8 +2393,8 @@
     "scadenza": "19/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00276": {
-    "codice": "DPI-00276",
+  "DPI-00270": {
+    "codice": "DPI-00270",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "CORSO GREGORIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2456,8 +2402,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00277": {
-    "codice": "DPI-00277",
+  "DPI-00271": {
+    "codice": "DPI-00271",
     "dpi": "MAGLIETTA",
     "lavoratore": "CORSO GREGORIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2465,8 +2411,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00278": {
-    "codice": "DPI-00278",
+  "DPI-00272": {
+    "codice": "DPI-00272",
     "dpi": "INDUMENTI DA LAVORO",
     "lavoratore": "CORSO GREGORIO",
     "marca": "ROSSINI - TPS",
@@ -2474,8 +2420,8 @@
     "scadenza": "23/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00279": {
-    "codice": "DPI-00279",
+  "DPI-00273": {
+    "codice": "DPI-00273",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "CORSO GREGORIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2483,8 +2429,8 @@
     "scadenza": "25/01/2029",
     "stato": "VALIDO"
   },
-  "DPI-00280": {
-    "codice": "DPI-00280",
+  "DPI-00274": {
+    "codice": "DPI-00274",
     "dpi": "STIVALE S3",
     "lavoratore": "CORSO GREGORIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2492,8 +2438,8 @@
     "scadenza": "16/11/2027",
     "stato": "VALIDO"
   },
-  "DPI-00281": {
-    "codice": "DPI-00281",
+  "DPI-00275": {
+    "codice": "DPI-00275",
     "dpi": "PILE",
     "lavoratore": "CORSO GREGORIO",
     "marca": "",
@@ -2501,8 +2447,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00282": {
-    "codice": "DPI-00282",
+  "DPI-00276": {
+    "codice": "DPI-00276",
     "dpi": "ELMETTO",
     "lavoratore": "CORSO GREGORIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2510,8 +2456,8 @@
     "scadenza": "12/06/2029",
     "stato": "VALIDO"
   },
-  "DPI-00283": {
-    "codice": "DPI-00283",
+  "DPI-00277": {
+    "codice": "DPI-00277",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "DE BEI FRANCESCO",
     "marca": "ROSSINI - TPS",
@@ -2519,8 +2465,8 @@
     "scadenza": "10/06/2036",
     "stato": "VALIDO"
   },
-  "DPI-00284": {
-    "codice": "DPI-00284",
+  "DPI-00278": {
+    "codice": "DPI-00278",
     "dpi": "SCARPE S3",
     "lavoratore": "DE BEI FRANCESCO",
     "marca": "SAFE - S3 SRC",
@@ -2528,8 +2474,8 @@
     "scadenza": "10/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00285": {
-    "codice": "DPI-00285",
+  "DPI-00279": {
+    "codice": "DPI-00279",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "DE BEI FRANCESCO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2537,8 +2483,8 @@
     "scadenza": "10/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00286": {
-    "codice": "DPI-00286",
+  "DPI-00280": {
+    "codice": "DPI-00280",
     "dpi": "ELMETTO",
     "lavoratore": "DE BEI FRANCESCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2573,8 +2519,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00290": {
-    "codice": "DPI-00290",
+  "DPI-00284": {
+    "codice": "DPI-00284",
     "dpi": "ELMETTO",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2582,8 +2528,8 @@
     "scadenza": "11/05/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00291": {
-    "codice": "DPI-00291",
+  "DPI-00285": {
+    "codice": "DPI-00285",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2591,8 +2537,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00292": {
-    "codice": "DPI-00292",
+  "DPI-00286": {
+    "codice": "DPI-00286",
     "dpi": "MAGLIETTA",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2600,8 +2546,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00293": {
-    "codice": "DPI-00293",
+  "DPI-00287": {
+    "codice": "DPI-00287",
     "dpi": "PILE",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "",
@@ -2609,8 +2555,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00294": {
-    "codice": "DPI-00294",
+  "DPI-00288": {
+    "codice": "DPI-00288",
     "dpi": "STIVALE S3",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2618,8 +2564,8 @@
     "scadenza": "11/01/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00295": {
-    "codice": "DPI-00295",
+  "DPI-00289": {
+    "codice": "DPI-00289",
     "dpi": "SCARPE S3",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "SAFE - S3 SRC",
@@ -2627,8 +2573,8 @@
     "scadenza": "11/05/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00296": {
-    "codice": "DPI-00296",
+  "DPI-00290": {
+    "codice": "DPI-00290",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "DELLA MARCA LUIGI",
     "marca": "ROSSINI - TPS ALTAVISIBILITA'",
@@ -2636,8 +2582,8 @@
     "scadenza": "11/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00297": {
-    "codice": "DPI-00297",
+  "DPI-00291": {
+    "codice": "DPI-00291",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "DI CLAUDIO ANTONIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2645,8 +2591,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00298": {
-    "codice": "DPI-00298",
+  "DPI-00292": {
+    "codice": "DPI-00292",
     "dpi": "GUANTI CALORE",
     "lavoratore": "DI CLAUDIO ANTONIO",
     "marca": "",
@@ -2654,17 +2600,17 @@
     "scadenza": "21/03/2029",
     "stato": "VALIDO"
   },
-  "DPI-00299": {
-    "codice": "DPI-00299",
+  "DPI-00293": {
+    "codice": "DPI-00293",
     "dpi": "CALZAMAGLIA",
     "lavoratore": "DI CLAUDIO ANTONIO",
-    "marca": "",
+    "marca": "SAFE - 03820.02",
     "dataConsegna": "24/11/2025",
     "scadenza": "24/11/2035",
     "stato": "VALIDO"
   },
-  "DPI-00300": {
-    "codice": "DPI-00300",
+  "DPI-00294": {
+    "codice": "DPI-00294",
     "dpi": "MAGLIETTA",
     "lavoratore": "DI CLAUDIO ANTONIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2672,8 +2618,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00301": {
-    "codice": "DPI-00301",
+  "DPI-00295": {
+    "codice": "DPI-00295",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "DI CLAUDIO ANTONIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2681,8 +2627,8 @@
     "scadenza": "18/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00302": {
-    "codice": "DPI-00302",
+  "DPI-00296": {
+    "codice": "DPI-00296",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "DI CLAUDIO ANTONIO",
     "marca": "ROSSINI -  TPS ALTAVISINILITA'",
@@ -2690,8 +2636,8 @@
     "scadenza": "04/12/2035",
     "stato": "VALIDO"
   },
-  "DPI-00303": {
-    "codice": "DPI-00303",
+  "DPI-00297": {
+    "codice": "DPI-00297",
     "dpi": "STIVALE S3",
     "lavoratore": "DI CLAUDIO ANTONIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2708,8 +2654,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00305": {
-    "codice": "DPI-00305",
+  "DPI-00299": {
+    "codice": "DPI-00299",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "ROSSINI - TPS ALTAVISIBILITA'",
@@ -2717,8 +2663,8 @@
     "scadenza": "08/06/2036",
     "stato": "VALIDO"
   },
-  "DPI-00306": {
-    "codice": "DPI-00306",
+  "DPI-00300": {
+    "codice": "DPI-00300",
     "dpi": "SCARPE S3",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "SAFE - S3 SRC",
@@ -2726,8 +2672,8 @@
     "scadenza": "24/01/2029",
     "stato": "VALIDO"
   },
-  "DPI-00307": {
-    "codice": "DPI-00307",
+  "DPI-00301": {
+    "codice": "DPI-00301",
     "dpi": "STIVALE S3",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2735,8 +2681,8 @@
     "scadenza": "24/01/2029",
     "stato": "VALIDO"
   },
-  "DPI-00308": {
-    "codice": "DPI-00308",
+  "DPI-00302": {
+    "codice": "DPI-00302",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "",
@@ -2744,8 +2690,8 @@
     "scadenza": "19/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00309": {
-    "codice": "DPI-00309",
+  "DPI-00303": {
+    "codice": "DPI-00303",
     "dpi": "MAGLIETTA",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2753,8 +2699,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00310": {
-    "codice": "DPI-00310",
+  "DPI-00304": {
+    "codice": "DPI-00304",
     "dpi": "GILET",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "ALTA VISIBILITA'",
@@ -2762,8 +2708,8 @@
     "scadenza": "27/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00311": {
-    "codice": "DPI-00311",
+  "DPI-00305": {
+    "codice": "DPI-00305",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -2771,8 +2717,8 @@
     "scadenza": "24/01/2034",
     "stato": "VALIDO"
   },
-  "DPI-00312": {
-    "codice": "DPI-00312",
+  "DPI-00306": {
+    "codice": "DPI-00306",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2780,8 +2726,8 @@
     "scadenza": "24/01/2029",
     "stato": "VALIDO"
   },
-  "DPI-00313": {
-    "codice": "DPI-00313",
+  "DPI-00307": {
+    "codice": "DPI-00307",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2789,8 +2735,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00314": {
-    "codice": "DPI-00314",
+  "DPI-00308": {
+    "codice": "DPI-00308",
     "dpi": "ELMETTO",
     "lavoratore": "DI PIERRO MIRKO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2807,8 +2753,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00316": {
-    "codice": "DPI-00316",
+  "DPI-00310": {
+    "codice": "DPI-00310",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "ROSSINI - TPS",
@@ -2816,8 +2762,8 @@
     "scadenza": "26/08/2034",
     "stato": "VALIDO"
   },
-  "DPI-00317": {
-    "codice": "DPI-00317",
+  "DPI-00311": {
+    "codice": "DPI-00311",
     "dpi": "SCARPE S3",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "SAFE - S3 SRC",
@@ -2825,8 +2771,8 @@
     "scadenza": "26/08/2029",
     "stato": "VALIDO"
   },
-  "DPI-00318": {
-    "codice": "DPI-00318",
+  "DPI-00312": {
+    "codice": "DPI-00312",
     "dpi": "MAGLIETTA",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2834,8 +2780,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00319": {
-    "codice": "DPI-00319",
+  "DPI-00313": {
+    "codice": "DPI-00313",
     "dpi": "PILE",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "",
@@ -2843,8 +2789,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00320": {
-    "codice": "DPI-00320",
+  "DPI-00314": {
+    "codice": "DPI-00314",
     "dpi": "ELMETTO",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2852,8 +2798,8 @@
     "scadenza": "18/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00321": {
-    "codice": "DPI-00321",
+  "DPI-00315": {
+    "codice": "DPI-00315",
     "dpi": "MASCHERA DI FUGA",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "AUER MSA",
@@ -2861,8 +2807,8 @@
     "scadenza": "01/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00322": {
-    "codice": "DPI-00322",
+  "DPI-00316": {
+    "codice": "DPI-00316",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "DONINA GIANCARLO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2870,8 +2816,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00323": {
-    "codice": "DPI-00323",
+  "DPI-00317": {
+    "codice": "DPI-00317",
     "dpi": "TUTA INTERA",
     "lavoratore": "FANTINI SILVANO",
     "marca": "MECCANICO",
@@ -2879,8 +2825,8 @@
     "scadenza": "08/04/2036",
     "stato": "VALIDO"
   },
-  "DPI-00324": {
-    "codice": "DPI-00324",
+  "DPI-00318": {
+    "codice": "DPI-00318",
     "dpi": "ELMETTO",
     "lavoratore": "FANTINI SILVANO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2888,8 +2834,8 @@
     "scadenza": "12/07/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00325": {
-    "codice": "DPI-00325",
+  "DPI-00319": {
+    "codice": "DPI-00319",
     "dpi": "MAGLIETTA",
     "lavoratore": "FANTINI SILVANO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -2897,8 +2843,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00326": {
-    "codice": "DPI-00326",
+  "DPI-00320": {
+    "codice": "DPI-00320",
     "dpi": "PILE",
     "lavoratore": "FANTINI SILVANO",
     "marca": "",
@@ -2906,8 +2852,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00327": {
-    "codice": "DPI-00327",
+  "DPI-00321": {
+    "codice": "DPI-00321",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FANTINI SILVANO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2915,8 +2861,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00328": {
-    "codice": "DPI-00328",
+  "DPI-00322": {
+    "codice": "DPI-00322",
     "dpi": "STIVALE S3",
     "lavoratore": "FANTINI SILVANO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2924,8 +2870,8 @@
     "scadenza": "27/09/2028",
     "stato": "VALIDO"
   },
-  "DPI-00329": {
-    "codice": "DPI-00329",
+  "DPI-00323": {
+    "codice": "DPI-00323",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "FANTINI SILVANO",
     "marca": "3M - OPTIME PELTRON I",
@@ -2933,8 +2879,8 @@
     "scadenza": "31/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00330": {
-    "codice": "DPI-00330",
+  "DPI-00324": {
+    "codice": "DPI-00324",
     "dpi": "SCARPE S3",
     "lavoratore": "FANTINI SILVANO",
     "marca": "SAFE - S3 SRC",
@@ -2942,8 +2888,8 @@
     "scadenza": "05/05/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00331": {
-    "codice": "DPI-00331",
+  "DPI-00325": {
+    "codice": "DPI-00325",
     "dpi": "PANTALONE",
     "lavoratore": "FANTINI SILVANO",
     "marca": "TRIVALENTE",
@@ -2951,8 +2897,8 @@
     "scadenza": "09/06/2036",
     "stato": "VALIDO"
   },
-  "DPI-00332": {
-    "codice": "DPI-00332",
+  "DPI-00326": {
+    "codice": "DPI-00326",
     "dpi": "ELMETTO",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -2960,8 +2906,8 @@
     "scadenza": "10/08/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00333": {
-    "codice": "DPI-00333",
+  "DPI-00327": {
+    "codice": "DPI-00327",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -2969,8 +2915,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00334": {
-    "codice": "DPI-00334",
+  "DPI-00328": {
+    "codice": "DPI-00328",
     "dpi": "PILE",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "",
@@ -2978,8 +2924,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00335": {
-    "codice": "DPI-00335",
+  "DPI-00329": {
+    "codice": "DPI-00329",
     "dpi": "MASCHERA SABBIATURA",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "SPASCIANI - TR82 - EN148",
@@ -2987,8 +2933,8 @@
     "scadenza": "14/11/2035",
     "stato": "VALIDO"
   },
-  "DPI-00336": {
-    "codice": "DPI-00336",
+  "DPI-00330": {
+    "codice": "DPI-00330",
     "dpi": "STIVALE S3",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -2996,8 +2942,8 @@
     "scadenza": "27/09/2028",
     "stato": "VALIDO"
   },
-  "DPI-00337": {
-    "codice": "DPI-00337",
+  "DPI-00331": {
+    "codice": "DPI-00331",
     "dpi": "SCARPE S3",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "SAFE - S3 SRC",
@@ -3005,8 +2951,8 @@
     "scadenza": "14/11/2030",
     "stato": "VALIDO"
   },
-  "DPI-00338": {
-    "codice": "DPI-00338",
+  "DPI-00332": {
+    "codice": "DPI-00332",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "ROSSINI - TPS",
@@ -3014,17 +2960,17 @@
     "scadenza": "27/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00339": {
-    "codice": "DPI-00339",
+  "DPI-00333": {
+    "codice": "DPI-00333",
     "dpi": "APVR 3M 6000 FULL",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "3M 6000 PIENOFACCIALE",
     "dataConsegna": "12/06/2019",
-    "scadenza": "12/06/2029",
-    "stato": "VALIDO"
+    "scadenza": "",
+    "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00340": {
-    "codice": "DPI-00340",
+  "DPI-00334": {
+    "codice": "DPI-00334",
     "dpi": "TUTA INTERA",
     "lavoratore": "FASANO NIKOLAS",
     "marca": "",
@@ -3041,8 +2987,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00342": {
-    "codice": "DPI-00342",
+  "DPI-00336": {
+    "codice": "DPI-00336",
     "dpi": "ELMETTO",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3050,8 +2996,8 @@
     "scadenza": "16/04/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00343": {
-    "codice": "DPI-00343",
+  "DPI-00337": {
+    "codice": "DPI-00337",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3059,8 +3005,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00344": {
-    "codice": "DPI-00344",
+  "DPI-00338": {
+    "codice": "DPI-00338",
     "dpi": "MAGLIETTA",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3068,8 +3014,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00345": {
-    "codice": "DPI-00345",
+  "DPI-00339": {
+    "codice": "DPI-00339",
     "dpi": "TUTA INTERA",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "",
@@ -3077,8 +3023,8 @@
     "scadenza": "04/05/2027",
     "stato": "VALIDO"
   },
-  "DPI-00346": {
-    "codice": "DPI-00346",
+  "DPI-00340": {
+    "codice": "DPI-00340",
     "dpi": "PILE",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "",
@@ -3086,8 +3032,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00347": {
-    "codice": "DPI-00347",
+  "DPI-00341": {
+    "codice": "DPI-00341",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -3095,8 +3041,8 @@
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00348": {
-    "codice": "DPI-00348",
+  "DPI-00342": {
+    "codice": "DPI-00342",
     "dpi": "STIVALE S3",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3104,8 +3050,8 @@
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00349": {
-    "codice": "DPI-00349",
+  "DPI-00343": {
+    "codice": "DPI-00343",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FAZIO MASSIMO CARLINO",
     "marca": "ROSSINI - TPS",
@@ -3113,8 +3059,8 @@
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00350": {
-    "codice": "DPI-00350",
+  "DPI-00344": {
+    "codice": "DPI-00344",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FERRO MATTIA GIOVANNI",
     "marca": "ROSSINI - TPS",
@@ -3122,8 +3068,8 @@
     "scadenza": "15/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00351": {
-    "codice": "DPI-00351",
+  "DPI-00345": {
+    "codice": "DPI-00345",
     "dpi": "SCARPE S3",
     "lavoratore": "FERRO MATTIA GIOVANNI",
     "marca": "SAFE - S3 SRC",
@@ -3131,8 +3077,8 @@
     "scadenza": "15/05/2031",
     "stato": "VALIDO"
   },
-  "DPI-00352": {
-    "codice": "DPI-00352",
+  "DPI-00346": {
+    "codice": "DPI-00346",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "FERRO MATTIA GIOVANNI",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -3140,8 +3086,8 @@
     "scadenza": "15/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00353": {
-    "codice": "DPI-00353",
+  "DPI-00347": {
+    "codice": "DPI-00347",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "FERRO MATTIA GIOVANNI",
     "marca": "3M - OPTIME PELTRON I",
@@ -3149,8 +3095,8 @@
     "scadenza": "15/05/2031",
     "stato": "VALIDO"
   },
-  "DPI-00354": {
-    "codice": "DPI-00354",
+  "DPI-00348": {
+    "codice": "DPI-00348",
     "dpi": "GILET",
     "lavoratore": "FERRO MATTIA GIOVANNI",
     "marca": "ALTA VISIBILITA'",
@@ -3158,8 +3104,8 @@
     "scadenza": "15/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00355": {
-    "codice": "DPI-00355",
+  "DPI-00349": {
+    "codice": "DPI-00349",
     "dpi": "ELMETTO",
     "lavoratore": "FERRO MATTIA GIOVANNI",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3194,8 +3140,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00359": {
-    "codice": "DPI-00359",
+  "DPI-00353": {
+    "codice": "DPI-00353",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FINOTTI MARCO",
     "marca": "ROSSINI - TPS",
@@ -3203,8 +3149,8 @@
     "scadenza": "02/04/2034",
     "stato": "VALIDO"
   },
-  "DPI-00360": {
-    "codice": "DPI-00360",
+  "DPI-00354": {
+    "codice": "DPI-00354",
     "dpi": "SCARPE S3",
     "lavoratore": "FINOTTI MARCO",
     "marca": "SAFE - S3 SRC",
@@ -3212,8 +3158,8 @@
     "scadenza": "17/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00361": {
-    "codice": "DPI-00361",
+  "DPI-00355": {
+    "codice": "DPI-00355",
     "dpi": "PILE",
     "lavoratore": "FINOTTI MARCO",
     "marca": "",
@@ -3221,8 +3167,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00362": {
-    "codice": "DPI-00362",
+  "DPI-00356": {
+    "codice": "DPI-00356",
     "dpi": "MAGLIETTA",
     "lavoratore": "FINOTTI MARCO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3230,8 +3176,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00363": {
-    "codice": "DPI-00363",
+  "DPI-00357": {
+    "codice": "DPI-00357",
     "dpi": "STIVALE S3",
     "lavoratore": "FINOTTI MARCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3239,8 +3185,8 @@
     "scadenza": "17/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00364": {
-    "codice": "DPI-00364",
+  "DPI-00358": {
+    "codice": "DPI-00358",
     "dpi": "APVR DRAGER 6300",
     "lavoratore": "FINOTTI MARCO",
     "marca": "DRAGER 6300 PIENOFACCIALE",
@@ -3248,8 +3194,8 @@
     "scadenza": "19/07/2033",
     "stato": "VALIDO"
   },
-  "DPI-00365": {
-    "codice": "DPI-00365",
+  "DPI-00359": {
+    "codice": "DPI-00359",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "FINOTTI MARCO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -3257,8 +3203,8 @@
     "scadenza": "17/01/2033",
     "stato": "VALIDO"
   },
-  "DPI-00366": {
-    "codice": "DPI-00366",
+  "DPI-00360": {
+    "codice": "DPI-00360",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FINOTTI MARCO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3266,8 +3212,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00367": {
-    "codice": "DPI-00367",
+  "DPI-00361": {
+    "codice": "DPI-00361",
     "dpi": "ELMETTO",
     "lavoratore": "FINOTTI MARCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3275,8 +3221,8 @@
     "scadenza": "17/01/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00368": {
-    "codice": "DPI-00368",
+  "DPI-00362": {
+    "codice": "DPI-00362",
     "dpi": "ELMETTO",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3284,8 +3230,8 @@
     "scadenza": "21/10/2024",
     "stato": "SCADUTO"
   },
-  "DPI-00369": {
-    "codice": "DPI-00369",
+  "DPI-00363": {
+    "codice": "DPI-00363",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "3M - OPTIME PELTRON I",
@@ -3293,8 +3239,8 @@
     "scadenza": "06/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00370": {
-    "codice": "DPI-00370",
+  "DPI-00364": {
+    "codice": "DPI-00364",
     "dpi": "GILET",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "ALTA VISIBILITA'",
@@ -3302,8 +3248,8 @@
     "scadenza": "24/05/2033",
     "stato": "VALIDO"
   },
-  "DPI-00371": {
-    "codice": "DPI-00371",
+  "DPI-00365": {
+    "codice": "DPI-00365",
     "dpi": "MAGLIETTA",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3311,8 +3257,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00372": {
-    "codice": "DPI-00372",
+  "DPI-00366": {
+    "codice": "DPI-00366",
     "dpi": "PILE",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "",
@@ -3320,8 +3266,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00373": {
-    "codice": "DPI-00373",
+  "DPI-00367": {
+    "codice": "DPI-00367",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "ROSSINI  - TPS",
@@ -3329,8 +3275,8 @@
     "scadenza": "07/07/2034",
     "stato": "VALIDO"
   },
-  "DPI-00374": {
-    "codice": "DPI-00374",
+  "DPI-00368": {
+    "codice": "DPI-00368",
     "dpi": "SCARPE S3",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "SAFE - S3 SRC",
@@ -3338,8 +3284,8 @@
     "scadenza": "08/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00375": {
-    "codice": "DPI-00375",
+  "DPI-00369": {
+    "codice": "DPI-00369",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3347,8 +3293,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00376": {
-    "codice": "DPI-00376",
+  "DPI-00370": {
+    "codice": "DPI-00370",
     "dpi": "STIVALE S3",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3356,8 +3302,8 @@
     "scadenza": "04/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00377": {
-    "codice": "DPI-00377",
+  "DPI-00371": {
+    "codice": "DPI-00371",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FOGLIA MAURO",
     "marca": "ROSSINI - TPS",
@@ -3365,8 +3311,8 @@
     "scadenza": "07/04/2035",
     "stato": "VALIDO"
   },
-  "DPI-00378": {
-    "codice": "DPI-00378",
+  "DPI-00372": {
+    "codice": "DPI-00372",
     "dpi": "SCARPE S3",
     "lavoratore": "FOGLIA MAURO",
     "marca": "SAFE - S3 SRC",
@@ -3374,8 +3320,8 @@
     "scadenza": "07/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00379": {
-    "codice": "DPI-00379",
+  "DPI-00373": {
+    "codice": "DPI-00373",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FOGLIA MAURO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3383,8 +3329,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00380": {
-    "codice": "DPI-00380",
+  "DPI-00374": {
+    "codice": "DPI-00374",
     "dpi": "STIVALE S3",
     "lavoratore": "FOGLIA MAURO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3392,8 +3338,8 @@
     "scadenza": "07/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00381": {
-    "codice": "DPI-00381",
+  "DPI-00375": {
+    "codice": "DPI-00375",
     "dpi": "ELMETTO",
     "lavoratore": "FOGLIA MAURO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3419,8 +3365,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00384": {
-    "codice": "DPI-00384",
+  "DPI-00378": {
+    "codice": "DPI-00378",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "ROSSINI - TPS",
@@ -3428,8 +3374,8 @@
     "scadenza": "07/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00385": {
-    "codice": "DPI-00385",
+  "DPI-00379": {
+    "codice": "DPI-00379",
     "dpi": "SCARPE S3",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "SAFE - S3 SRC",
@@ -3437,8 +3383,8 @@
     "scadenza": "16/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00386": {
-    "codice": "DPI-00386",
+  "DPI-00380": {
+    "codice": "DPI-00380",
     "dpi": "STIVALE S3",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3446,8 +3392,8 @@
     "scadenza": "07/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00387": {
-    "codice": "DPI-00387",
+  "DPI-00381": {
+    "codice": "DPI-00381",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -3455,8 +3401,8 @@
     "scadenza": "07/01/2035",
     "stato": "VALIDO"
   },
-  "DPI-00388": {
-    "codice": "DPI-00388",
+  "DPI-00382": {
+    "codice": "DPI-00382",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -3464,8 +3410,8 @@
     "scadenza": "07/01/2030",
     "stato": "VALIDO"
   },
-  "DPI-00389": {
-    "codice": "DPI-00389",
+  "DPI-00383": {
+    "codice": "DPI-00383",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3473,8 +3419,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00390": {
-    "codice": "DPI-00390",
+  "DPI-00384": {
+    "codice": "DPI-00384",
     "dpi": "ELMETTO",
     "lavoratore": "FORMICOLA FABIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3500,8 +3446,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00393": {
-    "codice": "DPI-00393",
+  "DPI-00387": {
+    "codice": "DPI-00387",
     "dpi": "SCARPE S3",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "SAFE - S3 SRC",
@@ -3509,8 +3455,8 @@
     "scadenza": "01/07/2027",
     "stato": "VALIDO"
   },
-  "DPI-00394": {
-    "codice": "DPI-00394",
+  "DPI-00388": {
+    "codice": "DPI-00388",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "",
@@ -3518,8 +3464,8 @@
     "scadenza": "30/03/2027",
     "stato": "VALIDO"
   },
-  "DPI-00395": {
-    "codice": "DPI-00395",
+  "DPI-00389": {
+    "codice": "DPI-00389",
     "dpi": "GUANTI CALORE",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "",
@@ -3527,8 +3473,8 @@
     "scadenza": "31/01/2028",
     "stato": "VALIDO"
   },
-  "DPI-00396": {
-    "codice": "DPI-00396",
+  "DPI-00390": {
+    "codice": "DPI-00390",
     "dpi": "MAGLIETTA",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3536,8 +3482,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00397": {
-    "codice": "DPI-00397",
+  "DPI-00391": {
+    "codice": "DPI-00391",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "ROSSINI - TPS",
@@ -3545,8 +3491,8 @@
     "scadenza": "05/05/2033",
     "stato": "VALIDO"
   },
-  "DPI-00398": {
-    "codice": "DPI-00398",
+  "DPI-00392": {
+    "codice": "DPI-00392",
     "dpi": "ELMETTO",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "SIR - EVEREST - EN397/EN50364",
@@ -3554,8 +3500,8 @@
     "scadenza": "01/02/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00399": {
-    "codice": "DPI-00399",
+  "DPI-00393": {
+    "codice": "DPI-00393",
     "dpi": "STIVALE S3",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3563,8 +3509,8 @@
     "scadenza": "14/10/2027",
     "stato": "VALIDO"
   },
-  "DPI-00400": {
-    "codice": "DPI-00400",
+  "DPI-00394": {
+    "codice": "DPI-00394",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "",
@@ -3572,8 +3518,8 @@
     "scadenza": "17/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00401": {
-    "codice": "DPI-00401",
+  "DPI-00395": {
+    "codice": "DPI-00395",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "GALLI FRANCESCO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3590,8 +3536,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00403": {
-    "codice": "DPI-00403",
+  "DPI-00397": {
+    "codice": "DPI-00397",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3599,8 +3545,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00404": {
-    "codice": "DPI-00404",
+  "DPI-00398": {
+    "codice": "DPI-00398",
     "dpi": "SCARPE S3",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "SAFE - S3 SRC",
@@ -3608,8 +3554,8 @@
     "scadenza": "19/01/2029",
     "stato": "VALIDO"
   },
-  "DPI-00405": {
-    "codice": "DPI-00405",
+  "DPI-00399": {
+    "codice": "DPI-00399",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "",
@@ -3617,8 +3563,8 @@
     "scadenza": "09/09/2030",
     "stato": "VALIDO"
   },
-  "DPI-00406": {
-    "codice": "DPI-00406",
+  "DPI-00400": {
+    "codice": "DPI-00400",
     "dpi": "PILE",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "",
@@ -3626,8 +3572,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00407": {
-    "codice": "DPI-00407",
+  "DPI-00401": {
+    "codice": "DPI-00401",
     "dpi": "ELMETTO",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3635,8 +3581,8 @@
     "scadenza": "12/10/2026",
     "stato": "VALIDO"
   },
-  "DPI-00408": {
-    "codice": "DPI-00408",
+  "DPI-00402": {
+    "codice": "DPI-00402",
     "dpi": "STIVALE S3",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3644,8 +3590,8 @@
     "scadenza": "27/09/2028",
     "stato": "VALIDO"
   },
-  "DPI-00409": {
-    "codice": "DPI-00409",
+  "DPI-00403": {
+    "codice": "DPI-00403",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "ROSSINI - TPS",
@@ -3653,8 +3599,8 @@
     "scadenza": "27/01/2036",
     "stato": "VALIDO"
   },
-  "DPI-00410": {
-    "codice": "DPI-00410",
+  "DPI-00404": {
+    "codice": "DPI-00404",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "GAMBETTI  DUCCIO",
     "marca": "",
@@ -3671,8 +3617,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00412": {
-    "codice": "DPI-00412",
+  "DPI-00406": {
+    "codice": "DPI-00406",
     "dpi": "ELMETTO",
     "lavoratore": "GELATI ANDREA",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3680,8 +3626,8 @@
     "scadenza": "05/11/2027",
     "stato": "VALIDO"
   },
-  "DPI-00413": {
-    "codice": "DPI-00413",
+  "DPI-00407": {
+    "codice": "DPI-00407",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "GELATI ANDREA",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3689,8 +3635,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00414": {
-    "codice": "DPI-00414",
+  "DPI-00408": {
+    "codice": "DPI-00408",
     "dpi": "STIVALE S3",
     "lavoratore": "GELATI ANDREA",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3698,8 +3644,8 @@
     "scadenza": "02/03/2027",
     "stato": "VALIDO"
   },
-  "DPI-00415": {
-    "codice": "DPI-00415",
+  "DPI-00409": {
+    "codice": "DPI-00409",
     "dpi": "PILE",
     "lavoratore": "GELATI ANDREA",
     "marca": "",
@@ -3707,8 +3653,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00416": {
-    "codice": "DPI-00416",
+  "DPI-00410": {
+    "codice": "DPI-00410",
     "dpi": "SCARPE S3",
     "lavoratore": "GELATI ANDREA",
     "marca": "SAFE - S3 SRC",
@@ -3716,8 +3662,8 @@
     "scadenza": "20/04/2028",
     "stato": "VALIDO"
   },
-  "DPI-00417": {
-    "codice": "DPI-00417",
+  "DPI-00411": {
+    "codice": "DPI-00411",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "GELATI ANDREA",
     "marca": "ROSSINI - TPS",
@@ -3734,8 +3680,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00419": {
-    "codice": "DPI-00419",
+  "DPI-00413": {
+    "codice": "DPI-00413",
     "dpi": "GILET",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "ALTA VISIBILITA'",
@@ -3743,8 +3689,8 @@
     "scadenza": "15/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00420": {
-    "codice": "DPI-00420",
+  "DPI-00414": {
+    "codice": "DPI-00414",
     "dpi": "SCARPE S3",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "SAFE - S3 SRC",
@@ -3752,17 +3698,8 @@
     "scadenza": "01/07/2030",
     "stato": "VALIDO"
   },
-  "DPI-00421": {
-    "codice": "DPI-00421",
-    "dpi": "GILET",
-    "lavoratore": "GUATELLI  VALERIO",
-    "marca": "ALTA VISIBILITA'",
-    "dataConsegna": "26/11/2025",
-    "scadenza": "26/11/2035",
-    "stato": "VALIDO"
-  },
-  "DPI-00422": {
-    "codice": "DPI-00422",
+  "DPI-00415": {
+    "codice": "DPI-00415",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3770,8 +3707,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00423": {
-    "codice": "DPI-00423",
+  "DPI-00416": {
+    "codice": "DPI-00416",
     "dpi": "MAGLIETTA",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3779,8 +3716,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00424": {
-    "codice": "DPI-00424",
+  "DPI-00417": {
+    "codice": "DPI-00417",
     "dpi": "ELMETTO",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3788,8 +3725,8 @@
     "scadenza": "27/05/2028",
     "stato": "VALIDO"
   },
-  "DPI-00425": {
-    "codice": "DPI-00425",
+  "DPI-00418": {
+    "codice": "DPI-00418",
     "dpi": "PILE",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "",
@@ -3797,8 +3734,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00426": {
-    "codice": "DPI-00426",
+  "DPI-00419": {
+    "codice": "DPI-00419",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "",
@@ -3806,8 +3743,8 @@
     "scadenza": "25/09/2029",
     "stato": "VALIDO"
   },
-  "DPI-00427": {
-    "codice": "DPI-00427",
+  "DPI-00420": {
+    "codice": "DPI-00420",
     "dpi": "GUANTI CALORE",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "",
@@ -3815,8 +3752,8 @@
     "scadenza": "15/02/2027",
     "stato": "VALIDO"
   },
-  "DPI-00428": {
-    "codice": "DPI-00428",
+  "DPI-00421": {
+    "codice": "DPI-00421",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "ROSSINI - TPS",
@@ -3824,8 +3761,8 @@
     "scadenza": "27/03/2036",
     "stato": "VALIDO"
   },
-  "DPI-00429": {
-    "codice": "DPI-00429",
+  "DPI-00422": {
+    "codice": "DPI-00422",
     "dpi": "STIVALE S3",
     "lavoratore": "GUATELLI  VALERIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3833,17 +3770,17 @@
     "scadenza": "18/05/2031",
     "stato": "VALIDO"
   },
-  "DPI-00430": {
-    "codice": "DPI-00430",
+  "DPI-00423": {
+    "codice": "DPI-00423",
     "dpi": "APVR 3M 6000 FULL",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "3M 7900",
     "dataConsegna": "01/12/2015",
-    "scadenza": "01/12/2025",
-    "stato": "SCADUTO"
+    "scadenza": "",
+    "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00431": {
-    "codice": "DPI-00431",
+  "DPI-00424": {
+    "codice": "DPI-00424",
     "dpi": "ELMETTO",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3851,8 +3788,8 @@
     "scadenza": "08/09/2026",
     "stato": "IN SCADENZA"
   },
-  "DPI-00432": {
-    "codice": "DPI-00432",
+  "DPI-00425": {
+    "codice": "DPI-00425",
     "dpi": "SCARPE S3",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "SAFE - S3 SRC",
@@ -3860,8 +3797,8 @@
     "scadenza": "15/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00433": {
-    "codice": "DPI-00433",
+  "DPI-00426": {
+    "codice": "DPI-00426",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3869,8 +3806,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00434": {
-    "codice": "DPI-00434",
+  "DPI-00427": {
+    "codice": "DPI-00427",
     "dpi": "MAGLIETTA",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3878,8 +3815,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00435": {
-    "codice": "DPI-00435",
+  "DPI-00428": {
+    "codice": "DPI-00428",
     "dpi": "PILE",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "",
@@ -3887,8 +3824,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00436": {
-    "codice": "DPI-00436",
+  "DPI-00429": {
+    "codice": "DPI-00429",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -3896,8 +3833,8 @@
     "scadenza": "02/04/2024",
     "stato": "SCADUTO"
   },
-  "DPI-00437": {
-    "codice": "DPI-00437",
+  "DPI-00430": {
+    "codice": "DPI-00430",
     "dpi": "STIVALE S3",
     "lavoratore": "IALENTI  GIORGIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3905,8 +3842,8 @@
     "scadenza": "09/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00438": {
-    "codice": "DPI-00438",
+  "DPI-00431": {
+    "codice": "DPI-00431",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -3914,8 +3851,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00439": {
-    "codice": "DPI-00439",
+  "DPI-00432": {
+    "codice": "DPI-00432",
     "dpi": "STIVALE S3",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -3923,8 +3860,8 @@
     "scadenza": "27/09/2030",
     "stato": "VALIDO"
   },
-  "DPI-00440": {
-    "codice": "DPI-00440",
+  "DPI-00433": {
+    "codice": "DPI-00433",
     "dpi": "ELMETTO",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -3932,8 +3869,8 @@
     "scadenza": "16/01/2027",
     "stato": "VALIDO"
   },
-  "DPI-00441": {
-    "codice": "DPI-00441",
+  "DPI-00434": {
+    "codice": "DPI-00434",
     "dpi": "MASCHERA SABBIATURA",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "SPASCIANI - TR82 - EN148",
@@ -3941,8 +3878,8 @@
     "scadenza": "03/09/2033",
     "stato": "VALIDO"
   },
-  "DPI-00442": {
-    "codice": "DPI-00442",
+  "DPI-00435": {
+    "codice": "DPI-00435",
     "dpi": "MAGLIETTA",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -3950,8 +3887,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00443": {
-    "codice": "DPI-00443",
+  "DPI-00436": {
+    "codice": "DPI-00436",
     "dpi": "OCCHIALI A MASCHERINA",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "MSA",
@@ -3959,8 +3896,8 @@
     "scadenza": "24/05/2029",
     "stato": "VALIDO"
   },
-  "DPI-00444": {
-    "codice": "DPI-00444",
+  "DPI-00437": {
+    "codice": "DPI-00437",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "3M - OPTIME PELTRON I",
@@ -3968,8 +3905,8 @@
     "scadenza": "19/02/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00445": {
-    "codice": "DPI-00445",
+  "DPI-00438": {
+    "codice": "DPI-00438",
     "dpi": "SCARPE S3",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "SAFE - S3 SRC",
@@ -3977,8 +3914,8 @@
     "scadenza": "23/09/2028",
     "stato": "VALIDO"
   },
-  "DPI-00446": {
-    "codice": "DPI-00446",
+  "DPI-00439": {
+    "codice": "DPI-00439",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "INGRASSIA RAFFAELE",
     "marca": "",
@@ -3986,11 +3923,11 @@
     "scadenza": "20/01/2031",
     "stato": "VALIDO"
   },
-  "DPI-00447": {
-    "codice": "DPI-00447",
+  "DPI-00440": {
+    "codice": "DPI-00440",
     "dpi": "TUTA TYVEK",
     "lavoratore": "INGRASSIA RAFFAELE",
-    "marca": "",
+    "marca": "DUPONT - CAT.III",
     "dataConsegna": "USA E GETTA",
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
@@ -4004,8 +3941,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00449": {
-    "codice": "DPI-00449",
+  "DPI-00442": {
+    "codice": "DPI-00442",
     "dpi": "STIVALE S3",
     "lavoratore": "LA MONICA FABIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4013,8 +3950,8 @@
     "scadenza": "23/03/2031",
     "stato": "VALIDO"
   },
-  "DPI-00450": {
-    "codice": "DPI-00450",
+  "DPI-00443": {
+    "codice": "DPI-00443",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "LA MONICA FABIO",
     "marca": "",
@@ -4022,8 +3959,8 @@
     "scadenza": "24/03/2030",
     "stato": "VALIDO"
   },
-  "DPI-00451": {
-    "codice": "DPI-00451",
+  "DPI-00444": {
+    "codice": "DPI-00444",
     "dpi": "ELMETTO",
     "lavoratore": "LA MONICA FABIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4031,8 +3968,8 @@
     "scadenza": "04/07/2027",
     "stato": "VALIDO"
   },
-  "DPI-00452": {
-    "codice": "DPI-00452",
+  "DPI-00445": {
+    "codice": "DPI-00445",
     "dpi": "MAGLIETTA",
     "lavoratore": "LA MONICA FABIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4040,8 +3977,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00453": {
-    "codice": "DPI-00453",
+  "DPI-00446": {
+    "codice": "DPI-00446",
     "dpi": "GUANTI CALORE",
     "lavoratore": "LA MONICA FABIO",
     "marca": "",
@@ -4049,8 +3986,8 @@
     "scadenza": "29/03/2028",
     "stato": "VALIDO"
   },
-  "DPI-00454": {
-    "codice": "DPI-00454",
+  "DPI-00447": {
+    "codice": "DPI-00447",
     "dpi": "FFP2/FFP3",
     "lavoratore": "LA MONICA FABIO",
     "marca": "3M",
@@ -4058,8 +3995,8 @@
     "scadenza": "14/04/2031",
     "stato": "VALIDO"
   },
-  "DPI-00455": {
-    "codice": "DPI-00455",
+  "DPI-00448": {
+    "codice": "DPI-00448",
     "dpi": "SCARPE S3",
     "lavoratore": "LA MONICA FABIO",
     "marca": "SAFE - S3 SRC",
@@ -4067,8 +4004,8 @@
     "scadenza": "24/05/2031",
     "stato": "VALIDO"
   },
-  "DPI-00456": {
-    "codice": "DPI-00456",
+  "DPI-00449": {
+    "codice": "DPI-00449",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "LA MONICA FABIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4085,8 +4022,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00458": {
-    "codice": "DPI-00458",
+  "DPI-00451": {
+    "codice": "DPI-00451",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "LANZA VINCENZO",
     "marca": "ROSSINI - TPS",
@@ -4094,8 +4031,8 @@
     "scadenza": "09/01/2036",
     "stato": "VALIDO"
   },
-  "DPI-00459": {
-    "codice": "DPI-00459",
+  "DPI-00452": {
+    "codice": "DPI-00452",
     "dpi": "SCARPE S3",
     "lavoratore": "LANZA VINCENZO",
     "marca": "SAFE - S3 SRC",
@@ -4103,8 +4040,8 @@
     "scadenza": "25/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00460": {
-    "codice": "DPI-00460",
+  "DPI-00453": {
+    "codice": "DPI-00453",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "LANZA VINCENZO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4112,8 +4049,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00461": {
-    "codice": "DPI-00461",
+  "DPI-00454": {
+    "codice": "DPI-00454",
     "dpi": "MAGLIETTA",
     "lavoratore": "LANZA VINCENZO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4121,8 +4058,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00462": {
-    "codice": "DPI-00462",
+  "DPI-00455": {
+    "codice": "DPI-00455",
     "dpi": "STIVALE S3",
     "lavoratore": "LANZA VINCENZO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4130,8 +4067,8 @@
     "scadenza": "04/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00463": {
-    "codice": "DPI-00463",
+  "DPI-00456": {
+    "codice": "DPI-00456",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "LANZA VINCENZO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -4139,8 +4076,8 @@
     "scadenza": "25/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00464": {
-    "codice": "DPI-00464",
+  "DPI-00457": {
+    "codice": "DPI-00457",
     "dpi": "ELMETTO",
     "lavoratore": "LANZA VINCENZO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4157,8 +4094,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00466": {
-    "codice": "DPI-00466",
+  "DPI-00459": {
+    "codice": "DPI-00459",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "LAURIERO FRANCESCO",
     "marca": "ROSSINI - TPS",
@@ -4166,8 +4103,8 @@
     "scadenza": "13/12/2033",
     "stato": "VALIDO"
   },
-  "DPI-00467": {
-    "codice": "DPI-00467",
+  "DPI-00460": {
+    "codice": "DPI-00460",
     "dpi": "SCARPE S3",
     "lavoratore": "LAURIERO FRANCESCO",
     "marca": "SAFE - S3 SRC",
@@ -4175,8 +4112,8 @@
     "scadenza": "13/12/2028",
     "stato": "VALIDO"
   },
-  "DPI-00468": {
-    "codice": "DPI-00468",
+  "DPI-00461": {
+    "codice": "DPI-00461",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "LAURIERO FRANCESCO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -4184,8 +4121,8 @@
     "scadenza": "13/12/2033",
     "stato": "VALIDO"
   },
-  "DPI-00469": {
-    "codice": "DPI-00469",
+  "DPI-00462": {
+    "codice": "DPI-00462",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "LAURIERO FRANCESCO",
     "marca": "3M - OPTIME PELTRON I",
@@ -4193,8 +4130,8 @@
     "scadenza": "13/12/2028",
     "stato": "VALIDO"
   },
-  "DPI-00470": {
-    "codice": "DPI-00470",
+  "DPI-00463": {
+    "codice": "DPI-00463",
     "dpi": "ELMETTO",
     "lavoratore": "LAURIERO FRANCESCO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4229,8 +4166,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00474": {
-    "codice": "DPI-00474",
+  "DPI-00467": {
+    "codice": "DPI-00467",
     "dpi": "ELMETTO",
     "lavoratore": "LO BIANCO SALVATORE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4238,8 +4175,8 @@
     "scadenza": "20/04/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00475": {
-    "codice": "DPI-00475",
+  "DPI-00468": {
+    "codice": "DPI-00468",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "LO BIANCO SALVATORE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4247,8 +4184,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00476": {
-    "codice": "DPI-00476",
+  "DPI-00469": {
+    "codice": "DPI-00469",
     "dpi": "SCARPE S3",
     "lavoratore": "LO BIANCO SALVATORE",
     "marca": "SAFE - S3 SRC",
@@ -4256,8 +4193,8 @@
     "scadenza": "06/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00477": {
-    "codice": "DPI-00477",
+  "DPI-00470": {
+    "codice": "DPI-00470",
     "dpi": "STIVALE S3",
     "lavoratore": "LO BIANCO SALVATORE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4265,8 +4202,8 @@
     "scadenza": "20/04/2028",
     "stato": "VALIDO"
   },
-  "DPI-00478": {
-    "codice": "DPI-00478",
+  "DPI-00471": {
+    "codice": "DPI-00471",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "LO BIANCO SALVATORE",
     "marca": "ROSSINI - TPS",
@@ -4274,8 +4211,8 @@
     "scadenza": "20/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00479": {
-    "codice": "DPI-00479",
+  "DPI-00472": {
+    "codice": "DPI-00472",
     "dpi": "CAMICIA",
     "lavoratore": "LO BIANCO SALVATORE",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -4301,8 +4238,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00482": {
-    "codice": "DPI-00482",
+  "DPI-00475": {
+    "codice": "DPI-00475",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4310,8 +4247,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00483": {
-    "codice": "DPI-00483",
+  "DPI-00476": {
+    "codice": "DPI-00476",
     "dpi": "ELMETTO",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4319,8 +4256,8 @@
     "scadenza": "23/06/2028",
     "stato": "VALIDO"
   },
-  "DPI-00484": {
-    "codice": "DPI-00484",
+  "DPI-00477": {
+    "codice": "DPI-00477",
     "dpi": "MAGLIETTA",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4328,8 +4265,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00485": {
-    "codice": "DPI-00485",
+  "DPI-00478": {
+    "codice": "DPI-00478",
     "dpi": "GILET",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "ALTA VISIBILITA'",
@@ -4337,17 +4274,17 @@
     "scadenza": "09/09/2035",
     "stato": "VALIDO"
   },
-  "DPI-00486": {
-    "codice": "DPI-00486",
+  "DPI-00479": {
+    "codice": "DPI-00479",
     "dpi": "TUTA TYVEK",
     "lavoratore": "MACRI' PASQUALE",
-    "marca": "",
+    "marca": "DUPONT - CAT.III",
     "dataConsegna": "USA E GETTA",
     "scadenza": "USA E GETTA",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00487": {
-    "codice": "DPI-00487",
+  "DPI-00480": {
+    "codice": "DPI-00480",
     "dpi": "SCARPE S3",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "SAFE - S3 SRC",
@@ -4355,8 +4292,8 @@
     "scadenza": "01/07/2031",
     "stato": "VALIDO"
   },
-  "DPI-00488": {
-    "codice": "DPI-00488",
+  "DPI-00481": {
+    "codice": "DPI-00481",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "ROSSINI - TPS",
@@ -4364,8 +4301,8 @@
     "scadenza": "20/05/2036",
     "stato": "VALIDO"
   },
-  "DPI-00489": {
-    "codice": "DPI-00489",
+  "DPI-00482": {
+    "codice": "DPI-00482",
     "dpi": "GUANTI CALORE",
     "lavoratore": "MACRI' PASQUALE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4382,8 +4319,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00491": {
-    "codice": "DPI-00491",
+  "DPI-00484": {
+    "codice": "DPI-00484",
     "dpi": "ELMETTO",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4391,8 +4328,8 @@
     "scadenza": "08/09/2026",
     "stato": "IN SCADENZA"
   },
-  "DPI-00492": {
-    "codice": "DPI-00492",
+  "DPI-00485": {
+    "codice": "DPI-00485",
     "dpi": "PILE",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
     "marca": "",
@@ -4400,8 +4337,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00493": {
-    "codice": "DPI-00493",
+  "DPI-00486": {
+    "codice": "DPI-00486",
     "dpi": "MAGLIETTA",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4409,8 +4346,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00494": {
-    "codice": "DPI-00494",
+  "DPI-00487": {
+    "codice": "DPI-00487",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4418,8 +4355,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00495": {
-    "codice": "DPI-00495",
+  "DPI-00488": {
+    "codice": "DPI-00488",
     "dpi": "SCARPE S3",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
     "marca": "SAFE - S3 SRC",
@@ -4427,8 +4364,8 @@
     "scadenza": "14/03/2030",
     "stato": "VALIDO"
   },
-  "DPI-00496": {
-    "codice": "DPI-00496",
+  "DPI-00489": {
+    "codice": "DPI-00489",
     "dpi": "CAMICIA",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -4436,8 +4373,8 @@
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00497": {
-    "codice": "DPI-00497",
+  "DPI-00490": {
+    "codice": "DPI-00490",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MANCIN LUDOVICO",
     "marca": "ROSSINI - TPS",
@@ -4445,8 +4382,8 @@
     "scadenza": "12/11/2035",
     "stato": "VALIDO"
   },
-  "DPI-00498": {
-    "codice": "DPI-00498",
+  "DPI-00491": {
+    "codice": "DPI-00491",
     "dpi": "SCARPE S3",
     "lavoratore": "MANCIN LUDOVICO",
     "marca": "SAFE - S3 SRC",
@@ -4454,8 +4391,8 @@
     "scadenza": "12/11/2030",
     "stato": "VALIDO"
   },
-  "DPI-00499": {
-    "codice": "DPI-00499",
+  "DPI-00492": {
+    "codice": "DPI-00492",
     "dpi": "MASCHERA DI FUGA",
     "lavoratore": "MANCIN LUDOVICO",
     "marca": "ESCAPE AUER MSA",
@@ -4463,8 +4400,8 @@
     "scadenza": "01/06/2031",
     "stato": "VALIDO"
   },
-  "DPI-00500": {
-    "codice": "DPI-00500",
+  "DPI-00493": {
+    "codice": "DPI-00493",
     "dpi": "ELMETTO",
     "lavoratore": "MANCIN LUDOVICO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4472,8 +4409,8 @@
     "scadenza": "03/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00501": {
-    "codice": "DPI-00501",
+  "DPI-00494": {
+    "codice": "DPI-00494",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MANCIN LUDOVICO",
     "marca": "3M - OPTIME PELTRON I",
@@ -4481,8 +4418,8 @@
     "scadenza": "12/11/2030",
     "stato": "VALIDO"
   },
-  "DPI-00502": {
-    "codice": "DPI-00502",
+  "DPI-00495": {
+    "codice": "DPI-00495",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MANCIN LUDOVICO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4508,8 +4445,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00505": {
-    "codice": "DPI-00505",
+  "DPI-00498": {
+    "codice": "DPI-00498",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "ROSSINI - TPS",
@@ -4517,8 +4454,8 @@
     "scadenza": "18/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00506": {
-    "codice": "DPI-00506",
+  "DPI-00499": {
+    "codice": "DPI-00499",
     "dpi": "GILET",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "ALTA VISIBILITA'",
@@ -4526,8 +4463,8 @@
     "scadenza": "03/06/2036",
     "stato": "VALIDO"
   },
-  "DPI-00507": {
-    "codice": "DPI-00507",
+  "DPI-00500": {
+    "codice": "DPI-00500",
     "dpi": "SCARPE S3",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "SAFE - S3 SRC",
@@ -4535,8 +4472,8 @@
     "scadenza": "18/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00508": {
-    "codice": "DPI-00508",
+  "DPI-00501": {
+    "codice": "DPI-00501",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -4544,8 +4481,8 @@
     "scadenza": "18/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00509": {
-    "codice": "DPI-00509",
+  "DPI-00502": {
+    "codice": "DPI-00502",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "3M - OPTIME PELTRON I",
@@ -4553,8 +4490,8 @@
     "scadenza": "18/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00510": {
-    "codice": "DPI-00510",
+  "DPI-00503": {
+    "codice": "DPI-00503",
     "dpi": "STIVALE S3",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4562,8 +4499,8 @@
     "scadenza": "18/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00511": {
-    "codice": "DPI-00511",
+  "DPI-00504": {
+    "codice": "DPI-00504",
     "dpi": "ELMETTO",
     "lavoratore": "MANGIAMELI GABRIELE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4598,8 +4535,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00515": {
-    "codice": "DPI-00515",
+  "DPI-00508": {
+    "codice": "DPI-00508",
     "dpi": "ELMETTO",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4607,8 +4544,8 @@
     "scadenza": "14/04/2029",
     "stato": "VALIDO"
   },
-  "DPI-00516": {
-    "codice": "DPI-00516",
+  "DPI-00509": {
+    "codice": "DPI-00509",
     "dpi": "SCARPE S3",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "SAFE - S3 SRC",
@@ -4616,8 +4553,8 @@
     "scadenza": "05/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00517": {
-    "codice": "DPI-00517",
+  "DPI-00510": {
+    "codice": "DPI-00510",
     "dpi": "GILET",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "ALTA VISIBILITA'",
@@ -4625,8 +4562,8 @@
     "scadenza": "22/10/2034",
     "stato": "VALIDO"
   },
-  "DPI-00518": {
-    "codice": "DPI-00518",
+  "DPI-00511": {
+    "codice": "DPI-00511",
     "dpi": "MAGLIETTA",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4634,8 +4571,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00519": {
-    "codice": "DPI-00519",
+  "DPI-00512": {
+    "codice": "DPI-00512",
     "dpi": "TUTA INTERA",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "",
@@ -4643,8 +4580,8 @@
     "scadenza": "03/10/2034",
     "stato": "VALIDO"
   },
-  "DPI-00520": {
-    "codice": "DPI-00520",
+  "DPI-00513": {
+    "codice": "DPI-00513",
     "dpi": "STIVALE S3",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4652,8 +4589,8 @@
     "scadenza": "03/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00521": {
-    "codice": "DPI-00521",
+  "DPI-00514": {
+    "codice": "DPI-00514",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4661,8 +4598,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00522": {
-    "codice": "DPI-00522",
+  "DPI-00515": {
+    "codice": "DPI-00515",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "",
@@ -4670,8 +4607,8 @@
     "scadenza": "09/04/2031",
     "stato": "VALIDO"
   },
-  "DPI-00523": {
-    "codice": "DPI-00523",
+  "DPI-00516": {
+    "codice": "DPI-00516",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MANGINI GIUSEPPE",
     "marca": "3M - OPTIME PELTRON I",
@@ -4688,8 +4625,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00525": {
-    "codice": "DPI-00525",
+  "DPI-00518": {
+    "codice": "DPI-00518",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MARINARO GIACINTO",
     "marca": "ROSSINI - TPS",
@@ -4697,8 +4634,8 @@
     "scadenza": "14/02/2033",
     "stato": "VALIDO"
   },
-  "DPI-00526": {
-    "codice": "DPI-00526",
+  "DPI-00519": {
+    "codice": "DPI-00519",
     "dpi": "SCARPE S3",
     "lavoratore": "MARINARO GIACINTO",
     "marca": "SAFE - S3 SRC",
@@ -4706,8 +4643,8 @@
     "scadenza": "14/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00527": {
-    "codice": "DPI-00527",
+  "DPI-00520": {
+    "codice": "DPI-00520",
     "dpi": "STIVALE S3",
     "lavoratore": "MARINARO GIACINTO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4715,8 +4652,8 @@
     "scadenza": "14/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00528": {
-    "codice": "DPI-00528",
+  "DPI-00521": {
+    "codice": "DPI-00521",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MARINARO GIACINTO",
     "marca": "3M - OPTIME PELTRON I",
@@ -4724,8 +4661,8 @@
     "scadenza": "14/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00529": {
-    "codice": "DPI-00529",
+  "DPI-00522": {
+    "codice": "DPI-00522",
     "dpi": "ELMETTO",
     "lavoratore": "MARINARO GIACINTO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4733,8 +4670,8 @@
     "scadenza": "14/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00530": {
-    "codice": "DPI-00530",
+  "DPI-00523": {
+    "codice": "DPI-00523",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MARINARO GIACINTO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4760,8 +4697,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00533": {
-    "codice": "DPI-00533",
+  "DPI-00526": {
+    "codice": "DPI-00526",
     "dpi": "ELMETTO",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4769,8 +4706,8 @@
     "scadenza": "09/12/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00534": {
-    "codice": "DPI-00534",
+  "DPI-00527": {
+    "codice": "DPI-00527",
     "dpi": "SCARPE S3",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "ROSSINI - TPS",
@@ -4778,8 +4715,8 @@
     "scadenza": "28/03/2030",
     "stato": "VALIDO"
   },
-  "DPI-00535": {
-    "codice": "DPI-00535",
+  "DPI-00528": {
+    "codice": "DPI-00528",
     "dpi": "GUANTI CALORE",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "",
@@ -4787,8 +4724,8 @@
     "scadenza": "25/07/2027",
     "stato": "VALIDO"
   },
-  "DPI-00536": {
-    "codice": "DPI-00536",
+  "DPI-00529": {
+    "codice": "DPI-00529",
     "dpi": "STIVALI SALDATORE",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "?",
@@ -4796,8 +4733,8 @@
     "scadenza": "01/03/2029",
     "stato": "VALIDO"
   },
-  "DPI-00537": {
-    "codice": "DPI-00537",
+  "DPI-00530": {
+    "codice": "DPI-00530",
     "dpi": "GINOCCHIERE",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "",
@@ -4805,8 +4742,8 @@
     "scadenza": "22/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00538": {
-    "codice": "DPI-00538",
+  "DPI-00531": {
+    "codice": "DPI-00531",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -4814,8 +4751,8 @@
     "scadenza": "20/02/2033",
     "stato": "VALIDO"
   },
-  "DPI-00539": {
-    "codice": "DPI-00539",
+  "DPI-00532": {
+    "codice": "DPI-00532",
     "dpi": "STIVALE S3",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4823,8 +4760,8 @@
     "scadenza": "05/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00540": {
-    "codice": "DPI-00540",
+  "DPI-00533": {
+    "codice": "DPI-00533",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4832,17 +4769,17 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00541": {
-    "codice": "DPI-00541",
+  "DPI-00534": {
+    "codice": "DPI-00534",
     "dpi": "APVR 3M 6000 HALF",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "3M 6000 SEMIMASCHERA",
     "dataConsegna": "06/10/2020",
-    "scadenza": "06/10/2030",
-    "stato": "VALIDO"
+    "scadenza": "",
+    "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00542": {
-    "codice": "DPI-00542",
+  "DPI-00535": {
+    "codice": "DPI-00535",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MASSARA CLAUDIO",
     "marca": "ROSSINI - TPS",
@@ -4868,8 +4805,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00545": {
-    "codice": "DPI-00545",
+  "DPI-00538": {
+    "codice": "DPI-00538",
     "dpi": "ELMETTO",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4877,8 +4814,8 @@
     "scadenza": "23/05/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00546": {
-    "codice": "DPI-00546",
+  "DPI-00539": {
+    "codice": "DPI-00539",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "3M - OPTIME PELTRON I",
@@ -4886,8 +4823,8 @@
     "scadenza": "19/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00547": {
-    "codice": "DPI-00547",
+  "DPI-00540": {
+    "codice": "DPI-00540",
     "dpi": "SCARPE S3",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "SAFE - S3 SRC",
@@ -4895,8 +4832,8 @@
     "scadenza": "30/08/2029",
     "stato": "VALIDO"
   },
-  "DPI-00548": {
-    "codice": "DPI-00548",
+  "DPI-00541": {
+    "codice": "DPI-00541",
     "dpi": "STIVALE S3",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4904,8 +4841,8 @@
     "scadenza": "14/02/2030",
     "stato": "VALIDO"
   },
-  "DPI-00549": {
-    "codice": "DPI-00549",
+  "DPI-00542": {
+    "codice": "DPI-00542",
     "dpi": "MAGLIETTA",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4913,8 +4850,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00550": {
-    "codice": "DPI-00550",
+  "DPI-00543": {
+    "codice": "DPI-00543",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "",
@@ -4922,8 +4859,8 @@
     "scadenza": "25/02/2027",
     "stato": "VALIDO"
   },
-  "DPI-00551": {
-    "codice": "DPI-00551",
+  "DPI-00544": {
+    "codice": "DPI-00544",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -4931,8 +4868,8 @@
     "scadenza": "19/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00552": {
-    "codice": "DPI-00552",
+  "DPI-00545": {
+    "codice": "DPI-00545",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "ROSSINI - TPS",
@@ -4940,8 +4877,8 @@
     "scadenza": "19/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00553": {
-    "codice": "DPI-00553",
+  "DPI-00546": {
+    "codice": "DPI-00546",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MAZZAFERRO TIZIANO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -4958,8 +4895,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00555": {
-    "codice": "DPI-00555",
+  "DPI-00548": {
+    "codice": "DPI-00548",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -4967,8 +4904,8 @@
     "scadenza": "10/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00556": {
-    "codice": "DPI-00556",
+  "DPI-00549": {
+    "codice": "DPI-00549",
     "dpi": "STIVALE S3",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -4976,8 +4913,8 @@
     "scadenza": "03/10/2029",
     "stato": "VALIDO"
   },
-  "DPI-00557": {
-    "codice": "DPI-00557",
+  "DPI-00550": {
+    "codice": "DPI-00550",
     "dpi": "ELMETTO",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -4985,8 +4922,8 @@
     "scadenza": "11/12/2028",
     "stato": "VALIDO"
   },
-  "DPI-00558": {
-    "codice": "DPI-00558",
+  "DPI-00551": {
+    "codice": "DPI-00551",
     "dpi": "MAGLIETTA",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -4994,8 +4931,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00559": {
-    "codice": "DPI-00559",
+  "DPI-00552": {
+    "codice": "DPI-00552",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5003,8 +4940,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00560": {
-    "codice": "DPI-00560",
+  "DPI-00553": {
+    "codice": "DPI-00553",
     "dpi": "TUTA INTERA",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "",
@@ -5012,8 +4949,8 @@
     "scadenza": "20/12/2034",
     "stato": "VALIDO"
   },
-  "DPI-00561": {
-    "codice": "DPI-00561",
+  "DPI-00554": {
+    "codice": "DPI-00554",
     "dpi": "GILET",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "ALTA VISIBILITA'",
@@ -5021,8 +4958,8 @@
     "scadenza": "12/05/2035",
     "stato": "VALIDO"
   },
-  "DPI-00562": {
-    "codice": "DPI-00562",
+  "DPI-00555": {
+    "codice": "DPI-00555",
     "dpi": "SCARPE S3",
     "lavoratore": "MINARDI CLAUDIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5039,8 +4976,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00564": {
-    "codice": "DPI-00564",
+  "DPI-00557": {
+    "codice": "DPI-00557",
     "dpi": "ELMETTO",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5048,8 +4985,8 @@
     "scadenza": "27/04/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00565": {
-    "codice": "DPI-00565",
+  "DPI-00558": {
+    "codice": "DPI-00558",
     "dpi": "SCARPE S3",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "SAFE - S3 SRC",
@@ -5057,17 +4994,17 @@
     "scadenza": "14/11/2029",
     "stato": "VALIDO"
   },
-  "DPI-00566": {
-    "codice": "DPI-00566",
+  "DPI-00559": {
+    "codice": "DPI-00559",
     "dpi": "APVR 3M 6000 FULL",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "3M 6000 PIENOFACCIALE",
     "dataConsegna": "21/02/2023",
-    "scadenza": "21/02/2033",
-    "stato": "VALIDO"
+    "scadenza": "",
+    "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00567": {
-    "codice": "DPI-00567",
+  "DPI-00560": {
+    "codice": "DPI-00560",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5075,8 +5012,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00568": {
-    "codice": "DPI-00568",
+  "DPI-00561": {
+    "codice": "DPI-00561",
     "dpi": "STIVALE S3",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5084,8 +5021,8 @@
     "scadenza": "27/04/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00569": {
-    "codice": "DPI-00569",
+  "DPI-00562": {
+    "codice": "DPI-00562",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "3M - OPTIME PELTRON I",
@@ -5093,8 +5030,8 @@
     "scadenza": "27/04/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00570": {
-    "codice": "DPI-00570",
+  "DPI-00563": {
+    "codice": "DPI-00563",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MIOTTO GABRIELE",
     "marca": "ROSSINI - TPS",
@@ -5120,8 +5057,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00573": {
-    "codice": "DPI-00573",
+  "DPI-00566": {
+    "codice": "DPI-00566",
     "dpi": "ELMETTO",
     "lavoratore": "MOLINARI ROBERTO ALESSANDRO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5129,8 +5066,8 @@
     "scadenza": "25/02/2022",
     "stato": "SCADUTO"
   },
-  "DPI-00574": {
-    "codice": "DPI-00574",
+  "DPI-00567": {
+    "codice": "DPI-00567",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MOLINARI ROBERTO ALESSANDRO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5138,8 +5075,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00575": {
-    "codice": "DPI-00575",
+  "DPI-00568": {
+    "codice": "DPI-00568",
     "dpi": "SCARPE S3",
     "lavoratore": "MOLINARI ROBERTO ALESSANDRO",
     "marca": "SAFE - S3 SRC",
@@ -5147,8 +5084,8 @@
     "scadenza": "22/02/2029",
     "stato": "VALIDO"
   },
-  "DPI-00576": {
-    "codice": "DPI-00576",
+  "DPI-00569": {
+    "codice": "DPI-00569",
     "dpi": "STIVALE S3",
     "lavoratore": "MOLINARI ROBERTO ALESSANDRO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5156,8 +5093,8 @@
     "scadenza": "05/12/2030",
     "stato": "VALIDO"
   },
-  "DPI-00577": {
-    "codice": "DPI-00577",
+  "DPI-00570": {
+    "codice": "DPI-00570",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MOLINARI ROBERTO ALESSANDRO",
     "marca": "ROSSINI - TPS",
@@ -5183,8 +5120,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00580": {
-    "codice": "DPI-00580",
+  "DPI-00573": {
+    "codice": "DPI-00573",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "MONTE MATTEO",
     "marca": "ROSSINI - TPS",
@@ -5192,8 +5129,8 @@
     "scadenza": "06/03/2036",
     "stato": "VALIDO"
   },
-  "DPI-00581": {
-    "codice": "DPI-00581",
+  "DPI-00574": {
+    "codice": "DPI-00574",
     "dpi": "SCARPE S3",
     "lavoratore": "MONTE MATTEO",
     "marca": "SAFE - S3 SRC",
@@ -5201,8 +5138,8 @@
     "scadenza": "06/03/2031",
     "stato": "VALIDO"
   },
-  "DPI-00582": {
-    "codice": "DPI-00582",
+  "DPI-00575": {
+    "codice": "DPI-00575",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "MONTE MATTEO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5210,8 +5147,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00583": {
-    "codice": "DPI-00583",
+  "DPI-00576": {
+    "codice": "DPI-00576",
     "dpi": "ELMETTO",
     "lavoratore": "MONTE MATTEO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5237,8 +5174,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00586": {
-    "codice": "DPI-00586",
+  "DPI-00579": {
+    "codice": "DPI-00579",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "NATALE GAETANO",
     "marca": "ROSSINI - TPS",
@@ -5246,8 +5183,8 @@
     "scadenza": "01/08/2034",
     "stato": "VALIDO"
   },
-  "DPI-00587": {
-    "codice": "DPI-00587",
+  "DPI-00580": {
+    "codice": "DPI-00580",
     "dpi": "SCARPE S3",
     "lavoratore": "NATALE GAETANO",
     "marca": "SAFE - S3 SRC",
@@ -5255,8 +5192,8 @@
     "scadenza": "01/08/2029",
     "stato": "VALIDO"
   },
-  "DPI-00588": {
-    "codice": "DPI-00588",
+  "DPI-00581": {
+    "codice": "DPI-00581",
     "dpi": "STIVALE S3",
     "lavoratore": "NATALE GAETANO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5264,8 +5201,8 @@
     "scadenza": "01/08/2029",
     "stato": "VALIDO"
   },
-  "DPI-00589": {
-    "codice": "DPI-00589",
+  "DPI-00582": {
+    "codice": "DPI-00582",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "NATALE GAETANO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5273,8 +5210,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00590": {
-    "codice": "DPI-00590",
+  "DPI-00583": {
+    "codice": "DPI-00583",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "NATALE GAETANO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -5282,8 +5219,8 @@
     "scadenza": "01/08/2034",
     "stato": "VALIDO"
   },
-  "DPI-00591": {
-    "codice": "DPI-00591",
+  "DPI-00584": {
+    "codice": "DPI-00584",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "NATALE GAETANO",
     "marca": "3M - OPTIME PELTRON I",
@@ -5291,8 +5228,8 @@
     "scadenza": "01/08/2029",
     "stato": "VALIDO"
   },
-  "DPI-00592": {
-    "codice": "DPI-00592",
+  "DPI-00585": {
+    "codice": "DPI-00585",
     "dpi": "GILET",
     "lavoratore": "NATALE GAETANO",
     "marca": "ALTA VISIBILITA'",
@@ -5318,8 +5255,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00595": {
-    "codice": "DPI-00595",
+  "DPI-00588": {
+    "codice": "DPI-00588",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "ROSSINI - TPS",
@@ -5327,8 +5264,8 @@
     "scadenza": "07/08/2033",
     "stato": "VALIDO"
   },
-  "DPI-00596": {
-    "codice": "DPI-00596",
+  "DPI-00589": {
+    "codice": "DPI-00589",
     "dpi": "SCARPE S3",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "SAFE - S3 SRC",
@@ -5336,8 +5273,8 @@
     "scadenza": "07/08/2028",
     "stato": "VALIDO"
   },
-  "DPI-00597": {
-    "codice": "DPI-00597",
+  "DPI-00590": {
+    "codice": "DPI-00590",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5345,8 +5282,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00598": {
-    "codice": "DPI-00598",
+  "DPI-00591": {
+    "codice": "DPI-00591",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "",
@@ -5354,8 +5291,8 @@
     "scadenza": "07/08/2028",
     "stato": "VALIDO"
   },
-  "DPI-00599": {
-    "codice": "DPI-00599",
+  "DPI-00592": {
+    "codice": "DPI-00592",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -5363,8 +5300,8 @@
     "scadenza": "07/08/2033",
     "stato": "VALIDO"
   },
-  "DPI-00600": {
-    "codice": "DPI-00600",
+  "DPI-00593": {
+    "codice": "DPI-00593",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "3M - OPTIME PELTRON I",
@@ -5372,8 +5309,8 @@
     "scadenza": "07/08/2028",
     "stato": "VALIDO"
   },
-  "DPI-00601": {
-    "codice": "DPI-00601",
+  "DPI-00594": {
+    "codice": "DPI-00594",
     "dpi": "ELMETTO",
     "lavoratore": "OBBADI ZACCARIA",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5399,8 +5336,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00604": {
-    "codice": "DPI-00604",
+  "DPI-00597": {
+    "codice": "DPI-00597",
     "dpi": "SCARPE S3",
     "lavoratore": "OPPICI EZIO",
     "marca": "SAFE - S3 SRC",
@@ -5408,8 +5345,8 @@
     "scadenza": "27/01/2031",
     "stato": "VALIDO"
   },
-  "DPI-00605": {
-    "codice": "DPI-00605",
+  "DPI-00598": {
+    "codice": "DPI-00598",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "OPPICI EZIO",
     "marca": "",
@@ -5417,8 +5354,8 @@
     "scadenza": "07/06/2028",
     "stato": "VALIDO"
   },
-  "DPI-00606": {
-    "codice": "DPI-00606",
+  "DPI-00599": {
+    "codice": "DPI-00599",
     "dpi": "TUTA INTERA",
     "lavoratore": "OPPICI EZIO",
     "marca": "",
@@ -5426,8 +5363,8 @@
     "scadenza": "18/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00607": {
-    "codice": "DPI-00607",
+  "DPI-00600": {
+    "codice": "DPI-00600",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "OPPICI EZIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5435,8 +5372,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00608": {
-    "codice": "DPI-00608",
+  "DPI-00601": {
+    "codice": "DPI-00601",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "OPPICI EZIO",
     "marca": "",
@@ -5444,8 +5381,8 @@
     "scadenza": "18/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00609": {
-    "codice": "DPI-00609",
+  "DPI-00602": {
+    "codice": "DPI-00602",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "OPPICI EZIO",
     "marca": "3M - OPTIME PELTRON I",
@@ -5453,8 +5390,8 @@
     "scadenza": "07/06/2028",
     "stato": "VALIDO"
   },
-  "DPI-00610": {
-    "codice": "DPI-00610",
+  "DPI-00603": {
+    "codice": "DPI-00603",
     "dpi": "STIVALE S3",
     "lavoratore": "OPPICI EZIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5462,8 +5399,8 @@
     "scadenza": "11/01/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00611": {
-    "codice": "DPI-00611",
+  "DPI-00604": {
+    "codice": "DPI-00604",
     "dpi": "ELMETTO",
     "lavoratore": "OPPICI EZIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5489,8 +5426,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00614": {
-    "codice": "DPI-00614",
+  "DPI-00607": {
+    "codice": "DPI-00607",
     "dpi": "STIVALE S3",
     "lavoratore": "PANIGONI GABRIELE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5498,8 +5435,8 @@
     "scadenza": "04/04/2027",
     "stato": "VALIDO"
   },
-  "DPI-00615": {
-    "codice": "DPI-00615",
+  "DPI-00608": {
+    "codice": "DPI-00608",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "PANIGONI GABRIELE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5507,26 +5444,17 @@
     "scadenza": "06/03/2031",
     "stato": "VALIDO"
   },
-  "DPI-00616": {
-    "codice": "DPI-00616",
-    "dpi": "GUANTI IN CROSTA",
-    "lavoratore": "PANIGONI GABRIELE",
-    "marca": "WURTH - FIORE/CROSTA EN388",
-    "dataConsegna": "01/10/2025",
-    "scadenza": "01/10/2030",
-    "stato": "VALIDO"
-  },
-  "DPI-00617": {
-    "codice": "DPI-00617",
+  "DPI-00609": {
+    "codice": "DPI-00609",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "PANIGONI GABRIELE",
     "marca": "ROSSINI - TPS",
-    "dataConsegna": "",
-    "scadenza": "",
-    "stato": "SCADENZA NON PRESENTE"
+    "dataConsegna": "02/10/2025",
+    "scadenza": "02/10/2035",
+    "stato": "VALIDO"
   },
-  "DPI-00618": {
-    "codice": "DPI-00618",
+  "DPI-00610": {
+    "codice": "DPI-00610",
     "dpi": "ELMETTO",
     "lavoratore": "PANIGONI GABRIELE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5552,8 +5480,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00621": {
-    "codice": "DPI-00621",
+  "DPI-00613": {
+    "codice": "DPI-00613",
     "dpi": "ELMETTO",
     "lavoratore": "PASINI STEFANO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5561,8 +5489,8 @@
     "scadenza": "16/04/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00622": {
-    "codice": "DPI-00622",
+  "DPI-00614": {
+    "codice": "DPI-00614",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "PASINI STEFANO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5570,8 +5498,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00623": {
-    "codice": "DPI-00623",
+  "DPI-00615": {
+    "codice": "DPI-00615",
     "dpi": "SCARPE S3",
     "lavoratore": "PASINI STEFANO",
     "marca": "SAFE - S3 SRC",
@@ -5579,8 +5507,8 @@
     "scadenza": "16/04/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00624": {
-    "codice": "DPI-00624",
+  "DPI-00616": {
+    "codice": "DPI-00616",
     "dpi": "CAMICIA",
     "lavoratore": "PASINI STEFANO",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -5588,8 +5516,8 @@
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00625": {
-    "codice": "DPI-00625",
+  "DPI-00617": {
+    "codice": "DPI-00617",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "PASINI STEFANO",
     "marca": "ROSSINI - TPS",
@@ -5615,8 +5543,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00628": {
-    "codice": "DPI-00628",
+  "DPI-00620": {
+    "codice": "DPI-00620",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5624,8 +5552,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00629": {
-    "codice": "DPI-00629",
+  "DPI-00621": {
+    "codice": "DPI-00621",
     "dpi": "SCARPE S3",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "SAFE - S3 SRC",
@@ -5633,8 +5561,8 @@
     "scadenza": "17/12/2026",
     "stato": "VALIDO"
   },
-  "DPI-00630": {
-    "codice": "DPI-00630",
+  "DPI-00622": {
+    "codice": "DPI-00622",
     "dpi": "ALTRO DPI",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "GREMBIULE SALDATURA",
@@ -5642,8 +5570,8 @@
     "scadenza": "20/03/2034",
     "stato": "VALIDO"
   },
-  "DPI-00631": {
-    "codice": "DPI-00631",
+  "DPI-00623": {
+    "codice": "DPI-00623",
     "dpi": "PILE",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "",
@@ -5651,8 +5579,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00632": {
-    "codice": "DPI-00632",
+  "DPI-00624": {
+    "codice": "DPI-00624",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -5660,8 +5588,8 @@
     "scadenza": "16/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00633": {
-    "codice": "DPI-00633",
+  "DPI-00625": {
+    "codice": "DPI-00625",
     "dpi": "STIVALE S3",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5669,8 +5597,8 @@
     "scadenza": "14/10/2029",
     "stato": "VALIDO"
   },
-  "DPI-00634": {
-    "codice": "DPI-00634",
+  "DPI-00626": {
+    "codice": "DPI-00626",
     "dpi": "GUANTI CALORE",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "",
@@ -5678,8 +5606,8 @@
     "scadenza": "13/07/2031",
     "stato": "VALIDO"
   },
-  "DPI-00635": {
-    "codice": "DPI-00635",
+  "DPI-00627": {
+    "codice": "DPI-00627",
     "dpi": "ELMETTO",
     "lavoratore": "PEGORARO DANIELE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -5696,8 +5624,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00637": {
-    "codice": "DPI-00637",
+  "DPI-00629": {
+    "codice": "DPI-00629",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "PEROTTI STEFANO",
     "marca": "",
@@ -5741,8 +5669,8 @@
     "scadenza": "08/02/2026",
     "stato": "SCADUTO"
   },
-  "DPI-00690": {
-    "codice": "DPI-00690",
+  "DPI-00801": {
+    "codice": "DPI-00801",
     "dpi": "SCARPE S3",
     "lavoratore": "PEROTTI STEFANO",
     "marca": "SAFE - S3 SRC",
@@ -5768,8 +5696,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00645": {
-    "codice": "DPI-00645",
+  "DPI-00637": {
+    "codice": "DPI-00637",
     "dpi": "SCARPE S3",
     "lavoratore": "PISANO OTTAVIO",
     "marca": "SAFE - S3 SRC",
@@ -5795,8 +5723,8 @@
     "scadenza": "22/11/2026",
     "stato": "VALIDO"
   },
-  "DPI-00661": {
-    "codice": "DPI-00661",
+  "DPI-00802": {
+    "codice": "DPI-00802",
     "dpi": "STIVALE S3",
     "lavoratore": "PISANO OTTAVIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5813,8 +5741,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00690": {
-    "codice": "DPI-00690",
+  "DPI-00803": {
+    "codice": "DPI-00803",
     "dpi": "MAGLIETTA",
     "lavoratore": "PISANO OTTAVIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -5831,8 +5759,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00652": {
-    "codice": "DPI-00652",
+  "DPI-00644": {
+    "codice": "DPI-00644",
     "dpi": "STIVALE S3",
     "lavoratore": "PLANTA FRANCESCO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5840,8 +5768,8 @@
     "scadenza": "12/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00660": {
-    "codice": "DPI-00660",
+  "DPI-00804": {
+    "codice": "DPI-00804",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "PLANTA FRANCESCO",
     "marca": "",
@@ -5858,8 +5786,8 @@
     "scadenza": "Errore 2015",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00660": {
-    "codice": "DPI-00660",
+  "DPI-00805": {
+    "codice": "DPI-00805",
     "dpi": "SCARPE S3",
     "lavoratore": "PLANTA FRANCESCO",
     "marca": "SAFE - S3 SRC",
@@ -5867,8 +5795,8 @@
     "scadenza": "13/05/2029",
     "stato": "VALIDO"
   },
-  "DPI-00661": {
-    "codice": "DPI-00661",
+  "DPI-00806": {
+    "codice": "DPI-00806",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "PLANTA FRANCESCO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5876,8 +5804,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00689": {
-    "codice": "DPI-00689",
+  "DPI-00807": {
+    "codice": "DPI-00807",
     "dpi": "MAGLIETTA",
     "lavoratore": "PLANTA FRANCESCO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -5894,8 +5822,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00659": {
-    "codice": "DPI-00659",
+  "DPI-00651": {
+    "codice": "DPI-00651",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "PLANTA MAURO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -5912,8 +5840,8 @@
     "scadenza": "07/05/2027",
     "stato": "VALIDO"
   },
-  "DPI-00685": {
-    "codice": "DPI-00685",
+  "DPI-00808": {
+    "codice": "DPI-00808",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "PLANTA MAURO",
     "marca": "",
@@ -5939,8 +5867,8 @@
     "scadenza": "18/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00688": {
-    "codice": "DPI-00688",
+  "DPI-00809": {
+    "codice": "DPI-00809",
     "dpi": "MAGLIETTA",
     "lavoratore": "PLANTA MAURO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -5957,8 +5885,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00666": {
-    "codice": "DPI-00666",
+  "DPI-00810": {
+    "codice": "DPI-00810",
     "dpi": "APVR 3M 6000 HALF",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "3M 6000 SEMIMASCHERA",
@@ -5966,8 +5894,8 @@
     "scadenza": "",
     "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00667": {
-    "codice": "DPI-00667",
+  "DPI-00811": {
+    "codice": "DPI-00811",
     "dpi": "SCARPE S3",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "SAFE - S3 SRC",
@@ -5975,8 +5903,8 @@
     "scadenza": "05/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00668": {
-    "codice": "DPI-00668",
+  "DPI-00812": {
+    "codice": "DPI-00812",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -5984,8 +5912,8 @@
     "scadenza": "22/04/2032",
     "stato": "VALIDO"
   },
-  "DPI-00669": {
-    "codice": "DPI-00669",
+  "DPI-00813": {
+    "codice": "DPI-00813",
     "dpi": "STIVALE S3",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -5993,8 +5921,8 @@
     "scadenza": "06/03/2031",
     "stato": "VALIDO"
   },
-  "DPI-00659": {
-    "codice": "DPI-00659",
+  "DPI-00814": {
+    "codice": "DPI-00814",
     "dpi": "ELMETTO",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6002,8 +5930,8 @@
     "scadenza": "05/07/2027",
     "stato": "VALIDO"
   },
-  "DPI-00660": {
-    "codice": "DPI-00660",
+  "DPI-00815": {
+    "codice": "DPI-00815",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6011,8 +5939,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00687": {
-    "codice": "DPI-00687",
+  "DPI-00816": {
+    "codice": "DPI-00816",
     "dpi": "MAGLIETTA",
     "lavoratore": "QUAGLIA MATTEO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6029,8 +5957,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00674": {
-    "codice": "DPI-00674",
+  "DPI-00817": {
+    "codice": "DPI-00817",
     "dpi": "ELMETTO",
     "lavoratore": "ROMANO DARIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6038,8 +5966,8 @@
     "scadenza": "05/05/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00675": {
-    "codice": "DPI-00675",
+  "DPI-00901": {
+    "codice": "DPI-00901",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "ROMANO DARIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6047,8 +5975,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00676": {
-    "codice": "DPI-00676",
+  "DPI-00902": {
+    "codice": "DPI-00902",
     "dpi": "SCARPE S3",
     "lavoratore": "ROMANO DARIO",
     "marca": "SAFE - S3 SRC",
@@ -6056,8 +5984,8 @@
     "scadenza": "26/05/2031",
     "stato": "VALIDO"
   },
-  "DPI-00677": {
-    "codice": "DPI-00677",
+  "DPI-00903": {
+    "codice": "DPI-00903",
     "dpi": "STIVALE S3",
     "lavoratore": "ROMANO DARIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6065,8 +5993,8 @@
     "scadenza": "05/05/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00678": {
-    "codice": "DPI-00678",
+  "DPI-00904": {
+    "codice": "DPI-00904",
     "dpi": "CAMICIA",
     "lavoratore": "ROMANO DARIO",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -6074,8 +6002,8 @@
     "scadenza": "05/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00679": {
-    "codice": "DPI-00679",
+  "DPI-00905": {
+    "codice": "DPI-00905",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "ROMANO DARIO",
     "marca": "ROSSINI - TPS",
@@ -6083,8 +6011,8 @@
     "scadenza": "05/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00686": {
-    "codice": "DPI-00686",
+  "DPI-00818": {
+    "codice": "DPI-00818",
     "dpi": "MAGLIETTA",
     "lavoratore": "ROMANO DARIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6101,8 +6029,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00682": {
-    "codice": "DPI-00682",
+  "DPI-00674": {
+    "codice": "DPI-00674",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "ROSSINI - TPS",
@@ -6110,8 +6038,8 @@
     "scadenza": "12/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00683": {
-    "codice": "DPI-00683",
+  "DPI-00675": {
+    "codice": "DPI-00675",
     "dpi": "SCARPE S3",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "SAFE - S3 SRC",
@@ -6119,8 +6047,8 @@
     "scadenza": "12/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00684": {
-    "codice": "DPI-00684",
+  "DPI-00676": {
+    "codice": "DPI-00676",
     "dpi": "STIVALE S3",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6128,8 +6056,8 @@
     "scadenza": "12/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00685": {
-    "codice": "DPI-00685",
+  "DPI-00677": {
+    "codice": "DPI-00677",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -6137,8 +6065,8 @@
     "scadenza": "12/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00686": {
-    "codice": "DPI-00686",
+  "DPI-00678": {
+    "codice": "DPI-00678",
     "dpi": "ELMETTO",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6146,8 +6074,8 @@
     "scadenza": "12/10/2026",
     "stato": "VALIDO"
   },
-  "DPI-00687": {
-    "codice": "DPI-00687",
+  "DPI-00819": {
+    "codice": "DPI-00819",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6155,8 +6083,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00688": {
-    "codice": "DPI-00688",
+  "DPI-00820": {
+    "codice": "DPI-00820",
     "dpi": "CUFFIE ANTIRUMORE",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "3M - OPTIME PELTRON I",
@@ -6164,8 +6092,8 @@
     "scadenza": "02/02/2031",
     "stato": "VALIDO"
   },
-  "DPI-00685": {
-    "codice": "DPI-00685",
+  "DPI-00821": {
+    "codice": "DPI-00821",
     "dpi": "MAGLIETTA",
     "lavoratore": "ROSSI ALBERTO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6182,8 +6110,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00691": {
-    "codice": "DPI-00691",
+  "DPI-00822": {
+    "codice": "DPI-00822",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -6191,8 +6119,8 @@
     "scadenza": "01/07/2036",
     "stato": "VALIDO"
   },
-  "DPI-00692": {
-    "codice": "DPI-00692",
+  "DPI-00823": {
+    "codice": "DPI-00823",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "ROSSINI - TPS",
@@ -6200,8 +6128,8 @@
     "scadenza": "01/07/2036",
     "stato": "VALIDO"
   },
-  "DPI-00693": {
-    "codice": "DPI-00693",
+  "DPI-00824": {
+    "codice": "DPI-00824",
     "dpi": "STIVALE S3",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6209,8 +6137,8 @@
     "scadenza": "16/07/2031",
     "stato": "VALIDO"
   },
-  "DPI-00694": {
-    "codice": "DPI-00694",
+  "DPI-00825": {
+    "codice": "DPI-00825",
     "dpi": "SCARPE S3",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "SAFE - S3 SRC",
@@ -6218,8 +6146,8 @@
     "scadenza": "01/07/2031",
     "stato": "VALIDO"
   },
-  "DPI-00695": {
-    "codice": "DPI-00695",
+  "DPI-00826": {
+    "codice": "DPI-00826",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -6227,8 +6155,8 @@
     "scadenza": "01/07/2036",
     "stato": "VALIDO"
   },
-  "DPI-00696": {
-    "codice": "DPI-00696",
+  "DPI-00827": {
+    "codice": "DPI-00827",
     "dpi": "ELMETTO",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6236,8 +6164,8 @@
     "scadenza": "01/07/2029",
     "stato": "VALIDO"
   },
-  "DPI-00697": {
-    "codice": "DPI-00697",
+  "DPI-00828": {
+    "codice": "DPI-00828",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6245,8 +6173,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00684": {
-    "codice": "DPI-00684",
+  "DPI-00829": {
+    "codice": "DPI-00829",
     "dpi": "MAGLIETTA",
     "lavoratore": "SALAMONE MANUELE",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6263,8 +6191,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00700": {
-    "codice": "DPI-00700",
+  "DPI-00830": {
+    "codice": "DPI-00830",
     "dpi": "ELMETTO",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6272,17 +6200,17 @@
     "scadenza": "04/05/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00701": {
-    "codice": "DPI-00701",
+  "DPI-00831": {
+    "codice": "DPI-00831",
     "dpi": "APVR 3M 6000 FULL",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "3M 7900",
     "dataConsegna": "07/02/2016",
-    "scadenza": "07/02/2026",
-    "stato": "SCADUTO"
+    "scadenza": "",
+    "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00702": {
-    "codice": "DPI-00702",
+  "DPI-00832": {
+    "codice": "DPI-00832",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6290,8 +6218,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00703": {
-    "codice": "DPI-00703",
+  "DPI-00833": {
+    "codice": "DPI-00833",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -6299,8 +6227,8 @@
     "scadenza": "04/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00704": {
-    "codice": "DPI-00704",
+  "DPI-00834": {
+    "codice": "DPI-00834",
     "dpi": "SCARPE S3",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "SAFE - S3 SRC",
@@ -6308,8 +6236,8 @@
     "scadenza": "04/05/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00705": {
-    "codice": "DPI-00705",
+  "DPI-00835": {
+    "codice": "DPI-00835",
     "dpi": "CAMICIA",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -6317,8 +6245,8 @@
     "scadenza": "04/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00706": {
-    "codice": "DPI-00706",
+  "DPI-00836": {
+    "codice": "DPI-00836",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "ROSSINI - TPS",
@@ -6326,8 +6254,8 @@
     "scadenza": "04/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00683": {
-    "codice": "DPI-00683",
+  "DPI-00837": {
+    "codice": "DPI-00837",
     "dpi": "MAGLIETTA",
     "lavoratore": "SANDRI ALFREDO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6344,8 +6272,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00709": {
-    "codice": "DPI-00709",
+  "DPI-00838": {
+    "codice": "DPI-00838",
     "dpi": "ELMETTO",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6353,8 +6281,8 @@
     "scadenza": "22/05/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00710": {
-    "codice": "DPI-00710",
+  "DPI-00839": {
+    "codice": "DPI-00839",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6362,17 +6290,17 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00711": {
-    "codice": "DPI-00711",
+  "DPI-00840": {
+    "codice": "DPI-00840",
     "dpi": "APVR 3M 6000 FULL",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "3M 7900",
     "dataConsegna": "21/05/2015",
-    "scadenza": "21/05/2025",
-    "stato": "SCADUTO"
+    "scadenza": "",
+    "stato": "SCADENZA NON PRESENTE"
   },
-  "DPI-00712": {
-    "codice": "DPI-00712",
+  "DPI-00841": {
+    "codice": "DPI-00841",
     "dpi": "OCCHIALI SEMPLICI",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -6380,8 +6308,8 @@
     "scadenza": "22/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00713": {
-    "codice": "DPI-00713",
+  "DPI-00842": {
+    "codice": "DPI-00842",
     "dpi": "SCARPE S3",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "SAFE - S3 SRC",
@@ -6389,8 +6317,8 @@
     "scadenza": "22/05/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00714": {
-    "codice": "DPI-00714",
+  "DPI-00843": {
+    "codice": "DPI-00843",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "ROSSINI - TPS",
@@ -6398,8 +6326,8 @@
     "scadenza": "22/05/2030",
     "stato": "VALIDO"
   },
-  "DPI-00682": {
-    "codice": "DPI-00682",
+  "DPI-00844": {
+    "codice": "DPI-00844",
     "dpi": "MAGLIETTA",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6416,8 +6344,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00717": {
-    "codice": "DPI-00717",
+  "DPI-00845": {
+    "codice": "DPI-00845",
     "dpi": "ELMETTO",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6425,8 +6353,8 @@
     "scadenza": "03/06/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00718": {
-    "codice": "DPI-00718",
+  "DPI-00846": {
+    "codice": "DPI-00846",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6434,8 +6362,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00719": {
-    "codice": "DPI-00719",
+  "DPI-00847": {
+    "codice": "DPI-00847",
     "dpi": "STIVALE S3",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6443,8 +6371,8 @@
     "scadenza": "03/06/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00720": {
-    "codice": "DPI-00720",
+  "DPI-00848": {
+    "codice": "DPI-00848",
     "dpi": "CAMICIA",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "SIR - POLYTECH TRIVALENTE",
@@ -6452,8 +6380,8 @@
     "scadenza": "03/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00721": {
-    "codice": "DPI-00721",
+  "DPI-00849": {
+    "codice": "DPI-00849",
     "dpi": "TUTA INTERA",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "",
@@ -6461,8 +6389,8 @@
     "scadenza": "03/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00722": {
-    "codice": "DPI-00722",
+  "DPI-00850": {
+    "codice": "DPI-00850",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "ROSSINI - TPS",
@@ -6470,8 +6398,8 @@
     "scadenza": "03/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00681": {
-    "codice": "DPI-00681",
+  "DPI-00851": {
+    "codice": "DPI-00851",
     "dpi": "MAGLIETTA",
     "lavoratore": "SARTORI PIERLUIGI",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6488,8 +6416,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00725": {
-    "codice": "DPI-00725",
+  "DPI-00852": {
+    "codice": "DPI-00852",
     "dpi": "ELMETTO",
     "lavoratore": "SASSO  FAUSTO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6497,8 +6425,8 @@
     "scadenza": "07/11/2022",
     "stato": "SCADUTO"
   },
-  "DPI-00726": {
-    "codice": "DPI-00726",
+  "DPI-00853": {
+    "codice": "DPI-00853",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "SASSO  FAUSTO",
     "marca": "",
@@ -6506,8 +6434,8 @@
     "scadenza": "02/11/2023",
     "stato": "SCADUTO"
   },
-  "DPI-00659": {
-    "codice": "DPI-00659",
+  "DPI-00854": {
+    "codice": "DPI-00854",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "SASSO FAUSTO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6515,8 +6443,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00680": {
-    "codice": "DPI-00680",
+  "DPI-00855": {
+    "codice": "DPI-00855",
     "dpi": "MAGLIETTA",
     "lavoratore": "SASSO FAUSTO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6533,8 +6461,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00730": {
-    "codice": "DPI-00730",
+  "DPI-00906": {
+    "codice": "DPI-00906",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "SCHEMBRI ROSARIO",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -6542,8 +6470,8 @@
     "scadenza": "22/02/2033",
     "stato": "VALIDO"
   },
-  "DPI-00731": {
-    "codice": "DPI-00731",
+  "DPI-00907": {
+    "codice": "DPI-00907",
     "dpi": "SCARPE S3",
     "lavoratore": "SCHEMBRI ROSARIO",
     "marca": "SAFE - S3 SRC",
@@ -6551,8 +6479,8 @@
     "scadenza": "22/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00732": {
-    "codice": "DPI-00732",
+  "DPI-00908": {
+    "codice": "DPI-00908",
     "dpi": "STIVALE S3",
     "lavoratore": "SCHEMBRI ROSARIO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6560,8 +6488,8 @@
     "scadenza": "22/02/2028",
     "stato": "VALIDO"
   },
-  "DPI-00733": {
-    "codice": "DPI-00733",
+  "DPI-00725": {
+    "codice": "DPI-00725",
     "dpi": "ELMETTO",
     "lavoratore": "SCHEMBRI ROSARIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6587,8 +6515,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00731": {
-    "codice": "DPI-00731",
+  "DPI-00856": {
+    "codice": "DPI-00856",
     "dpi": "PILE",
     "lavoratore": "SCHEMBRI ROSARIO",
     "marca": "",
@@ -6596,8 +6524,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00737": {
-    "codice": "DPI-00737",
+  "DPI-00857": {
+    "codice": "DPI-00857",
     "dpi": "ELMETTO",
     "lavoratore": "SUMA TOMMASO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6605,8 +6533,8 @@
     "scadenza": "13/03/2029",
     "stato": "VALIDO"
   },
-  "DPI-00738": {
-    "codice": "DPI-00738",
+  "DPI-00858": {
+    "codice": "DPI-00858",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "SUMA TOMMASO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6614,8 +6542,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00739": {
-    "codice": "DPI-00739",
+  "DPI-00859": {
+    "codice": "DPI-00859",
     "dpi": "STIVALE S3",
     "lavoratore": "SUMA TOMMASO",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6623,8 +6551,8 @@
     "scadenza": "27/04/2025",
     "stato": "SCADUTO"
   },
-  "DPI-00740": {
-    "codice": "DPI-00740",
+  "DPI-00860": {
+    "codice": "DPI-00860",
     "dpi": "TUTA INTERA",
     "lavoratore": "SUMA TOMMASO",
     "marca": "",
@@ -6632,8 +6560,8 @@
     "scadenza": "26/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00741": {
-    "codice": "DPI-00741",
+  "DPI-00861": {
+    "codice": "DPI-00861",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "SUMA TOMMASO",
     "marca": "ROSSINI - TPS",
@@ -6641,8 +6569,8 @@
     "scadenza": "27/04/2030",
     "stato": "VALIDO"
   },
-  "DPI-00678": {
-    "codice": "DPI-00678",
+  "DPI-00909": {
+    "codice": "DPI-00909",
     "dpi": "MAGLIETTA",
     "lavoratore": "SUMA TOMMASO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6650,8 +6578,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00730": {
-    "codice": "DPI-00730",
+  "DPI-00862": {
+    "codice": "DPI-00862",
     "dpi": "PILE",
     "lavoratore": "SUMA TOMMASO",
     "marca": "",
@@ -6659,8 +6587,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00744": {
-    "codice": "DPI-00744",
+  "DPI-00863": {
+    "codice": "DPI-00863",
     "dpi": "SCARPE S3",
     "lavoratore": "TERRACCIANO ANTONIO",
     "marca": "SAFE - S3 SRC",
@@ -6668,8 +6596,8 @@
     "scadenza": "30/01/2031",
     "stato": "VALIDO"
   },
-  "DPI-00657": {
-    "codice": "DPI-00657",
+  "DPI-00864": {
+    "codice": "DPI-00864",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "TERRACCIANO ANTONIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6677,8 +6605,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00677": {
-    "codice": "DPI-00677",
+  "DPI-00865": {
+    "codice": "DPI-00865",
     "dpi": "MAGLIETTA",
     "lavoratore": "TERRACCIANO ANTONIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6686,8 +6614,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00729": {
-    "codice": "DPI-00729",
+  "DPI-00866": {
+    "codice": "DPI-00866",
     "dpi": "PILE",
     "lavoratore": "TERRACCIANO ANTONIO",
     "marca": "",
@@ -6695,8 +6623,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00748": {
-    "codice": "DPI-00748",
+  "DPI-00867": {
+    "codice": "DPI-00867",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "TONOLLI LUCA",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -6704,8 +6632,8 @@
     "scadenza": "25/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00749": {
-    "codice": "DPI-00749",
+  "DPI-00868": {
+    "codice": "DPI-00868",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "TONOLLI LUCA",
     "marca": "ROSSINI - TPS",
@@ -6713,8 +6641,8 @@
     "scadenza": "25/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00750": {
-    "codice": "DPI-00750",
+  "DPI-00869": {
+    "codice": "DPI-00869",
     "dpi": "SCARPE S3",
     "lavoratore": "TONOLLI LUCA",
     "marca": "SAFE - S3 SRC",
@@ -6722,8 +6650,8 @@
     "scadenza": "25/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00751": {
-    "codice": "DPI-00751",
+  "DPI-00870": {
+    "codice": "DPI-00870",
     "dpi": "STIVALE S3",
     "lavoratore": "TONOLLI LUCA",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6731,8 +6659,8 @@
     "scadenza": "25/10/2028",
     "stato": "VALIDO"
   },
-  "DPI-00752": {
-    "codice": "DPI-00752",
+  "DPI-00871": {
+    "codice": "DPI-00871",
     "dpi": "OCCHIALI",
     "lavoratore": "TONOLLI LUCA",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -6740,8 +6668,8 @@
     "scadenza": "25/10/2033",
     "stato": "VALIDO"
   },
-  "DPI-00753": {
-    "codice": "DPI-00753",
+  "DPI-00872": {
+    "codice": "DPI-00872",
     "dpi": "ELMETTO",
     "lavoratore": "TONOLLI LUCA",
     "marca": "3M - OPTIME PELTRON I",
@@ -6758,8 +6686,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00676": {
-    "codice": "DPI-00676",
+  "DPI-00873": {
+    "codice": "DPI-00873",
     "dpi": "MAGLIETTA",
     "lavoratore": "TONOLLI LUCA",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6767,8 +6695,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00728": {
-    "codice": "DPI-00728",
+  "DPI-00874": {
+    "codice": "DPI-00874",
     "dpi": "PILE",
     "lavoratore": "TONOLLI LUCA",
     "marca": "",
@@ -6776,8 +6704,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00757": {
-    "codice": "DPI-00757",
+  "DPI-00875": {
+    "codice": "DPI-00875",
     "dpi": "GIACCA + PANTALONE JEANS",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "COFRA - ANIS V265 ANES V263",
@@ -6785,8 +6713,8 @@
     "scadenza": "03/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00758": {
-    "codice": "DPI-00758",
+  "DPI-00876": {
+    "codice": "DPI-00876",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "ROSSINI - TPS",
@@ -6794,8 +6722,8 @@
     "scadenza": "03/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00759": {
-    "codice": "DPI-00759",
+  "DPI-00877": {
+    "codice": "DPI-00877",
     "dpi": "SCARPE S3",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "SAFE - S3 SRC",
@@ -6803,8 +6731,8 @@
     "scadenza": "03/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00760": {
-    "codice": "DPI-00760",
+  "DPI-00878": {
+    "codice": "DPI-00878",
     "dpi": "STIVALE S3",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "COFRA - Abu Dhabi S3 CI SRC",
@@ -6812,8 +6740,8 @@
     "scadenza": "03/06/2030",
     "stato": "VALIDO"
   },
-  "DPI-00761": {
-    "codice": "DPI-00761",
+  "DPI-00879": {
+    "codice": "DPI-00879",
     "dpi": "OCCHIALI",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "MSA - PERSPECTA 010 EN166",
@@ -6821,8 +6749,8 @@
     "scadenza": "03/06/2035",
     "stato": "VALIDO"
   },
-  "DPI-00762": {
-    "codice": "DPI-00762",
+  "DPI-00880": {
+    "codice": "DPI-00880",
     "dpi": "ELMETTO",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "3M - OPTIME PELTRON I",
@@ -6839,8 +6767,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00675": {
-    "codice": "DPI-00675",
+  "DPI-00881": {
+    "codice": "DPI-00881",
     "dpi": "MAGLIETTA",
     "lavoratore": "UGLIETTI DAVIDE",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6857,8 +6785,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00766": {
-    "codice": "DPI-00766",
+  "DPI-00882": {
+    "codice": "DPI-00882",
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "VIRGALLITO SAVERIO",
     "marca": "ROSSINI - TPS",
@@ -6866,8 +6794,8 @@
     "scadenza": "10/11/2035",
     "stato": "VALIDO"
   },
-  "DPI-00767": {
-    "codice": "DPI-00767",
+  "DPI-00883": {
+    "codice": "DPI-00883",
     "dpi": "GUANTI IN CROSTA",
     "lavoratore": "VIRGALLITO SAVERIO",
     "marca": "WURTH - FIORE/CROSTA EN388",
@@ -6875,8 +6803,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00768": {
-    "codice": "DPI-00768",
+  "DPI-00884": {
+    "codice": "DPI-00884",
     "dpi": "ELMETTO",
     "lavoratore": "VIRGALLITO SAVERIO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6884,8 +6812,8 @@
     "scadenza": "10/11/2028",
     "stato": "VALIDO"
   },
-  "DPI-00674": {
-    "codice": "DPI-00674",
+  "DPI-00885": {
+    "codice": "DPI-00885",
     "dpi": "MAGLIETTA",
     "lavoratore": "VIRGALLITO SAVERIO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6902,8 +6830,8 @@
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
   },
-  "DPI-00771": {
-    "codice": "DPI-00771",
+  "DPI-00886": {
+    "codice": "DPI-00886",
     "dpi": "ELMETTO",
     "lavoratore": "ZUIN LEONARDO",
     "marca": "SIR - EVEREST - EN397/EN50365",
@@ -6920,8 +6848,8 @@
     "scadenza": "01/10/2030",
     "stato": "VALIDO"
   },
-  "DPI-00673": {
-    "codice": "DPI-00673",
+  "DPI-00887": {
+    "codice": "DPI-00887",
     "dpi": "MAGLIETTA",
     "lavoratore": "ZUIN LEONARDO",
     "marca": "WURTH - LOGO CII ALTA VISIBILITA'",
@@ -6929,8 +6857,8 @@
     "scadenza": "10/08/2036",
     "stato": "VALIDO"
   },
-  "DPI-00725": {
-    "codice": "DPI-00725",
+  "DPI-00910": {
+    "codice": "DPI-00910",
     "dpi": "PILE",
     "lavoratore": "ZUIN LEONARDO",
     "marca": "",
