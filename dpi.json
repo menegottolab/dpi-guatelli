@@ -30,7 +30,7 @@
     "codice": "DPI-00007",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "AFRICANO AGOSTINO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "29/05/2023",
     "scadenza": "29/05/2028",
     "stato": "VALIDO"
@@ -39,7 +39,7 @@
     "codice": "DPI-00008",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "AFRICANO AGOSTINO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "03/09/2025",
     "scadenza": "03/09/2030",
     "stato": "VALIDO"
@@ -129,7 +129,7 @@
     "codice": "DPI-00018",
     "dpi": "FFP2/FFP3",
     "lavoratore": "AFRICANO AGOSTINO",
-    "marca": "",
+    "marca": "3M",
     "dataConsegna": "14/04/2026",
     "scadenza": "14/04/2031",
     "stato": "VALIDO"
@@ -138,7 +138,7 @@
     "codice": "DPI-00019",
     "dpi": "PILE",
     "lavoratore": "AFRICANO AGOSTINO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -255,7 +255,7 @@
     "codice": "DPI-00032",
     "dpi": "PILE",
     "lavoratore": "AGOSTINO PASQUALE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -345,7 +345,7 @@
     "codice": "DPI-00785",
     "dpi": "PILE",
     "lavoratore": "AVANZO MORENO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -363,7 +363,7 @@
     "codice": "DPI-00044",
     "dpi": "PILE",
     "lavoratore": "ARESU ANDREA",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -372,7 +372,7 @@
     "codice": "DPI-00045",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "ARESU ANDREA",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "18/12/2023",
     "scadenza": "18/12/2028",
     "stato": "VALIDO"
@@ -435,7 +435,7 @@
     "codice": "DPI-00052",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "ARESU ANDREA",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "29/09/2025",
     "scadenza": "29/09/2030",
     "stato": "VALIDO"
@@ -534,7 +534,7 @@
     "codice": "DPI-00063",
     "dpi": "PILE",
     "lavoratore": "BABAJ ASTRIT",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -597,7 +597,7 @@
     "codice": "DPI-00070",
     "dpi": "TUTA INTERA",
     "lavoratore": "BERNARDI GIANFRANCO",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "15/10/2024",
     "scadenza": "15/10/2034",
     "stato": "VALIDO"
@@ -615,7 +615,7 @@
     "codice": "DPI-00072",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "BERNARDI GIANFRANCO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "16/04/2025",
     "scadenza": "16/04/2030",
     "stato": "VALIDO"
@@ -633,7 +633,7 @@
     "codice": "DPI-00784",
     "dpi": "PILE",
     "lavoratore": "BERNARDI GIANFRANCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -687,7 +687,7 @@
     "codice": "DPI-00080",
     "dpi": "PILE",
     "lavoratore": "BERNASCONE FABRIZIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -696,7 +696,7 @@
     "codice": "DPI-00081",
     "dpi": "GUANTI CALORE",
     "lavoratore": "BERNASCONE FABRIZIO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "15/11/2023",
     "scadenza": "15/11/2028",
     "stato": "VALIDO"
@@ -813,7 +813,7 @@
     "codice": "DPI-00094",
     "dpi": "PILE",
     "lavoratore": "BETTI MARCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -903,7 +903,7 @@
     "codice": "DPI-00783",
     "dpi": "PILE",
     "lavoratore": "BELLINI FAUSTO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -930,7 +930,7 @@
     "codice": "DPI-00107",
     "dpi": "PILE",
     "lavoratore": "BIFARELLA FILIPPO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -984,7 +984,7 @@
     "codice": "DPI-00113",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "BIFARELLA FILIPPO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "14/10/2022",
     "scadenza": "14/10/2027",
     "stato": "VALIDO"
@@ -1074,7 +1074,7 @@
     "codice": "DPI-00123",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "BOFFINO DIEGO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "14/10/2021",
     "scadenza": "14/10/2026",
     "stato": "VALIDO"
@@ -1128,7 +1128,7 @@
     "codice": "DPI-00782",
     "dpi": "PILE",
     "lavoratore": "BOFFINO DIEGO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1191,7 +1191,7 @@
     "codice": "DPI-00781",
     "dpi": "PILE",
     "lavoratore": "BOTEZATU ALESU IONUT",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1236,7 +1236,7 @@
     "codice": "DPI-00141",
     "dpi": "PILE",
     "lavoratore": "BRICCO OSVALDO PACIFICO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1353,7 +1353,7 @@
     "codice": "DPI-00780",
     "dpi": "PILE",
     "lavoratore": "BUCHICCHIO STEFANO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1434,7 +1434,7 @@
     "codice": "DPI-00779",
     "dpi": "PILE",
     "lavoratore": "BULBARELLO CLAUDIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1461,7 +1461,7 @@
     "codice": "DPI-00166",
     "dpi": "PILE",
     "lavoratore": "CACCIA DIEGO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1515,7 +1515,7 @@
     "codice": "DPI-00172",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "CACCIA FABIO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "08/03/2024",
     "scadenza": "08/03/2029",
     "stato": "VALIDO"
@@ -1533,7 +1533,7 @@
     "codice": "DPI-00174",
     "dpi": "PILE",
     "lavoratore": "CACCIA FABIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1605,7 +1605,7 @@
     "codice": "DPI-00182",
     "dpi": "PILE",
     "lavoratore": "CADEDDU ALESSIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1686,7 +1686,7 @@
     "codice": "DPI-00191",
     "dpi": "PILE",
     "lavoratore": "CAPRARO ROSARIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1713,7 +1713,7 @@
     "codice": "DPI-00194",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "CAPRARO ROSARIO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "25/09/2024",
     "scadenza": "25/09/2029",
     "stato": "VALIDO"
@@ -1839,7 +1839,7 @@
     "codice": "DPI-00778",
     "dpi": "PILE",
     "lavoratore": "CARAVETTA SALVATORE PAOLO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1884,7 +1884,7 @@
     "codice": "DPI-00777",
     "dpi": "PILE",
     "lavoratore": "CASTANGIA IVAN ALESSIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1947,7 +1947,7 @@
     "codice": "DPI-00776",
     "dpi": "PILE",
     "lavoratore": "CHIAFFARATA GIACOMO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -1992,7 +1992,7 @@
     "codice": "DPI-00225",
     "dpi": "PILE",
     "lavoratore": "COCCHIARA MARCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2001,7 +2001,7 @@
     "codice": "DPI-00226",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "COCCHIARA MARCO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "13/12/2022",
     "scadenza": "13/12/2027",
     "stato": "VALIDO"
@@ -2073,7 +2073,7 @@
     "codice": "DPI-00234",
     "dpi": "GUANTI CALORE",
     "lavoratore": "COLLURA DINO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "24/10/2024",
     "scadenza": "24/10/2029",
     "stato": "VALIDO"
@@ -2091,7 +2091,7 @@
     "codice": "DPI-00236",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "COLLURA DINO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "27/04/2022",
     "scadenza": "27/04/2027",
     "stato": "VALIDO"
@@ -2127,7 +2127,7 @@
     "codice": "DPI-00775",
     "dpi": "PILE",
     "lavoratore": "COLLURA DINO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2199,7 +2199,7 @@
     "codice": "DPI-00774",
     "dpi": "PILE",
     "lavoratore": "COLLURA FRANCESCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2262,7 +2262,7 @@
     "codice": "DPI-00773",
     "dpi": "PILE",
     "lavoratore": "CORBELLANI MARCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2379,7 +2379,7 @@
     "codice": "DPI-00772",
     "dpi": "PILE",
     "lavoratore": "CORRADI DANILO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2388,7 +2388,7 @@
     "codice": "DPI-00269",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "CORSO GREGORIO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "19/06/2026",
     "scadenza": "19/06/2031",
     "stato": "VALIDO"
@@ -2442,7 +2442,7 @@
     "codice": "DPI-00275",
     "dpi": "PILE",
     "lavoratore": "CORSO GREGORIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2514,7 +2514,7 @@
     "codice": "DPI-00771",
     "dpi": "PILE",
     "lavoratore": "DE BEI FRANCESCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2550,7 +2550,7 @@
     "codice": "DPI-00287",
     "dpi": "PILE",
     "lavoratore": "DELLA MARCA LUIGI",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2595,7 +2595,7 @@
     "codice": "DPI-00292",
     "dpi": "GUANTI CALORE",
     "lavoratore": "DI CLAUDIO ANTONIO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "21/03/2024",
     "scadenza": "21/03/2029",
     "stato": "VALIDO"
@@ -2649,7 +2649,7 @@
     "codice": "DPI-00770",
     "dpi": "PILE",
     "lavoratore": "DI CLAUDIO ANTONIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2685,7 +2685,7 @@
     "codice": "DPI-00302",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "DI PIERRO MIRKO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "19/02/2025",
     "scadenza": "19/02/2030",
     "stato": "VALIDO"
@@ -2748,7 +2748,7 @@
     "codice": "DPI-00769",
     "dpi": "PILE",
     "lavoratore": "DI PIERRO MIRKO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2784,7 +2784,7 @@
     "codice": "DPI-00313",
     "dpi": "PILE",
     "lavoratore": "DONINA GIANCARLO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2847,7 +2847,7 @@
     "codice": "DPI-00320",
     "dpi": "PILE",
     "lavoratore": "FANTINI SILVANO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2919,7 +2919,7 @@
     "codice": "DPI-00328",
     "dpi": "PILE",
     "lavoratore": "FASANO NIKOLAS",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -2973,7 +2973,7 @@
     "codice": "DPI-00334",
     "dpi": "TUTA INTERA",
     "lavoratore": "FASANO NIKOLAS",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "27/04/2020",
     "scadenza": "27/04/2030",
     "stato": "VALIDO"
@@ -3018,7 +3018,7 @@
     "codice": "DPI-00339",
     "dpi": "TUTA INTERA",
     "lavoratore": "FAZIO MASSIMO CARLINO",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "04/05/2017",
     "scadenza": "04/05/2027",
     "stato": "VALIDO"
@@ -3027,7 +3027,7 @@
     "codice": "DPI-00340",
     "dpi": "PILE",
     "lavoratore": "FAZIO MASSIMO CARLINO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3135,7 +3135,7 @@
     "codice": "DPI-00768",
     "dpi": "PILE",
     "lavoratore": "FERRO MATTIA GIOVANNI",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3162,7 +3162,7 @@
     "codice": "DPI-00355",
     "dpi": "PILE",
     "lavoratore": "FINOTTI MARCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3261,7 +3261,7 @@
     "codice": "DPI-00366",
     "dpi": "PILE",
     "lavoratore": "FITTAVOLINI GIUSEPPE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3360,7 +3360,7 @@
     "codice": "DPI-00767",
     "dpi": "PILE",
     "lavoratore": "FOGLIA MAURO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3441,7 +3441,7 @@
     "codice": "DPI-00766",
     "dpi": "PILE",
     "lavoratore": "FORMICOLA FABIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3459,7 +3459,7 @@
     "codice": "DPI-00388",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "GALLI FRANCESCO",
-    "marca": "",
+    "marca": "ANSELL",
     "dataConsegna": "30/03/2022",
     "scadenza": "30/03/2027",
     "stato": "VALIDO"
@@ -3468,7 +3468,7 @@
     "codice": "DPI-00389",
     "dpi": "GUANTI CALORE",
     "lavoratore": "GALLI FRANCESCO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "31/01/2023",
     "scadenza": "31/01/2028",
     "stato": "VALIDO"
@@ -3513,7 +3513,7 @@
     "codice": "DPI-00394",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "GALLI FRANCESCO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "17/02/2021",
     "scadenza": "17/02/2026",
     "stato": "SCADUTO"
@@ -3531,7 +3531,7 @@
     "codice": "DPI-00765",
     "dpi": "PILE",
     "lavoratore": "GALLI FRANCESCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3558,7 +3558,7 @@
     "codice": "DPI-00399",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "GAMBETTI  DUCCIO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "09/09/2025",
     "scadenza": "09/09/2030",
     "stato": "VALIDO"
@@ -3567,7 +3567,7 @@
     "codice": "DPI-00400",
     "dpi": "PILE",
     "lavoratore": "GAMBETTI  DUCCIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3603,7 +3603,7 @@
     "codice": "DPI-00404",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "GAMBETTI  DUCCIO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "30/03/2026",
     "scadenza": "30/03/2031",
     "stato": "VALIDO"
@@ -3648,7 +3648,7 @@
     "codice": "DPI-00409",
     "dpi": "PILE",
     "lavoratore": "GELATI ANDREA",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3729,7 +3729,7 @@
     "codice": "DPI-00418",
     "dpi": "PILE",
     "lavoratore": "GUATELLI  VALERIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3738,7 +3738,7 @@
     "codice": "DPI-00419",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "GUATELLI  VALERIO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "25/09/2024",
     "scadenza": "25/09/2029",
     "stato": "VALIDO"
@@ -3747,7 +3747,7 @@
     "codice": "DPI-00420",
     "dpi": "GUANTI CALORE",
     "lavoratore": "GUATELLI  VALERIO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "15/02/2022",
     "scadenza": "15/02/2027",
     "stato": "VALIDO"
@@ -3819,7 +3819,7 @@
     "codice": "DPI-00428",
     "dpi": "PILE",
     "lavoratore": "IALENTI  GIORGIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3918,7 +3918,7 @@
     "codice": "DPI-00439",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "INGRASSIA RAFFAELE",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "20/01/2026",
     "scadenza": "20/01/2031",
     "stato": "VALIDO"
@@ -3936,7 +3936,7 @@
     "codice": "DPI-00764",
     "dpi": "PILE",
     "lavoratore": "INGRASSIA RAFFAELE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -3954,7 +3954,7 @@
     "codice": "DPI-00443",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "LA MONICA FABIO",
-    "marca": "",
+    "marca": "ANSELL",
     "dataConsegna": "24/03/2025",
     "scadenza": "24/03/2030",
     "stato": "VALIDO"
@@ -3981,7 +3981,7 @@
     "codice": "DPI-00446",
     "dpi": "GUANTI CALORE",
     "lavoratore": "LA MONICA FABIO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "29/03/2023",
     "scadenza": "29/03/2028",
     "stato": "VALIDO"
@@ -4017,7 +4017,7 @@
     "codice": "DPI-00763",
     "dpi": "PILE",
     "lavoratore": "LA MONICA FABIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4089,7 +4089,7 @@
     "codice": "DPI-00762",
     "dpi": "PILE",
     "lavoratore": "LANZA VINCENZO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4161,7 +4161,7 @@
     "codice": "DPI-00761",
     "dpi": "PILE",
     "lavoratore": "LAURIERO FRANCESCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4233,7 +4233,7 @@
     "codice": "DPI-00760",
     "dpi": "PILE",
     "lavoratore": "LO BIANCO SALVATORE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4314,7 +4314,7 @@
     "codice": "DPI-00759",
     "dpi": "PILE",
     "lavoratore": "MACRI' PASQUALE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4332,7 +4332,7 @@
     "codice": "DPI-00485",
     "dpi": "PILE",
     "lavoratore": "MALCHIODI SERGIO ANTONIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4440,7 +4440,7 @@
     "codice": "DPI-00758",
     "dpi": "PILE",
     "lavoratore": "MANCIN LUDOVICO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4530,7 +4530,7 @@
     "codice": "DPI-00757",
     "dpi": "PILE",
     "lavoratore": "MANGIAMELI GABRIELE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4575,7 +4575,7 @@
     "codice": "DPI-00512",
     "dpi": "TUTA INTERA",
     "lavoratore": "MANGINI GIUSEPPE",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "03/10/2024",
     "scadenza": "03/10/2034",
     "stato": "VALIDO"
@@ -4602,7 +4602,7 @@
     "codice": "DPI-00515",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "MANGINI GIUSEPPE",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "09/04/2026",
     "scadenza": "09/04/2031",
     "stato": "VALIDO"
@@ -4620,7 +4620,7 @@
     "codice": "DPI-00756",
     "dpi": "PILE",
     "lavoratore": "MANGINI GIUSEPPE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4692,7 +4692,7 @@
     "codice": "DPI-00755",
     "dpi": "PILE",
     "lavoratore": "MARINARO GIACINTO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4719,7 +4719,7 @@
     "codice": "DPI-00528",
     "dpi": "GUANTI CALORE",
     "lavoratore": "MASSARA CLAUDIO",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "25/07/2022",
     "scadenza": "25/07/2027",
     "stato": "VALIDO"
@@ -4800,7 +4800,7 @@
     "codice": "DPI-00754",
     "dpi": "PILE",
     "lavoratore": "MASSARA CLAUDIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4854,7 +4854,7 @@
     "codice": "DPI-00543",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "MAZZAFERRO TIZIANO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "25/02/2022",
     "scadenza": "25/02/2027",
     "stato": "VALIDO"
@@ -4890,7 +4890,7 @@
     "codice": "DPI-00753",
     "dpi": "PILE",
     "lavoratore": "MAZZAFERRO TIZIANO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -4944,7 +4944,7 @@
     "codice": "DPI-00553",
     "dpi": "TUTA INTERA",
     "lavoratore": "MINARDI CLAUDIO",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "20/12/2024",
     "scadenza": "20/12/2034",
     "stato": "VALIDO"
@@ -4971,7 +4971,7 @@
     "codice": "DPI-00752",
     "dpi": "PILE",
     "lavoratore": "MINARDI CLAUDIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5052,7 +5052,7 @@
     "codice": "DPI-00751",
     "dpi": "PILE",
     "lavoratore": "MIOTTO GABRIELE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5115,7 +5115,7 @@
     "codice": "DPI-00750",
     "dpi": "PILE",
     "lavoratore": "MOLINARI ROBERTO ALESSANDRO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5169,7 +5169,7 @@
     "codice": "DPI-00749",
     "dpi": "PILE",
     "lavoratore": "MONTE MATTEO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5250,7 +5250,7 @@
     "codice": "DPI-00748",
     "dpi": "PILE",
     "lavoratore": "NATALE GAETANO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5286,7 +5286,7 @@
     "codice": "DPI-00591",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "OBBADI ZACCARIA",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "07/08/2023",
     "scadenza": "07/08/2028",
     "stato": "VALIDO"
@@ -5331,7 +5331,7 @@
     "codice": "DPI-00747",
     "dpi": "PILE",
     "lavoratore": "OBBADI ZACCARIA",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5349,7 +5349,7 @@
     "codice": "DPI-00598",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "OPPICI EZIO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "07/06/2023",
     "scadenza": "07/06/2028",
     "stato": "VALIDO"
@@ -5358,7 +5358,7 @@
     "codice": "DPI-00599",
     "dpi": "TUTA INTERA",
     "lavoratore": "OPPICI EZIO",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "18/06/2025",
     "scadenza": "18/06/2035",
     "stato": "VALIDO"
@@ -5376,7 +5376,7 @@
     "codice": "DPI-00601",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "OPPICI EZIO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "18/06/2025",
     "scadenza": "18/06/2030",
     "stato": "VALIDO"
@@ -5421,7 +5421,7 @@
     "codice": "DPI-00746",
     "dpi": "PILE",
     "lavoratore": "OPPICI EZIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5475,7 +5475,7 @@
     "codice": "DPI-00745",
     "dpi": "PILE",
     "lavoratore": "PANIGONI GABRIELE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5538,7 +5538,7 @@
     "codice": "DPI-00744",
     "dpi": "PILE",
     "lavoratore": "PASINI STEFANO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5574,7 +5574,7 @@
     "codice": "DPI-00623",
     "dpi": "PILE",
     "lavoratore": "PEGORARO DANIELE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5601,7 +5601,7 @@
     "codice": "DPI-00626",
     "dpi": "GUANTI CALORE",
     "lavoratore": "PEGORARO DANIELE",
-    "marca": "",
+    "marca": "WURTH - guanto da saldatura Tipo A",
     "dataConsegna": "13/07/2026",
     "scadenza": "13/07/2031",
     "stato": "VALIDO"
@@ -5628,7 +5628,7 @@
     "codice": "DPI-00629",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "PEROTTI STEFANO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "10/02/2026",
     "scadenza": "10/02/2031",
     "stato": "VALIDO"
@@ -5646,7 +5646,7 @@
     "codice": "DPI-00688",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "PEROTTI STEFANO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "21/05/2026",
     "scadenza": "21/05/2031",
     "stato": "VALIDO"
@@ -5691,7 +5691,7 @@
     "codice": "DPI-00743",
     "dpi": "PILE",
     "lavoratore": "PEROTTI STEFANO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5754,7 +5754,7 @@
     "codice": "DPI-00742",
     "dpi": "PILE",
     "lavoratore": "PISANO OTTAVIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5772,7 +5772,7 @@
     "codice": "DPI-00804",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "PLANTA FRANCESCO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "14/02/2022",
     "scadenza": "14/02/2027",
     "stato": "VALIDO"
@@ -5782,9 +5782,9 @@
     "dpi": "INDUMENTI TRIVALENTI",
     "lavoratore": "PLANTA FRANCESCO",
     "marca": "ROSSINI - TPS",
-    "dataConsegna": "09/01/0202",
-    "scadenza": "Errore 2015",
-    "stato": "SCADENZA NON PRESENTE"
+    "dataConsegna": "09/01/2025",
+    "scadenza": "09/01/2035",
+    "stato": "VALIDO"
   },
   "DPI-00805": {
     "codice": "DPI-00805",
@@ -5817,7 +5817,7 @@
     "codice": "DPI-00741",
     "dpi": "PILE",
     "lavoratore": "PLANTA FRANCESCO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5844,7 +5844,7 @@
     "codice": "DPI-00808",
     "dpi": "GUANTI IN VINILE",
     "lavoratore": "PLANTA MAURO",
-    "marca": "",
+    "marca": "SAFE - GUANTO CS720 - EN388 EN374 EN407",
     "dataConsegna": "19/09/2024",
     "scadenza": "19/09/2029",
     "stato": "VALIDO"
@@ -5880,7 +5880,7 @@
     "codice": "DPI-00740",
     "dpi": "PILE",
     "lavoratore": "PLANTA MAURO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -5952,7 +5952,7 @@
     "codice": "DPI-00739",
     "dpi": "PILE",
     "lavoratore": "QUAGLIA MATTEO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6024,7 +6024,7 @@
     "codice": "DPI-00738",
     "dpi": "PILE",
     "lavoratore": "ROMANO DARIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6105,7 +6105,7 @@
     "codice": "DPI-00737",
     "dpi": "PILE",
     "lavoratore": "ROSSI ALBERTO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6186,7 +6186,7 @@
     "codice": "DPI-00736",
     "dpi": "PILE",
     "lavoratore": "SALAMONE MANUELE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6267,7 +6267,7 @@
     "codice": "DPI-00735",
     "dpi": "PILE",
     "lavoratore": "SANDRI ALFREDO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6339,7 +6339,7 @@
     "codice": "DPI-00734",
     "dpi": "PILE",
     "lavoratore": "SANDRI GIUSEPPE ALFREDO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6384,7 +6384,7 @@
     "codice": "DPI-00849",
     "dpi": "TUTA INTERA",
     "lavoratore": "SARTORI PIERLUIGI",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "03/06/2020",
     "scadenza": "03/06/2030",
     "stato": "VALIDO"
@@ -6411,7 +6411,7 @@
     "codice": "DPI-00733",
     "dpi": "PILE",
     "lavoratore": "SARTORI PIERLUIGI",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6429,7 +6429,7 @@
     "codice": "DPI-00853",
     "dpi": "STIVALI GOMMA",
     "lavoratore": "SASSO  FAUSTO",
-    "marca": "",
+    "marca": "SAFE - TITAN S5 FO SR",
     "dataConsegna": "02/11/2018",
     "scadenza": "02/11/2023",
     "stato": "SCADUTO"
@@ -6456,7 +6456,7 @@
     "codice": "DPI-00732",
     "dpi": "PILE",
     "lavoratore": "SASSO FAUSTO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6519,7 +6519,7 @@
     "codice": "DPI-00856",
     "dpi": "PILE",
     "lavoratore": "SCHEMBRI ROSARIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6555,7 +6555,7 @@
     "codice": "DPI-00860",
     "dpi": "TUTA INTERA",
     "lavoratore": "SUMA TOMMASO",
-    "marca": "",
+    "marca": "BETA TOOLS  -Salopette easy legger 7863G",
     "dataConsegna": "26/04/2020",
     "scadenza": "26/04/2030",
     "stato": "VALIDO"
@@ -6582,7 +6582,7 @@
     "codice": "DPI-00862",
     "dpi": "PILE",
     "lavoratore": "SUMA TOMMASO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6618,7 +6618,7 @@
     "codice": "DPI-00866",
     "dpi": "PILE",
     "lavoratore": "TERRACCIANO ANTONIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6699,7 +6699,7 @@
     "codice": "DPI-00874",
     "dpi": "PILE",
     "lavoratore": "TONOLLI LUCA",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6780,7 +6780,7 @@
     "codice": "DPI-00727",
     "dpi": "PILE",
     "lavoratore": "UGLIETTI DAVIDE",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6825,7 +6825,7 @@
     "codice": "DPI-00726",
     "dpi": "PILE",
     "lavoratore": "VIRGALLITO SAVERIO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
@@ -6861,7 +6861,7 @@
     "codice": "DPI-00910",
     "dpi": "PILE",
     "lavoratore": "ZUIN LEONARDO",
-    "marca": "",
+    "marca": "JRC - PILE TORINO",
     "dataConsegna": "01/10/2025",
     "scadenza": "01/10/2035",
     "stato": "VALIDO"
